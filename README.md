@@ -10,7 +10,7 @@ To include this prompts library in the external project "LibreChat" using Git, f
 2. Add this repository as a subdirectory by running the following command:
 
    ```shell
-   git clone git@github.com:ClaraLeigh/PromptLibrary.git prompts/General-Library
+   git clone git@github.com:Clinteastman/libreChatPrompts.git prompts/General-Library
    ```
 
    This will clone the prompts library repository under the `/prompts/General-Library` folder of your "LibreChat" project.
