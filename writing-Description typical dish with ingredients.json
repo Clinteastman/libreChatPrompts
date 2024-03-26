@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Description typical dish with ingredients",
+    "promptPrefix": "Maintaining a fun and relaxed writing style, magazine style, you are going to create the review, the information on this dish was taken from the official website, so it is important that it be a completely original text, without resembling the description that I give you.\n\nThe structure of the article must be in the form of a list with the name of the dish in an H2, followed by a description of the dish, its origin, then the recipe of the dish with the ingredients.\n\nDish and description of it: [PROMPT]  [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Description typical dish with ingredients"
+}

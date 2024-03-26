@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "5 Best Meta Title by Adil",
+    "promptPrefix": "Your task is to write a 5 different attractive and eye catching meta title maximum 70 characters and must use the given keyword in the start not middle or end. All output should be in [TARGETLANGUAGE]. The keyword to write is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "5 Best Meta Title by Adil"
+}

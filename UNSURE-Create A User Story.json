@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create A User Story ",
+    "promptPrefix": "Write me a user stories for the user stories list: [PROMPT] All of the user stories have to have acceptance criteria \n| User Story                                                                                                                        |\n|----------------------------------------------------------------------------------------------|\n| As a [Description of user]  |                                                                                             |                                                                                                         \n| I Want [Functionality]        |                                                                                             |\n| So That [Benefit]                |                                                                                             |\n|----------------------------------------------------------------------------------------------|\n|  Acceptance Criteria                                                                                                        |\n|----------------------------------------------------------------------------------------------|\n| Given [how things begin]  |                                                                                             |                                                                                              \n| When [action taken]          |                                                                                             |\n| Outcome [action result]     |                                                                                             |\n\nPlease write in [TARGETLANGUAGE] language.\n\nThe user stories are under the table format.\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create A User Story "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create Facebook page's Set of Messages",
+    "promptPrefix": "Act as the Senior Customer Service Expert, write the set of welcome message, default reply and automated comment's reply for a fanpage. Write as friendly, helpful and value style. Start writing in order: welcome message (in max 160 characters), default reply (in max 250 characters) and automated comment's reply for any posts ( in max 300 characters).\n\nStart to write with fanpage in category of \"[PROMPT]\" with [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create Facebook page's Set of Messages"
+}

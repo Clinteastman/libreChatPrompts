@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Carousel of Marketing tips on Social Media",
+    "promptPrefix": "Your task is to create a list of 5 tips of the topic I give you. All output shall be in [TARGETLANGUAGE].\n\nFirst, generate a main title of no more than 6 words, according to the topic, followed by a catchy frase of no more than 15 words.\n\nBefore the list of tips a short resume, of no more than 30 words, must be included and each tip should include a title of 5 words maximum and the content have to be as short as 20 words maximum.\n\nEach tip have to be numbered and before the title the word \"TITULO:\" must be added; before of the tip, the word \"CONSEJO:\" must be added.\n\nGenerate a short conclussion, of no more than 30 words.\n\nNow add a separator here.\n\nNow write exactly \"DESCRIPCI\u00d3N DE LA PUBLICACI\u00d3N\".\n\nNow add another separator here.\n\nAfter that, generate a description/caption of maximum 300 words. Separated this description in sentences of no more than 30 words each and format every new sentence with new lines so the text is more readable. \nThe first caption sentence should hook the readers (spike their curiosity) and do not start the sentence with \"Are you curious\".\n\nAfter the description, generate a list of 10 hashtags.\n\nThe topic to get the tips is:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Carousel of Marketing tips on Social Media"
+}

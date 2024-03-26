@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Course Summarizer",
+    "promptPrefix": "[PROMPT]\nThis is a course transcript please point out important topics discussed and try to explain those topics in detail. [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Course Summarizer"
+}

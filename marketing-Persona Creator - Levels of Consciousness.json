@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Persona Creator - Levels of Consciousness",
+    "promptPrefix": "Create [PROMPT] personas for each level of consciousness. The 5 levels of customer awareness created by Eugene Schwartz. Introduce each persona with Demographics, Psychographics, main problem , Goals, Pain Points, Communication Preferences and Buying Habits [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Persona Creator - Levels of Consciousness"
+}

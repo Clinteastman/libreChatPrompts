@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Keyword Research",
+    "promptPrefix": "[TARGETLANGUAGE] Suppose you are a SEO expert so analyize this website [PROMPT] and give me 50 keyword related to this website",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Keyword Research"
+}

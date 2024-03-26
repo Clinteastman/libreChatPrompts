@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Pareto Principle",
+    "promptPrefix": "I wan to learn [PROMPT]. Can you use the Pareto Principle, wich identifies the 20% of the Topic that will yield 80% of the desired results, to create a focused learning plan for me?  All output schould be in the the [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Pareto Principle"
+}

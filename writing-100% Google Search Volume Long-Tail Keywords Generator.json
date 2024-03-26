@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "100% Google Search Volume Long-Tail Keywords Generator",
+    "promptPrefix": "[TARGETLANGUAGE]Make 50 Tables of Most Searched Long-tail Keywords on google Search Volume is 100 to 80 With This Keyword \"[PROMPT]\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "100% Google Search Volume Long-Tail Keywords Generator"
+}

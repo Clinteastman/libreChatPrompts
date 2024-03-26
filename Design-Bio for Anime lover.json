@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Bio for Anime lover",
+    "promptPrefix": "Your task is to write a bio for a person who has keen interest in Japanese cartoons specifically in genre of Romance, time-travel and action. All output should be in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Bio for Anime lover"
+}

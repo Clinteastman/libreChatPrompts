@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Youtube Chapters Generator",
+    "promptPrefix": "In [TARGETLANGUAGE] create a list of key moments with their coordinating time stamps where it was discussed in the video.\n\nUse this as an example for the timestamps 09:23\nTranscript: [PROMPT] \n\nWhen completed, ask for any remaining transcript for the video and then combine all parts of the transcript into 1 list of time stamps and key moments.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Youtube Chapters Generator"
+}

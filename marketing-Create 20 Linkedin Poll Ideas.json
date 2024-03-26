@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create 20 Linkedin Poll Ideas ",
+    "promptPrefix": "Your Task is write me linkedin 20 poll ideas with answers in bullet points and caption to be used with smiley and hashtags  .Ask for the business or topic on which the poll should be based after this submission and start writing the table. Write after the table , Thank you for choosing the template  with love emoji  Anzonian  [TARGETLANGUAGE]  [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create 20 Linkedin Poll Ideas "
+}

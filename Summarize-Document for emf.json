@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Document for emf",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a senior computer scientist and and high end copy writer that speak and writes fluent [TARGETLANGUAGE].I want you to pretend that you can write content so good in  [TARGETLANGUAGE] hat it can outrank other documentation officiel.\nidentify the chapter to be covered and complete each of them in [TARGETLANGUAGE] \nyour task is to officially document the text that I give you in a simple and exhaustive way. All output shall be in [TARGETLANGUAGE] . the text to document is this :\n\n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Document for emf"
+}

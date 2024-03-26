@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Captiving tik tok script",
+    "promptPrefix": "I'm tik tok user. You're going to help me. Create a short and original text, adapted for tik tok users, to capt attention and talk about a subject or a topic. This is the subject [PROMPT].\nYou will write the text in this language [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Captiving tik tok script"
+}

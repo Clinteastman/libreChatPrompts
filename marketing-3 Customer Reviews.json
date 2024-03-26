@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "3 Customer Reviews",
+    "promptPrefix": "I want you to write me 3 natural sounding customer reviews (between 40 and 100 words). They should not be written in a marketing or salesy kind of way. Each one should have its own attitude and style of writing. Some of the reviews need to include slang or abbreviations. They should all be positive, but they should have mixed levels of positivity. Every one should be + or - 5 words from the previous one. Do this in [TARGETLANGUAGE]. Here is information about the business to include in the reviews: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "3 Customer Reviews"
+}

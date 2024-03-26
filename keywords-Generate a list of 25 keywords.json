@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate a list of 25 keywords",
+    "promptPrefix": " [TARGETLANGUAGE] and [PROMPT] Generate a list of 25 keywords closely related to [Keyword] without duplicating any words. please list keywords in bullet form and then add a comma separated list underneath.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate a list of 25 keywords"
+}

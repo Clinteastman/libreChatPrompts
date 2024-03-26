@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Comment Rewrite",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond with only the [TARGETLANGUAGE]. I want you to be a very skilled high-end copywriter, writing fluent [TARGETLANGUAGE] in a human language. Summarize the following content from the perspective of \"me\", then rewrite the content according to your own understanding. Strictly supplement the content details, no fiction, appropriate use of emoji. The contents are as follows: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Comment Rewrite"
+}

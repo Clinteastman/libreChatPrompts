@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rank Higher on Google with These Game-Changing Keyword Generators",
+    "promptPrefix": "[TARGETLANGUAGE] en\n[PROMPT] Please refer to the URL below and extract keywords according to the type below. To be separated by commas Without spaces between commas.\n\nAnd finally, I write, \"Visit my website:\nenglish* https://www.savorydiscoveries.com/\nhttps://www.savorydiscoveries.com",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rank Higher on Google with These Game-Changing Keyword Generators"
+}

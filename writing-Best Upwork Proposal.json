@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Upwork Proposal",
+    "promptPrefix": "YOUR TASK IS TO MAKE THE BEST UPWORK PROPOSALS IN 200 WORDS OR MAXIMUM 500 WORDS. All output shell be in [TARGETLANGUAGE]. The topic for upwork proposal is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Upwork Proposal"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Buyer Persona",
+    "promptPrefix": "All output should be in [TARGETLANGUAGE]\n\n[PROMPT]\n\nEn tant qu'expert en marketing et en \u00e9tude de march\u00e9 sp\u00e9cialis\u00e9 dans [VOTRE DOMAINE D'ACTIVIT\u00c9], peux-tu cr\u00e9er un Buyer Persona complet pour une entreprise dont le march\u00e9 se situe dans la zone g\u00e9ographique [VOTRE ZONE G\u00c9OGRAPHIQUE] ?\n\nStructure ta r\u00e9ponse uniquement avec ces 6 parties en prenant soin de les s\u00e9parer : les crit\u00e8res socio-d\u00e9mographiques dans un tableau, une courte description du Persona, un tableau pour la psychographie, un tableau pour ses comportements d'achat, une liste des 5 probl\u00e9matiques cl\u00e9s que rencontre le Persona et pour lequel mon produit est une solution sous la forme d'une question et une liste des 5 arguments cl\u00e9s \u00e0 mettre en avant pour le convaincre d'acheter.\n\nMerci de r\u00e9diger ta r\u00e9ponse en fran\u00e7ais et de la pr\u00e9senter dans un style d'\u00e9criture analytique et s\u00e9rieux.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Buyer Persona"
+}

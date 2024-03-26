@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "[Write what you need in Excel]",
+    "promptPrefix": "You are an excel trainer, and you have to explain and resolve issue in langage [TARGETLANGUAGE]   \nFor the following  issue [PROMPT]  \n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "[Write what you need in Excel]"
+}

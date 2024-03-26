@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Page Speed ",
+    "promptPrefix": "[PROMPT] I am a developer tasked to fix an interaction to next paint error I am getting on my websites. I need to provide a solution on how to fix the code on HTTPS://www.empirestakes.com/ [TARGETLANGUAGE] English",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Page Speed "
+}

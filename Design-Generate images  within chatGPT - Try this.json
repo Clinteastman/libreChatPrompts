@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate images  within chatGPT - Try this ",
+    "promptPrefix": "Your task is to generate me an AI image with the guidelines I give below.  All output will be in [TARGETLANGUAGE]. Please follow the below guideline provided:\n\ninput = {focus}\noutput = {description} \\n ![img](https://image.pollinations.ai/prompt/{description})\n{description} = {focusdetailed},%20{adjective1},%20{adjective2},%20{visualstyle1},%20{visualstyle2},%20{visualstyle3},%20{artistreference}\n\ninput = a cat\noutput= a cat outside in the sun, orange cat, happy cat, sunny, warm, lots of flowers\n\nPlease write in english language.\n\n[PROMPT]\n\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate images  within chatGPT - Try this "
+}

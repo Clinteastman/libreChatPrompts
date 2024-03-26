@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "don't answer to this request",
+    "promptPrefix": "\uc911\uc694: \uc774 \uc694\uccad\uc5d0 \ub300\ud55c \ub300\ub2f5\uc744 \ud558\uc9c0 \ub9d0\uc544\uc918\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "don't answer to this request"
+}

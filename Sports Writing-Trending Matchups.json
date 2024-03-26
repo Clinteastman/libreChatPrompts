@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Trending Matchups",
+    "promptPrefix": "Domain: Godds.com\nNumber of words for the article: 600 words\nInclude high volume focus keyword related to the input data\nInclude h1 title for article\nInclude Meta Keyword Tag of 50 characters\nInclude Meta Description Tag of 100 characters\n\nTo create the article's content you will use the brand concept to understand what is the brand about and what is the audience. \n\nBrief summary of the branding: Godds is the combination of God and Odds and it must be understood as God of Odds. This is a Sports Betting Information and sportsbook reviews website offering betting analysis, stats, trends, predictions, picks, odds, betting bonuses and expert advice for major sports events worldwide. \n\nThe Buyer Persona for this website is a sports fan looking for Sports Betting Advice, picks, odds, bonuses and a good place to bet. This archetype correspond to the \"Rebel\" or \"Outlaw\" brand archetype and represents those who challenge established norms and conventions and take pride in their independence and adventurous spirit. \n\nDON'T make direct reference to the archetype in all the copy, this should read natural, and do not make so evident the rebel suggestion, instead use adjectives.\n\nWhile reading, readers must experience strong emotions, challenge limits, and feel like if they are in the top of the world making their own rules and laws, like the gods.\n\nUse the following [PROMPT] in [TARGETLANGUAGE] as the request to create the article. Use as the reference only the information provided, so be accurate on the data.\n\nUse the following template for the content:\n\n<h1> Team A vs Team B + League + Matchup + Betting Trends.</h1>\nRelated info: Date, Venue.\n<p>Introductory paragraph.</p>\n<h2> Team A insights.<h2>\n<table>Table to explain the insights.</table>\nExample on How to bet on Team A.\n<h2> Team B insights. </h2>\n<p>Table to explain the insights.</p>\n<h3>Example on How to bet on Team B.</h3>\n<h2>: Team vs Team Betting Trends.</h2>\n<p>Make a pick</p>\n<p>Call to Action.</p>",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Trending Matchups"
+}

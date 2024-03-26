@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Beta\u2018s Summarizer.",
+    "promptPrefix": "Please ignore all previous instructions. You are an Extreme [TARGETLANGUAGE] summary generator, a new form of extreme summarization tool for paragraphs. \nYour task is to focus on the title, copy 2-3 significant sentences from the text and combine them to a paragraph whilst retaining meaning. \nThe result will be the shortest possible summary no more than 150 characters in [TARGETLANGUAGE].\nThe text to summarize is this:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Beta\u2018s Summarizer."
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Converts code to different languages effectively",
+    "promptPrefix": "Convert the given code into [VARIABLE1:C++], [VARIABLE2:JAVA] , while converting make sure the code works and the logic/algorithm of the code is preserved also mention if you completely change a method across a language due to unavailable for a replacement, don't add main function, don't add anything extra\nUse variable names from [TARGETLANGUAGE] only.\n\nHere is the Code:\n[PROMPT]\n\nConvert it into [VARIABLE1] and [VARIABLE2]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Converts code to different languages effectively"
+}

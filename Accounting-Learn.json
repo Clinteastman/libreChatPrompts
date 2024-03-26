@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Learn",
+    "promptPrefix": "[PROMPT] EWrite a long article in [TARGETLANGUAGE] Spanish and English with a minimum of 1500 words and at least 4 headings and subheadings, including HI, H2, H3, H4 headings. Use the title: impressionism and make sure the article is informative, original, and free of plagiarism. In addition, it includes three frequently asked questions (FAQs) and a conclusion at the end of the article. The article should be written in an academic style and in a formal tone. Be sure to use bold and italics where necessary and prepare the article so that it can outrank another existing article on Google with the same search term: impressionist period. that the quality of the content is crucial, so avoid plagiarism and use remember your own writing at all times.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Learn"
+}

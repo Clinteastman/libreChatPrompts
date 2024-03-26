@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "* Monthly Fitness Calendar *",
+    "promptPrefix": "Por favor, piensa como un gimnasta nutricionista experto en musculaci\u00f3n y crea para mi en [TARGETLANGUAGE]: Calendario Mensual con los m\u00fasculos que debo ejercitar para una persona que pesa y mide [PROMPT] de altura, para aumentar mi volumen muscular. A\u00f1ade esto en una tabla que se vea bien con las siguientes columnas: \"Semanas\", \"Fecha\", \"lunes\", \"martes\", \"mi\u00e9rcoles\", \"jueves\", \"viernes\", \"s\u00e1bado\", \"domingo\". \nPor favor, crea despu\u00e9s otra tabla con las repeticiones de ejercicios para cada musculo. \nPor favor, hazlo en un tono amigable y un estilo descriptivo.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "* Monthly Fitness Calendar *"
+}

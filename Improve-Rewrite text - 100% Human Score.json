@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewrite text | 100% Human Score",
+    "promptPrefix": "When it comes to writing content, three factors are crucial, \"perplexity\", \"burstiness\", and \"predictability.\" Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Finally, predictability is how likely someone is to guess the next sentence.Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. I also need it to have a low amount of predictability. You must also write in [TARGETLANGUAGE] only. Now, rewrite the following text: \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewrite text | 100% Human Score"
+}

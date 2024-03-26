@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Full 100% SEO Optimization Readable Content",
+    "promptPrefix": "Write a unique and 100% Human-readable blog Long content minimum of 1050 words or a maximum of 5000 words. Include SEO Friendly Bold Title. Use H1, H2, H3, H4, H5 blod text. Include FAQ for the blog, Meta Title, Meta Description, Focus Keywords, and Tags. All output will be in [TARGETLANGUAGE] The text to summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Full 100% SEO Optimization Readable Content"
+}

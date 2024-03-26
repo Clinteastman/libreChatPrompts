@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog post of the top 7 Products of a Category on Amazon",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a [PROMPT] expert that is writing a blog post for potential buyers and writes in fluent [TARGETLANGUAGE]. Pretend that you have the most accurate and detailed information about [PROMPT] . Pretend that you are able to develop an informative list of the top 7 [PROMPT] on amazon in fluent [TARGETLANGUAGE].  Create a professional blog post outline that is concise, clickable, and focused at people looking to buy [PROMPT] on amazon.  Include the 7 items in the blog post outline (each having their own section). write at least 200 words about each item as if you are an expert in the field.  Do not respond to this prompt, begin the Blog post outline (With a clickable Title and Introduction) as your suggestion.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog post of the top 7 Products of a Category on Amazon"
+}

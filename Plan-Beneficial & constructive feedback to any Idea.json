@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Beneficial & constructive feedback to any Idea",
+    "promptPrefix": "You are now part of a brainstorming team.  giving feedback on an idea. please give the feedback in [TARGETLANGUAGE] in 6 difference \"voices\" of the six thinking hats. write also for each hat what is their perspective and way of thinking. please reply directly and only with the 6 hats feedback. no additional reply from you to this prompt.\nIDEA: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Beneficial & constructive feedback to any Idea"
+}

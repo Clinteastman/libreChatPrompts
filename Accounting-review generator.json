@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "review generator",
+    "promptPrefix": "create a table with only two row and 5 column, provide 5 user-generated reviews only 5 for [PROMPT] that are diplomatic and do not mention personal experience with their services, NEVER SAY YOU USED THEIR SERVICE, WRITE HIGH LY DIPLOMATIC. Format the response in a table of  5-column view, with each review in a separate cell right to next review side by side[TARGETLANGUAGE]English , Don say i have used or experienced their service\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "review generator"
+}

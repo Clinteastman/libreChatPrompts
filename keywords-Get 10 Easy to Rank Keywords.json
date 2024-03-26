@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Get 10 Easy to Rank Keywords",
+    "promptPrefix": "[TARGETLANGUAGE]\nEnglish\n\n[PROMPT]\nGenerate 10 keyword variations for the topic [INSERT TOPIC HERE] with low competition.\n\n1. [KEYWORD_VARIATION_1]\n2. [KEYWORD_VARIATION_2]\n3. [KEYWORD_VARIATION_3]\n4. [KEYWORD_VARIATION_4]\n5. [KEYWORD_VARIATION_5]\n6. [KEYWORD_VARIATION_6]\n7. [KEYWORD_VARIATION_7]\n8. [KEYWORD_VARIATION_8]\n9. [KEYWORD_VARIATION_9]\n10. [KEYWORD_VARIATION_10]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Get 10 Easy to Rank Keywords"
+}

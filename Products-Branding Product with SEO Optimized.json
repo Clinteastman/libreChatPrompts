@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Branding Product with SEO Optimized",
+    "promptPrefix": "Your task is to become an SEO expert [TARGETLANGUAGE] for a product or brand, start with 10 tagline ideas for products, 10 keywords, 5 good hashtags so that they are easily found in search engines, create product descriptions, 10 article title ideas and also provide 10 branding strategies in detail. all output shall be in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Branding Product with SEO Optimized"
+}

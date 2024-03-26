@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "30 Content Ideas Based Around Attributes",
+    "promptPrefix": "write all output in [TARGETLANGUAGE]\n\nSend me a list with 30 content ideas, formed as short questions (6-7 words is best), based around attributes related to the topic I give you. Make sure that you mention the topic in every idea. \n\nI want you to think \n\nWhen you construct the list send the more general content ideas first and go into more specific ones.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "30 Content Ideas Based Around Attributes"
+}

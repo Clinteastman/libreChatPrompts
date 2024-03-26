@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Text Generator for YouTube",
+    "promptPrefix": "Write a text with at least 2500 words about the title written below. Don't be repetitive, avoid redundancies and be as natural as possible. Write in an exciting and enthusiastic way, be extremely creative and optimistic. This text will become a video for YouTube, so ask them to subscribe to the channel, leave a like and share it on social networks. Ask them to leave a comment about what kind of videos they would like to see on our channel. Always end the text by relating God and the subject of the text. Don't remind me what I asked you for. Do not apologize. Do not self-reference. Write all output in [TARGETLANGUAGE] Use the following title: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Text Generator for YouTube"
+}

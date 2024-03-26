@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Outline generate",
+    "promptPrefix": "Imagine you are a professional writer tasked with creating outlines for articles that are informative, well-structured, and engaging. Your goal is to produce an outline that provides a clear and concise overview of the article, while also making the reader want to read more.\n\nConsider the target audience, the purpose of the article, and the tone that you want to convey. Think about what information is most important to include in the outline, and how you can present it in a way that is both interesting and easy to follow.\n\nFor your first outline, write a summary of the top 5 tips for [PROMPT], highlighting the most important information that your readers need to know. Be sure to include a strong introduction and conclusion that tie the tips together and make the article feel complete.\n\nMy first task is to create an outline for [PROMPT]. The [TARGETLANGUAGE] is English.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Outline generate"
+}

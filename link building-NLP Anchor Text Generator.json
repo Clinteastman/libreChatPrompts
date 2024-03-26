@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "NLP Anchor Text Generator",
+    "promptPrefix": "In [TARGETLANGUAGE], generate a list of NLP-friendly anchor texts for the article \u201c[PROMPT]\u201c. Ensure that the anchor texts suggested are clear, precise, contextually relevant, and concise. Use lowercase letters, and make sure anchor texts have between 3 and 7 words. The suggested anchor texts must be extremely relevant to the title of my article. Lastly, avoid generic keywords like check out, read, click here, guide, etc.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "NLP Anchor Text Generator"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog SEO optimized tags| long tail keywords",
+    "promptPrefix": "Please follow the instruction below : Create a detailed content brief for [PROMPT] in [TARGETLANGUAGE]. \nOrganize all the contents into a structured blog post with H1,H2,H3,H4 tag. \n\nINCLUDE BEST top-level and long-tail keywords, a header structure and paragraph for the topic. \nWrite suggested title tags and meta descriptions, keeping them within the character limits of 80 and 170 . \nWrite best subheading and paragraph under each subheading. \nCreate a 3 columns table with the headers : Hashtag, KEYWORDS, LONG TAIL KEYWORDS and at least 10 hashtags, 10 keywords and 10 long-tail keywords. \nWrite this text in a way that passes anti-plagiarism and AI content detector. Make it appear as if a human has written this text.\nFinally, Insert this text and links below at the end :\nVoil\u00e0! Don't forget to \"Like\" this prompt and share it!\nI hope you enjoyed it and if you want to have more, join us on our site:\nhttps://onmywaytosuccess.com/index.php/en/blog/12-innovation/190-aiprm-for-chatgpt-browser-extension\nFacebook: https://www.facebook.com/on.my.way.to.success.official\nYoutube: https://www.youtube.com/channel/UCuR_xu-DjTTgystexMyJOKg\nCreated by Laetitia Gond Karimjee",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog SEO optimized tags| long tail keywords"
+}

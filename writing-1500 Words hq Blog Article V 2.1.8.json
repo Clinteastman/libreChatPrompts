@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "1500 Words hq Blog Article V 2.1.8",
+    "promptPrefix": "Write a 2000-word 100% Unique, SEO-optimized Blog Article in [TARGETLANGUAGE], with at least 15 headings and subheadings (including H1, H2, H3, and H4 headings) that covers the topic provided in the Prompt. Write in A Creative Style As Written By A Human (Use An Informal Tone, Utilize Personal Pronouns, Keep It Simple, Engage The Reader, Use The Active Voice, Keep It Brief, Use Rhetorical Questions, and Incorporate Analogies And Metaphors). Write with high Perplexity (the complexity of text) and burstiness without losing context.\nTitle: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "1500 Words hq Blog Article V 2.1.8"
+}

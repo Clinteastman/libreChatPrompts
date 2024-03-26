@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create eye-Catchy News Headlines From The content",
+    "promptPrefix": "Act as News Headlines Writer\n- Generate 5 clickbait news headlines in informative, descriptive tone in english which will trigger the user to click this article in a crowd\n- Generate 2 viral tweets \n- Generate an Synopsis(within 30Words)\n- Suggest Important meta tags\n- Suggest Idea For a Featured Image\n- Generate Highlights OF the Content If Possible\n- Language [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create eye-Catchy News Headlines From The content"
+}

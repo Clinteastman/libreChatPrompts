@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "meta description",
+    "promptPrefix": "create a meta description with maximum of 160 characters using exact keyword about\n[PROMPT]\n\nUse  [TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "meta description"
+}

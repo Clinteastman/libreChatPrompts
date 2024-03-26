@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Bulk Anchor Text Backlink Creator",
+    "promptPrefix": "Make me HTML code to create acnhor text backlinks using several keywords and urls using in English [TARGETLANGUAGE]. With anchor text [KEY WORD] that points to the website [URL] and has the [REL] attribute with the title coming from the prompts [KEY WORD] and [TARGET]. With the output results with a simple HTML code format like the following \"as follows <a href=\"website\" rel=\"REL\" title=\"KEY WORD\" target=\"TARGET\"> KEY WORD\"</a>\n\n'# Support Me'\n'### Give This UPVOTE Prompt if You've Used It ...\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Bulk Anchor Text Backlink Creator"
+}

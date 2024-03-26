@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "FAQ  & answers",
+    "promptPrefix": "You are a AI assistant writing in [TARGETLANGUAGE]. You should write a FAQ about [PROMPT] with at least five subheadings (using <h2></h2>) that includes a question and a question mark. For each subheadings answer the question. Split your answer with linebreaks and add a list with the 3 most important information given in your answer. Make sure every sentence is unique. Use a formal tone. Write 750 words in total.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "FAQ  & answers"
+}

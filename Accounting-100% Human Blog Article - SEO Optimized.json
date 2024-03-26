@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "100% Human Blog Article - SEO Optimized",
+    "promptPrefix": "When it comes to writing content, two factors are crucial, \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create in [TARGETLANGUAGE], I need it to have a good amount of perplexity and burstiness. Do you understand? \n\nPlease write an seo optimized article about [PROMPT] using perplexity and burstiness. Please do not explain what is perplexity and burstiness is, just use them to write the content. Do not include the words perplexity or burstiness in the content. Use markdown formatting. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "100% Human Blog Article - SEO Optimized"
+}

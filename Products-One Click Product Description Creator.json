@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "One Click Product Description Creator",
+    "promptPrefix": "Create, and write detailed descriptions for the product based on the product prompt given, distinguish the product based on the product given, give details of the product based on the product type, color, size, usage, and or service. Do all of this in the [TARGETLANGUAGE] from the given [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "One Click Product Description Creator"
+}

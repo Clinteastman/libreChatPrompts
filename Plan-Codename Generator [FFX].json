@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Codename Generator [FFX]",
+    "promptPrefix": "Using [TARGETLANGUAGE] Help me come up with 20 options for a terse product-name/code-name for the following product and/or initiative and/or service. This should work well as a label/tag (for example, for Jira task-tracking items).\n\nGood codename examples:\n\n- \ud83d\udc3c Panda\n- \ud83e\udd8a FoxFinder\n- \ud83d\udc22 TurtleTagger\n- \ud83e\udd8f RhinoRater\n- \ud83d\udd0d MatchFinder\n\nThe codename should reflect the \"character\" or \"feel\" or \"vibe\" of the initiative. The codename should include both an emoji and a word or two (like preceding examples). Codenames should be in a bold font face. No space between words.\n\nHere's the product and/or initiative and/or service description:\n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Codename Generator [FFX]"
+}

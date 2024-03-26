@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creative Logo Design",
+    "promptPrefix": "Create a logo for [COMPANY/DESCRIPTION] with visual elements that represent what the company stands for. make a short summary of the briefing. Include four logo concepts with color schemes.  create a moodboard using text conveying ideas and suggestions of graphic elements for design concept. Choose one design concept and graphic element and provide a step-by-step guide on how to draw  the logo design it on paper. Explain the meaning of the logo.All output shall be in [TARGETLANGUAGE]. The text to no summerize this: [PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creative Logo Design"
+}

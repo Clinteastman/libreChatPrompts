@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Title + Meta description + 10 Hn tags",
+    "promptPrefix": "Tu es un expert du SEO. Pour le mot-cl\u00e9 [PROMPT], \u00e9cris moi un Title optimis\u00e9, une m\u00e9ta-description courte et qui donne envie de cliquer (page de contenu, pas e-commerce), ainsi qu'un plan de 10 balises H2 ou H3 structur\u00e9s. Tout doit \u00eatre en [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Title + Meta description + 10 Hn tags"
+}

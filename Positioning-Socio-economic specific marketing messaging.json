@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Socio-economic specific marketing messaging",
+    "promptPrefix": "In [TARGETLANGUAGE] Considering the diverse aspects of the [PROMPT] psyche in [PROMPT], including social, cultural, environmental, economic, technological, and political factors, develop tailored marketing messages to drive increased awareness and sales for a [PROMPT], In your answer justify your messaging based on key events that affect the psyche of the time:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Socio-economic specific marketing messaging"
+}

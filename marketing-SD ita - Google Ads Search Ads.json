@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SD ita | Google Ads Search Ads",
+    "promptPrefix": "Voglio che tu agisca come un advertiser. Crea il testo di: \n\n- 15 Google Ads search headlines di minimo 20 e massimo 30 caratteri per il prodotto qui sotto.\n- 4 Google Ads search descriptions di 90 caratteri \n\nL'output sar\u00e0 in [TARGETLANGUAGE]\n\nDividi il testo in:\n\n- Headlines\n- Descriptions\n\n\nOgni descrizione deve mettere in risalto un beneficio differente.\n\nIn almeno 3 headlines, includi la seed keyword. Considera le seguenti informazioni \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SD ita | Google Ads Search Ads"
+}

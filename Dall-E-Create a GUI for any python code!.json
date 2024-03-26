@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a GUI for any python code!",
+    "promptPrefix": "Take the python code and create a TKinter GUI for it. Do not explain it! If you need to ask anything ask it in [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a GUI for any python code!"
+}

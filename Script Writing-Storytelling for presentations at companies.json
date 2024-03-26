@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Storytelling for presentations at companies",
+    "promptPrefix": "I will provide you a sentence with the following TOPIC, AUDIENCE and WORDCOUNT. These 3 variables will be separated by semi-colon. In case I do not provide a WORDCOUNT, consider a minimum of 600 words. \n\nThen replace these 3 variables in Objective.\n\nSentence: [PROMPT]\n\nObjective: Motivate and persuade the AUDIENCE so they can understand the pros and cons of TOPIC and how to empower their organization. Provide a minimum of WORDCOUNT.\n\nStyle: Clear, concise, conversational, humble, and experimental.\n\nAll output shall be in [TARGETLANGUAGE]. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Storytelling for presentations at companies"
+}

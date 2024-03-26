@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "YouTube Video Summarizer",
+    "promptPrefix": "In [TARGETLANGUAGE], Summarize this video with bullet points of the key topics covered. Add a short paragraph background of the video in the beginning before the bulleted summary. Here is the video transcript:  [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "YouTube Video Summarizer"
+}

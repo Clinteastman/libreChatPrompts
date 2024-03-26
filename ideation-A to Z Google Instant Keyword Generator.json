@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "A to Z Google Instant Keyword Generator",
+    "promptPrefix": "Create Keyword Chains of this keyword | Every Chain should have at least 10 Keywords | Also sort them from A to Z\n\nCheck below how I'm asking you to create a chain as an example. \n\nhappy new year app \nhappy new year art\nhappy new year a answer\nhappy new year anniversary\nhappy new year arabic\n\nhappy new year backgrounds\nhappy new year best wishes\nhappy new year blessings\nhappy new year banner\n\nhappy new year captions\nhappy new year Chinese\nhappy new year clipart\nhappy new year cake \nhappy new year countdown\n\nEvery keyword has it own chain like A has 10 keywords, B has 10 keywords and C also has 10 keywords. And Also Add some space between the each keyword Chain Alphabetically.\n\nChain Pattern should be like this\n\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\nEntered Keyword + a\n\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\nEntered Keyword + b\n\nEvery Alphabetic chain should be 10 keywords and add space after every chain\n\nAll outputs should be in  [English]\n\n[PROMPT]\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "A to Z Google Instant Keyword Generator"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Business Plan Creation: A Comprehensive Guide",
+    "promptPrefix": "Analyze [VARIABLE1] in the context of the [VARIABLE2] industry. Identify the key market trends and the potential opportunities for [VARIABLE1] in the [VARIABLE3] target market.\n\nEvaluate the competitive landscape and determine the unique selling proposition of [VARIABLE1]. Develop a comprehensive marketing strategy that aligns with the business objectives of [VARIABLE1] and caters to the [VARIABLE3] target market.\n\nCreate a detailed operational plan outlining the day-to-day operations of [VARIABLE1]. This should include aspects like supply chain management, production processes, quality control measures, and more.\n\nFormulate a robust financial plan for [VARIABLE1]. This should include projected income statements, balance sheets, and cash flow statements for the next five years. Also, conduct a break-even analysis and calculate key financial ratios to assess the financial viability of [VARIABLE1].\n\nFinally, develop a risk management plan identifying potential risks and outlining mitigation strategies.\n\nRemember, this business plan should serve as a roadmap for [VARIABLE1], guiding its strategic decisions and helping it achieve its business objectives in the [VARIABLE2] industry. Output the text in the language [TARGETLANGUAGE] and prompt [PROMPT] the text:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Business Plan Creation: A Comprehensive Guide"
+}

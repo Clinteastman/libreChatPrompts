@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Upwork Cover letter for Programmers",
+    "promptPrefix": "Write a Cover letter for a job on Upwork \n1- Write a freelancing cover letter not applying to job\n2- Start with things like \"Morning, Name\" in [VARIABLE1] language\n3- don't  talk about myself talk about an experience related to the project\" only tell an attractive thing that will make him watch the cover letter like but a technical thing I did a project like that exactly  or anything that is related to the technicality and add that he can \"take a look for my clients review\" \n\n4- IN STEPS I will work with [VARIABLE2] Programming language tell in steps how we will the Project make its technical steps depending on the software cycle \n5- depends on the project description expect the time to do the project in if I used [VARIABLE2] programming langauge \n\n6- in steps ask questions related to the project that will make him want to answer \n7- tell him that I am waiting for his \"Call to action \" and waiting for him to schedule a quick meeting for talking more about the project \n8- end with things like \"Regards\" in [VARIABLE1] language\n9- Write that in [TARGETLANGUAGE]\nthis is the job description \n\"[PROMPT]\"\n\n[VARIABLE1: Client's Country]\n[VARIABLE2: programming langauge]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Upwork Cover letter for Programmers"
+}

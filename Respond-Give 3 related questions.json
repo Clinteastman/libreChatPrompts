@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Give 3 related questions",
+    "promptPrefix": "for each of the future input,  give 3 related qestions after your original response. All output shall be in [TARGETLANGUAGE]. If I reponse with the number in front of the related questions, use the question content as the new input. The text to answer is this: \n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Give 3 related questions"
+}

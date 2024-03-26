@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword Strategy- 100% Rank a keyword",
+    "promptPrefix": "Think, you are an SEO specialist. Now give me the top 5 list on a table for this keyword: [PROMPT] in [TARGETLANGUAGE]. This table will include columns for Keyword Cluster, Keyword,\tSearch Intent, search popularity, Title, Meta Description, minimum article length, 5 Related keywords, Top 5 ranked website, Banklinks needed to rank, 5 tips to rank on top 10.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword Strategy- 100% Rank a keyword"
+}

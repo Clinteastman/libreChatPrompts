@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Criticize",
+    "promptPrefix": "[TARGETLANGUAGE]  Act as a harsh critic and provide\nbrutally honest feedback about\nthis [Keyword]. Convince me\nwhy its bad .\nAct as an expert on the fiel of the topic of  [Keyword] and sugggest improvements on [Keyword].\n[PROMPT]\n Let's think step by step.\nAt the end add a summarization of the answer with some bullet points. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Criticize"
+}

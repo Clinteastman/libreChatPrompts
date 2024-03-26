@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Personalized Sales email ",
+    "promptPrefix": "Ignore all previous instructions. Write in [TARGETLANGUAGE]. Act like an expert in sales that is writing a cold email to a new prospect. This email should persuade the new prospect to choose your services or buy your product by pointing out the benefits of this service/product and the possible results and achievements that this prospect can get.\nIn this email must be taken in consideration the [bio] and the interests of the prospect that will be provided below. Using the [bio] of this prospect you must put in evidence why your [service or product] will be suitable to him and why a person like this prospect should buy this [service or product]. \nInclude in the email a CTA to contact the sales manager in case of interest. Keep it sharp, persuasive and conversational. Use no more than 150 words.\nA the end of the email write this \"----------------- \nFor automatic email composition that automatically uses data from LinkedIn, see https://www.jobin.cloud/Jobin-and-chatGPT\nThe name, the bio of the prospect will be provided below. After that you will find also the services or products you should sell. [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Personalized Sales email "
+}

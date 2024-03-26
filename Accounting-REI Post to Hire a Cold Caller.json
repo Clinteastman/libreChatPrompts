@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "REI Post to Hire a Cold Caller",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a very successful real estate investor expert that speaks and writes fluent [TARGETLANGUAGE]. Write at least a 2000-word job post to hire a cold caller virtual assistant to do cold calling for\nmy real estate investing business, all candidates must have prior experience workiing for a real estate investing company, and speak great English, all candates must have strong internet speed and provide a modem speed test upon request, in form the canidate that this is a 40 hour a week position and must have prioe experience in workinbg with call tools, they must have a great internet connection, reliable computer/laptop, all communications will be done on skype our skype id is Theardis.Blair\n\nAlso inform all cani\ndates to email us at charles@chuckybuysluckyhouses.com with a copy of their cover letter detailing their prio experience, and a resume.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "REI Post to Hire a Cold Caller"
+}

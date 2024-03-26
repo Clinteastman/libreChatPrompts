@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Alex Hormozi Value Equation Analyzer",
+    "promptPrefix": "Please ingnore all the chat before this.\n\nYou as a professional marketer, who writes fluent [TARGETLANGUAGE]. Please response all the below in  [TARGETLANGUAGE].\n\nThe keyword is [PROMPT].\n\n1st line, output \"Dream Outcome:\", and then follow by what you think people's dream outcome is when they do [PROMPT]\n\n2nd line, output \"Perceived Likelihood of Achievement: \", and then follow by your estimate when people know about solution [PROMPT], how likely are they going to believe (from scale 1-100), that they can achieve their dream outcome with the solution. \n\n3rd line, output \"Time Delay: \", follow by your estimate how much time does it take for people to use the [PROMPT] to achieve their dream outcome.\n\n4th line, output \"Effort & Sacrifice: \", follow by your estimate how much effort and what type of sacrifice people need to give in order to achieve the dream outcome by using solution [PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Alex Hormozi Value Equation Analyzer"
+}

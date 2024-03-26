@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Initial Research on Companies while Job Searching",
+    "promptPrefix": "In [TARGETLANGUAGE], can you tell me about [Company Name] and what they do? I'm interested in applying for the [Job Role] position, what would my responsibilities be? And finally, what are some exciting things about working for [Company Name] that would make it a great place to work?\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Initial Research on Companies while Job Searching"
+}

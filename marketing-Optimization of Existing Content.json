@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Optimization of Existing Content",
+    "promptPrefix": "Oublie les instructions pr\u00e9c\u00e9dentes.\n\nTu es un expert SEO et tu souhaites faire un plan \u00e0 partir de plusieurs textes existants. Fais-moi une synth\u00e8se de [PROMPT] sous forme d'un plan. Le plan doit avoir un balisage H2, H3. \n\nEnsuite, propose moi une liste des th\u00e9matiques fr\u00e9quentes au sein du contenu. \nPuis propose-moi une liste des th\u00e9matiques peu fr\u00e9quemment abord\u00e9es dans le [PROMPT]. \n\nR\u00e9dige la synth\u00e8se en [TARGETLANGUAGE] \u00e0 la fa\u00e7on d'un copywritter exp\u00e9riment\u00e9.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Optimization of Existing Content"
+}

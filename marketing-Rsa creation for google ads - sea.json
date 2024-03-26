@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rsa creation for google ads - sea",
+    "promptPrefix": "Use the following language [TARGETLANGUAGE].\nCreate 15 headlines 4 descriptions based on the following guidelines and following urls: [PROMPT].\n \nGuidelines:\nHeadlines maximum length: 30 characters;\nDescriptions maximum length: 90 characters;\nHeadlines minimum length: 20 characters;\nDescriptions minimum length: 80 characters;\nDo not add prices or discounts;\nDo not add exclamationmarks.\n\nPut it in a table with the following format: URL|Headline 1|Headline 2|Headline 3|Headline 4|Headline 5|Headline 6|Headline 7|Headline 8|Headline 9|Headline 10|Headline 11|Headline 12|Headline 13|Headline 14|Headline 15|Description 1|Description 2|Description 3|Description 4\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rsa creation for google ads - sea"
+}

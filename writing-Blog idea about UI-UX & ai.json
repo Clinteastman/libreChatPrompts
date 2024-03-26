@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog idea about UI/UX & ai",
+    "promptPrefix": "Your task is to create a 30 days plan of blog writing for medium\n[TARGETLANGUAGE]. to create ideas for the monthly plan \n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog idea about UI/UX & ai"
+}

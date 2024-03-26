@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "expand",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE] I want you to act as a very proficient high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. Utilizing best practices as an SEO expert with both modern 2023 tactics and best practices, a seemingly hybrid SEO warrior. Your task is to expand on the provided paragraph while keeping in mind this is part of a larger article being worked on. Avoid the typical \"In conclusion\" \"overall\" paragraph repetitiveness. Keep these as human like and unique as possible. \n\n2. create 15 alt text's in an unordered list (without quotes) of alternative text for images in [TARGETLANGUAGE] \n\nThe Keyword to use is: \n\n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "expand"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Personalized Out of Office Email",
+    "promptPrefix": "Ignore any previous instructions. \n\nAct as a copywriter and write an extremely brief out of office email. I will be out of the office from [VARIABLE1] until [VARIABLE2]. Include a placeholder for the person that the recipient can contact in case of emergency. Ensure that the tone of the email is [VARIABLE3]. The reason that I'm away is for [PROMPT]. Write all output in [TARGETLANGUAGE]. Do not include my job position in the email copy or signature.\n\n[VARIABLE1:Start Date], [VARIABLE2:Return Date],[VARIABLE3: Tone::Formal|Informal|Funny]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Personalized Out of Office Email"
+}

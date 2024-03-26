@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Content Outline for Service Pages",
+    "promptPrefix": "Please create a detailed long-form content outline for a service page for our content writers on the topic: [PROMPT] in [TARGETLANGUAGE]. And provide the below \n- The searcher's intent for the keyword being, whether commercial, transactional, or informational.\n- A list of all the semantically related keywords that should be on the page.\n- Short, attention-grabbing, simple, but very click-enticing Title.\n- Attractive meta description that has the chance for a high click-thru rate for the page with 120 to a maximum of 155 words. The meta description shall be value-based, so mention the value of the service and have a simple call to action to cause the searcher to click.\n- Short, attention-grabbing, and simple H1.\n- Suggested URL.\n- The CTA for the service page.\n\nThen provide with all the different page sections below in detail, with an example written for each one:\n- Introduction with example\n- Our [PROMPT] Services with example\n- Problem Solved with example\n- Key Features with example\n- How it Works with example\n- Process & Methodology with example\n- Use Cases with example\n- Benefits with example\n- Testimonials with example\n- Case Studies with example\n- Why to Choose Us with example\n- Related Services with example\n- Write 10 semantically related FAQs\n- Contact us with example\n- Others with example\n\nAnd please take into consideration the following:\n- Do not remind me what I asked you for.\n- Do not apologize.\n- Do not self-reference.\n\nHere is the keyword to start again: [PROMPT]. Remember, this is a service page, not a blog article.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Content Outline for Service Pages"
+}

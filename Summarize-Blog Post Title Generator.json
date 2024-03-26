@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog Post Title Generator",
+    "promptPrefix": "Please ignore all previous instructions. \nI want you to respond only in language [TARGETLANGUAGE].  \nI want you to act as a blog post title writer that speaks and writes fluent [TARGETLANGUAGE]. \nI will type a title, or keywords via comma and you will reply with a total of [VARIABLE1] blog post titles in [TARGETLANGUAGE]. \nThey should all have a hook and high potential to go viral on social media. \nWrite all in [TARGETLANGUAGE]. my first keywords are [PROMPT] \n\n[VARIABLE1:Titles to write:5:5|10|15]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog Post Title Generator"
+}

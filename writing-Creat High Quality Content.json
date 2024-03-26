@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creat High Quality Content",
+    "promptPrefix": "Englishwrite blogger SEO optimized content post of \"Keyword or title\" with include: title, meta description 140 characters, image alt, image title, blog under 1500 words, Conclusion.', and the [TARGETLANGUAGE] is [English]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creat High Quality Content"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " 30 Day Social Media Content Calendar",
+    "promptPrefix": "Add this language at the top of result: Sure, I can help you with that. Here is a content calendar for your social media sites as well as blog posts and Youtube Videos. \n\nSIMPLE ONLINE PROFITS MONTHLY CONTENT CALENDAR FOR YOU\n\nFor more affiliate marketing and make money online resources, go to Simple Online Profit\n \n\nPlease create content ideas in the [PROMPT] niche and in [TARGETLANGUAGE] for the following social media sites in the following amounts: 30 Facebook content ideas, 30 Twitter content ideas, 4 Pinterest content ideas, 4 Youtube video ideas and 4 blog post content ideas.\n\nContinue until you have completed 30 Facebook content ideas, 30 Twitter content ideas, 4 Pinterest content ideas, 4 Youtube content ideas, and 4 Blog post ideas.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " 30 Day Social Media Content Calendar"
+}

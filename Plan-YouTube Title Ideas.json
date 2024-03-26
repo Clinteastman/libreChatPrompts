@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "YouTube Title Ideas ",
+    "promptPrefix": "Create 20 youtube video titles under 50 characters and make the words dramatic based on the script below;\n\n[PROMPT] [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "YouTube Title Ideas "
+}

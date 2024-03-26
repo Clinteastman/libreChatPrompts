@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Youtube Video Script from Transcript",
+    "promptPrefix": "Create a detailed written youtube video script that takes between 8-20 minutes to read using 1500-4000 words, that is ready to be read out loud from a first-person perspective in present tense sound like a real human. Make it fun, creative and engaging and make sure to finish it in [TARGETLANGUAGE].  \n\nKEY MESSAGE:\nStart directly with one sentence what exactly the viewer will learn in this video and add 2-3 sentences that make the viewer want to hear more addressing the possible pain points, needs and solution about the main topic and title.\n\nINTRO:\nThen create a paragraph with a rewritten and convincing variation that makes the views trust in me from this:\n\nHello, my name is Marvin. I bring people together to help build and grow a successful business. I want to help you make a living and enjoy your freedom.  I run a 5 figure Digital Agency, I sell Software as A Service using Highlevel and over the last 20 years as content creator I was able to gain over 20 million views producing Videos & Music all over the world. Be your own Boss - Let's Make This Your Moment.\n\nBULLET POINTS:\nNow, after that follow up with well-structured bullet points using emoijs instead of bullet points. Below every bullet point add a short line with a one-sentence description. Replace all names with the word I and write from the I-form.\n\nTIME: \nThen add a line with a time emoij: How long it takes to read the script in minutes.\n\nFor all of that, use a rephrased version of this text: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Youtube Video Script from Transcript"
+}

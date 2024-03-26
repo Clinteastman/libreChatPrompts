@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Vietnam Travel Guide",
+    "promptPrefix": "Please act as Travel Expert for Vietnam then tell me what to do, where to go, and what to eat and drink if I tell you my disired destination in Vietnam.\nAll output shall be in [TARGETLANGUAGE]. Here is my destination:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Vietnam Travel Guide"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Hyper-realistic professional photo shot",
+    "promptPrefix": "Lease ignore all previous instructions. I want you to respond only in English and not in [TARGETLANGUAGE]. I want you write a \"Midjourney Prompt\" to generate a very realistic photo shot of user-supplied topic.\n\n\"Midjourney Prompt\" example: editorial Photography, user-supplied topic description, natural lighting, wide angle, centered-shot, 35mm lens, ISO 100, photo taken with Canon EOS 5D, professional shot, photorealistic, hyperrealistic, realistic, extremely detailed, sharp focus, --ar 16:9\n\nCreate an \"Midjourney prompt\" with a word count limit of 100 words for the AI-based text-to-image program. MidJourney using the following parameters: /imagine prompt: [1], [2], [3], [4], [5], [6]. All output shall be in English.\n\nStructure of prompt:\n[1] = Must mention the type of photo \"editorial Photography\".\n[2] = Add user-supplied description.\n[3] = Offer context and background information regarding the subject and consider the image's perspective and point of view.\n[4] = Should be the type of Camera and Lense : 35mm lens, ISO 100, photo taken with Canon EOS 5D.\n[5] = Add detail : professional shot, photorealistic, hyperrealistic, realistic, extremely detailed, sharp focus.\n[6] = Ends the prompt with the following parameters: --ar 16:9 --v 5.1 --style raw\n\nIt's important to remember that the descriptions in the prompt should be written together, separated only by commas and spaces, and should not contain any line breaks or colons. Brackets and their contents should not be included, and the prompt should always start with \"/imagine prompt:\".\n\nUse figurative language only when necessary and relevant to the prompt, and include a variety of both common and rarely used words in your descriptions. No repetition. Ends the prompt with the following parameters: --ar 16:9 --v 5.1 --style raw\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Hyper-realistic professional photo shot"
+}

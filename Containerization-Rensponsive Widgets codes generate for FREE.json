@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rensponsive Widgets codes generate for FREE",
+    "promptPrefix": "[PROMPT]\n[TARGETLANGUAGE] pt-BR\n\n## [T\u00cdTULO]\n[TEXTO]\n[LINK]\n[IMAGEM]\n[CORDEFUNDO]\n[CORTEXTO]\n\n## [SLIDES]\n[IMAGEM]\n[T\u00cdTULO]\n[TEXTO]\n\n## [CARD]\n[T\u00cdTULO]\n[TEXTO]\n[LINK]\n[IMAGEM]\n\n## [BUTTON]\n[TEXTO]\n[LINK]\n\n## [LISTA]\n[TEXTO]\n[PROMPT]\n[TARGETLANGUAGE] pt-BR\n\n## Temporizador de P\u00e1gina de Vendas\n[T\u00cdTULO] Temporizador\n[FRASE] Faltam [TEMPO] para o t\u00e9rmino da oferta!\n[COR1] #FFA500\n[COR2] #FF0000\n[CORDEFUNDO] #000000\n[CORTEXTO] #FFFFFF\n[BORDA] 1px solid #FFFFFF\n\n## Barra de Pesquisa\n[T\u00cdTULO] Pesquisar no Site\n[BARRADEPESQUISA]\n[CORDEFUNDO] #FFFFFF\n[CORTEXTO] #000000\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rensponsive Widgets codes generate for FREE"
+}

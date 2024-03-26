@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "10 Chapter Book Outline w/ Detailed Intro",
+    "promptPrefix": "Generate book title with provided keyword[TARGETLANGUAGE] [PROMPT]\nGenerate 10 book chapters with the title provided and list them[TARGETLANGUAGE] [PROMPT]\nGenerate detailed book intro with the title provided and more then 1200 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 1 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 2 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 3 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 4 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 5 with detailed information and more then 4000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 6 with detailed information and more then 2500 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 7 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 8 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 9 with detailed information and more then 2000 words[TARGETLANGUAGE] [PROMPT]\nWrite Chapter 10 with detailed information and more then 3000 words[TARGETLANGUAGE] [PROMPT]\nGenerate detailed book conclusion with the title provided and more then 1000 words[TARGETLANGUAGE] [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "10 Chapter Book Outline w/ Detailed Intro"
+}

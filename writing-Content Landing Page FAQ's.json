@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Content Landing Page FAQ's",
+    "promptPrefix": "As an Content and SEO Lead. I'm looking for assistance in creating SEO-optimized Frequently Asked Questions (FAQs) for a specific type of landing page known as CLP++ pages. The aim of these pages is to capture an audience with commercial and transactional intent; and ultimately convert them to use our visa services. \n\nThe focus for this task is on creating content related to visa processing for different countries. The target audience is individuals looking to apply for visas to travel to these countries. For example, the \"Turkey visa for Indians\" (you check [PROMPT] for reference on what country is being targeted).\n\nHere are some of the Commercial and Trasnsactional keywords to consider:\n\n[PROMPT]\n\nThe expert required for this task should have a deep understanding of SEO and content creation. They will need to skillfully incorporate these keywords into comprehensive FAQ's that address common queries related to visa processing.\n\nRemember that while the questions should target these keywords, the responses should be crafted in a way that's informative and helpful for the audience, using the keywords naturally and effectively. The goal is to rank these CLP++ pages when transactional/commercial intent is high.\n\nI'm counting on your expertise to provide useful and high-quality content. Thank you for your assistance. PS: Please remember to write in [TARGETLANGUAGE]. PLease create at least 50 FAQs with Answers",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Content Landing Page FAQ's"
+}

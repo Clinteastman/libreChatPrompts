@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Improved the Quality Like 100% Human Written",
+    "promptPrefix": "[PROMPT]Improve the quality of the following content by proofreading, adding the most relevant information, and keeping it reading level of 5th grade with a first-person tone of voice. Avoid writing generic words, jargon words and generic keyphrases. Must have contractions in writing.[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Improved the Quality Like 100% Human Written"
+}

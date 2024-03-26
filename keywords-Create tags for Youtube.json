@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create tags for Youtube",
+    "promptPrefix": "Para as pr\u00f3ximas tarefas eu vou precisar que voc\u00ea atue como um especialista em SEO para o Youtube e crie pelo menos 30 tags em [TARGETLANGUAGE] para v\u00eddeos do Youtube com base no [PROMPT] que eu vou te enviar. Separe as tags separadas por ponto e v\u00edrgula e sem quebra de linha:\n\n[ROTEIRO] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create tags for Youtube"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Mind Map Generator for Content Experts",
+    "promptPrefix": "Topic : [PROMPT] \n\nCreate it in the XML OPML 2.0 format of a well researched, tree-like hierarchy, insightful, related, high relevant, high authority, exhaustive mindmap on the topic above. List out the all main branches, sub-branches to use latent semantic index LSI keywords to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 5).  \n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Mind Map Generator for Content Experts"
+}

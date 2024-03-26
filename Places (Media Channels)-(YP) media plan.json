@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "(YP) media plan",
+    "promptPrefix": "Apresente o resultado no idioma [TARGETLANGUAGE]\n\nFa\u00e7a um planejamento de m\u00eddia paga para uma empresa de ...\n\nTraga os poss\u00edveis canais de m\u00eddia paga em uma tabela, com colunas falando sobre as poss\u00edveis segmenta\u00e7\u00f5es e pontos positivos de cada canal de m\u00eddia. N\u00e3o deixe de adicionar m\u00eddia program\u00e1tica\n\nTraga tamb\u00e9m sugest\u00f5es de an\u00fancios ou formatos para an\u00fancios de Facebook e Instagram com base no segmento de mercado, trazendo separado por etapa do funil de vendas\n\nTraga em tabela tamb\u00e9m as principais palavras-chave do segmento de mercado, com n\u00famero estimado de buscas e valor m\u00e9dio do Custo por clique (CPC)\n\nTraga tamb\u00e9m sugest\u00f5es de p\u00fablicos e segmenta\u00e7\u00f5es separado entre etapas do funil para campanhas em Facebook Ads para o segmento\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "(YP) media plan"
+}

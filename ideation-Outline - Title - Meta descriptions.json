@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Outline | Title | Meta descriptions",
+    "promptPrefix": "Your task is to make outlines for an article with title and meta description from the keyword, I give you in 1 word or 130 characters. write all output in [TARGETLANGUAGE]. Answer to the questions:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Outline | Title | Meta descriptions"
+}

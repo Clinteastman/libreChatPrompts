@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create  a KAHOOT from your text",
+    "promptPrefix": "Create a multiple choice test from the prompt with about 15  questions. 4 answer options, max 1 correct. You will use numbers between 1 and 4 randomly, with each number being equally likely to occur. For the test, create a markdown-table with columns A-H. No letters A,B,C,D preceeding the questions 1-4. \nA: enter numbers from 1 - x\nB: Enter question with a maximum of 120 characters\nC: Enter answer 1 with a maximum of 75 characters\nD: Enter answer 2 with a maximum of 75 characters\nE: Enter answer 3 with a maximum of 75 characters\nF: Enter answer 4 with a maximum of 75 characters\nG: Enter \"20\"\nH: Enter the number of the correct answer\n[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create  a KAHOOT from your text"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Google Ads - Descriptions",
+    "promptPrefix": "Your task is to create 8 Google Search Ads Description with a limit of maximum 90 characters per description including spacing in [TARGETLANGUAGE]. The type of business this description is for is the following:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Google Ads - Descriptions"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Find matching color for any term",
+    "promptPrefix": "Please suggest Hex-Code for a color like [PROMPT]. Insert a link to a page that shows this color. Write the name of color in words. Explain in one sentence the reason for your decision for this color. I give you an example.\nColor: #\nName of color: name of color\nLink: Link to page showing the color\nReason: Why this is the best matching color.\n\nPlease provide all responses in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Find matching color for any term"
+}

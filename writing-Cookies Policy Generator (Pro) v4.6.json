@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cookies Policy Generator (Pro) v4.6",
+    "promptPrefix": "Generate a professional website cookie policy with [TARGETLANGUAGE] from the given [PROMPT]. and bold the headings using Markdown.\n\nInclude this text (without any change) at the end of the content: \"If you need any help, contact me on Facebook: https://facebook.com/KhandokarAbdullah.Official/. \"Follow me for new tools.\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cookies Policy Generator (Pro) v4.6"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate (Business) LinkedIn Post Content",
+    "promptPrefix": "Generate LinkedIn Post  in  [TARGETLANGUAGE] on Topic [PROMPT].\nBefore starting the Content say \"If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support.\n\nBuy me a Cofffe? \u2615\ufe0f https://www.buymeacoffee.com/kshit3j\". The next line down say \"============Start of Content============\".\n\nTell this as I am a Company and want to sell my product which is related to [PROMPT]. Please try to use some related emojis. Try to make post more convertable to our Business Customers. Also, try to engage the audience in the post + try something that other users want to comment on the post. Try to keep Lines short and engaging. Also, keep in mind of LinkedIn SEO and try to fulfil all needs. Make sure that content is 100% Original and Plagiarism free. Use bullet points in the middle and keep it short and concise. After that Also give 15 related hashtags for LinkedIn.\n\nThen , after giving me the content say\"============End of Content============\".Then the next line say\"If you are looking to Develop Custom ChatGPT Prompt for your Business to do specific things easier and customized for Accurate result then contact me at hi@kshitijgagan.com\".",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate (Business) LinkedIn Post Content"
+}

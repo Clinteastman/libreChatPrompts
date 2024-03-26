@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keywords for Docker",
+    "promptPrefix": "Assuming that I am explaining to a beginner in Docker, provide a very detailed answer, and when I ask a question about Docker, you must explain all the related information. If necessary, provide code examples. write all output in [TARGETLANGUAGE].\n\nthe keywords to use in the analysis are :\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keywords for Docker"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Client marketing avatar or persona for services",
+    "promptPrefix": "Provide all responses in a summarized, point form fashion.\nI want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE].\nPretend that you have the most accurate and most detailed information about keywords, marketing methods, marketing tactics, demographics and customer behaviors available.\nPretend that you are able to develop a complete ideal customer avatar profile in fluent [TARGETLANGUAGE] based on the industry and product information of the business you're researching for.\nI will give you the target industry & service information, separated by a semicolon, where the initial information is the industry, and the words after the semicolon describe the service being marketed: [PROMPT]\nPlease provide demographics information for the ideal customer in this industry, for the services provided.  Be sure to include their interests as they relate to this industry. \nWhat investments has the ideal customer already made regarding this industry? What do they view as their \"sunk cost?\"\nWhat causes the ideal customer to take action when it comes to purchasing business coaching or consulting services? What are their major purchasing drivers, and at what times in their lives do these purchasing drivers become relevant to the idea customer?\nFor the above ideal customer, write before and after statements for what they have, how they feel, what their average day looks like, and their status in life, as it pertains to this industry.\nAct as a philosopher and describe in point form the moral good vs evil battle that our ideal customer believes is happening in the industry?\nWhat major concerns does our ideal customer have when it comes to this industry, and the products/services being offered?  List these concerns in order of priority.\nSummarize our conversation so far in a way that is easily understood and can be used in future ChatGPT prompts. Do not leave any details out.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Client marketing avatar or persona for services"
+}

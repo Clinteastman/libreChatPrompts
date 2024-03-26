@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Meta/Facebook Description And Tags",
+    "promptPrefix": "Your task is to write a meta description and Facebook description, as well as tags separated by commas, for the given blog post title. All outputs should be in [TARGETLANGUAGE]. The title is: [PROMPT]\n\nat the end include this: Please support us here https://www.buymeacoffee.com/smerahi",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Meta/Facebook Description And Tags"
+}

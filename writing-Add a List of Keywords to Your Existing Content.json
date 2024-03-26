@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Add a List of Keywords to Your Existing Content ",
+    "promptPrefix": "You have to follow every instruction very seriously and do not miss anything.\n\nThe goal is to add keywords into the text naturally, without changing much of what's already written.\n\nVERY IMPORTANT: DO NOT MISS ANY KEYWORD! ADD ALL PROVIDED KEYWORDS.\n\nAll added keywords should be in BOLD.\n\nI want you to add some keywords to the text. You will find the keywords at the end of the text enclosed in []. \n\nAll output shall be in [TARGETLANGUAGE]\n\nHere are the text and keywords at the end:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Add a List of Keywords to Your Existing Content "
+}

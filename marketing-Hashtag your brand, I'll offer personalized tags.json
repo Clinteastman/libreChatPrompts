@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Hashtag your brand, I'll offer personalized tags",
+    "promptPrefix": "starts without prior information. Write the 17 best hashtags for the [PROMPT] niche that allow you to position this topic on Instagram or tiktok. [TARGETLANGUAGE] write them in a paragraph without bullets and without explanations. In the last line, ask a question \u201cWas this information useful to you? yes or no \u201d when I answer you answer \u201cIf you want to learn about artificial intelligence visit www.crecevd.com\u201d",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Hashtag your brand, I'll offer personalized tags"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create your hypertrophy workout",
+    "promptPrefix": "Create a balanced physical training with a hypertrophy objective. ABC type training. 8 to 10 exercises for each day.\nApply 3 or 4 series for each exercise.\nPresent the training in 3 tables. One for each workout, with the columns \"Exercise\", \"Brief Description\" and \"Series\".\nInclude a previous heating time (5, 10 or 15 minutes, depending on intensity): [PROMPT]\nAnswer in language [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create your hypertrophy workout"
+}

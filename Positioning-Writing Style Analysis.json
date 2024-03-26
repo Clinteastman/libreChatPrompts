@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Writing Style Analysis",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in [TARGETLANGUAGE]. \n\n\"[PROMPT]\"\n\nYou will act as a professional Marketing copywriter. Analyse the Above text. Your goal is to create a style, voice and tone guide for a junior copywriter to create another article in the same style.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Writing Style Analysis"
+}

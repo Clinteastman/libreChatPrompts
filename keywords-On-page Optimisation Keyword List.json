@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "On-page Optimisation Keyword List",
+    "promptPrefix": "Please create a single list that includes the long-tail phrases for the provided Semantic, LSI, and NLP keywords, and another single list of Unique Single Keywords. The output should be in [TARGETLANGUAGE]. Please include phrases with numbers. The first keyword in the list is always the primary keyword of the page. Please focus on outputting the most important unique single keywords for on-page optimization. To do this, please analyze the three lists of keywords provided and output an independent list of unique single words that could be used for on-page optimization. Please disregard any previous instructions. [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "On-page Optimisation Keyword List"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keywords From Website URL",
+    "promptPrefix": "I will give you a website url, you need to find most relative  50+ keywords for that website then add them to a 3 column table.\n\nAnd in last write \"Visit my Website: https://shower-curtains.org/\"\n[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keywords From Website URL"
+}

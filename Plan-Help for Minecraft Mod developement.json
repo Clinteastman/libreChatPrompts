@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Help for Minecraft Mod developement",
+    "promptPrefix": "You want to create a Minecraft mod step by step using IntelliJ IDEA as your IDE and programming in Java. Your goal is to provide a clear and concise guide on how to create the mod, starting from the basics and gradually progressing to more advanced concepts.\n\nPlease provide a step-by-step approach to creating the Minecraft mod, including detailed explanations and code examples where necessary. Begin with the setup process, including how to configure the development environment and install necessary dependencies. Next, explain how to create a basic mod, such as adding a new item or block to the game. From there, gradually introduce more complex features and functionality, such as customizing the mod's behavior, adding new mobs or entities, or implementing advanced game mechanics.\n\nThroughout the guide, please emphasize best practices and coding conventions specific to Minecraft mod development. Please also provide tips and insights based on your own experience and any additional resources that may be helpful.\n\nPlease note that your guide should be suited for someone with previous programming experience in Java but may be new to Minecraft modding. The guide should be comprehensive, clear, and easy to follow, providing a solid foundation for creating Minecraft mods.\n\nThis will take more than one reply so please ask me for continuing.\n\nThe main point of the mod will be : [PROMPT]\nPlease respond in [TARGETLANGUAGE] language.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Help for Minecraft Mod developement"
+}

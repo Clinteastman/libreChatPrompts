@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Vietnamese News article lesson B2",
+    "promptPrefix": "I am learning Vietnamese. My current level is intermediate B2.\nYou will act as a teacher and teach me Vietnamese.\nYou will answer using only 2 languages: [TARGETLANGUAGE] and Vietnamese.\nPlease write a complete lesson about the news article below. First, you will provide a part that helps with understanding the new article. This first part includes a list of the complex vocabulary (with the translation in [TARGETLANGUAGE]) that is essential to understand the news article.\nIn the second part, you will provide some questions in Vietnamese that I will need to answer in order to confirm my understanding of the text. \nIn the last part, you will provide the answers for part 2, all in Vietnamese.\n\nHere is the article:\n\n [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Vietnamese News article lesson B2"
+}

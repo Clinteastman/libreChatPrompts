@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Storytelling LinkedIn post caption",
+    "promptPrefix": "[PROMPT] Write a storytelling LinkedIn post caption from 200 to 400 character limit. Start the caption with a question or highlighting the most important part of the information using the slippery slide concept. Then highlight how it's done and what results it brought. Make it casual reading style and friendly tone of voice. All output should be in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Storytelling LinkedIn post caption"
+}

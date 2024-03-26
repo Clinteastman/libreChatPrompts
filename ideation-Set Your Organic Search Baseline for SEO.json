@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Set Your Organic Search Baseline for SEO",
+    "promptPrefix": "Your task is to generate keywords, I give you 20 words or a maximum of 130 characters. All output shall be in [TARGETLANGUAGE]. The text keyword ranking is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Set Your Organic Search Baseline for SEO"
+}

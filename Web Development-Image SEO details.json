@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Image SEO details",
+    "promptPrefix": "Create an alt image text, image title, caption and meta description for an image  IN [TARGETLANGUAGE] showing an image of\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Image SEO details"
+}

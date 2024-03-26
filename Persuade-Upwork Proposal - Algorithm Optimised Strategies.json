@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Upwork Proposal - Algorithm Optimised Strategies",
+    "promptPrefix": "\nUpwork proposal example #3:\n\nHello Nicki,\n\nI\u2019m a detail-driven writer who turns ideas into valuable website content for clients just like you. I enjoy writing for various topics and niches (business, lifestyle, travel, personal blogs, etc.). You can find examples of my past writing work on my Upwork profile, plus (insert link here) and (insert link here).\n\nMy experience has given me a deep understanding of SEO writing and strong digital marketing strategies to help drive traffic to your site. I excel in writing all types of content such as blogs, press releases, product descriptions, and more.\n\nMy rate is $50 for projects like this one, and I can have a finished piece of writing delivered to you this week if you\u2019re interested. Let\u2019s talk!\n\n\u2013 [VARIABLE1]\n\n\nI will give you a job description and you have to write the best proposal possible to work on that job, using all the information that is given above. The proposal should be extremely short and little and contains only 2 paragraphs. Please write in [TARGETLANGUAGE] language. Please sign off the letter using the name [VARIABLE1].\n\nThe following is the job description:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Upwork Proposal - Algorithm Optimised Strategies"
+}

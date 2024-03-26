@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Ingredient Page Prompt",
+    "promptPrefix": "In [TARGETLANGUAGE] write a content prompt for a new page in the Skincare space. This page will be all about [PROMPT], and include 6 main sections. DO NOT write the page, instead write a content brief that will give a generalization of what needs to be included in each section. Each section should start with a single bold word + colon, and add an empty line between each section.\n\nSection 1: bold the word \"Introduction:\" and tell the user that \"Create a 2-3 sentence introduction for [PROMPT] and include either a high-quality picture or explanation video\"\n\nSection 2: Bold the word \"Definition:\". Give a brief definition of [PROMPT] and encourage the writer to add further insights.\n\nSection 3: Bold the word \"Uses:\". Give 4-5 bullet points on what uses [PROMPT] has.\n\nSection 4: Bold the words \"Top [PROMPT] Sources:\". Give bullet points for the different sources of [PROMPT] for skincare.\n\nSection 5: Bold the words \"Incorporating [PROMPT] Into Your Routine\". Give 3-4 bullet points for how [PROMPT] can be incorporated into a skincare routine.\n\nSection 6: Bold the words \"Myths and Facts\". Say \"Identify some myths or FAQs about [PROMPT] and create an FAQ section, utilizing FAQ schema. Some FAQs could be\" and then list 3-4 bullet points of FAQs or common Myths about [PROMPT]\n\nSection 7: Bold the words \"Related Products:\" and in the following line say \"Add a section to link all products containing [PROMPT]\"\n\nSection 8: Bold the words \"Related Articles:\" and in the following line say \"Add a section to link all blogposts that mention [PROMPT]\n\nKeep the entire response around 125 words, it is not necessary to use complete sentences.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Ingredient Page Prompt"
+}

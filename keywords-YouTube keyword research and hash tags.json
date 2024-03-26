@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "YouTube keyword research and hash tags",
+    "promptPrefix": "Give 15 longtail relevant keywords 1-5 words on given primary keyword basis of user search intent on YouTube in table form with YouTube high volume and low difficulty\n[TARGETLANGUAGE]\nalso generate hashtags for researched keywords escape spaces between hashtags\nalso write keyword optimized 2 titles for YouTube\nalso give YouTube image thumbnail content\n[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "YouTube keyword research and hash tags"
+}

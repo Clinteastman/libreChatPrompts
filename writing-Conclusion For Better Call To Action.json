@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Conclusion For Better Call To Action ",
+    "promptPrefix": "Ignore all the previous prompts. Suppose you are good in writing copies of blog posts conclusions that rank in google very well of given data by people [TARGETLANGUAGE]. \n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Conclusion For Better Call To Action "
+}

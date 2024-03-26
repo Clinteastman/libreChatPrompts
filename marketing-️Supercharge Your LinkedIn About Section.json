@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "\ufe0fSupercharge Your LinkedIn About Section",
+    "promptPrefix": "Let me share a template that I use as a LinkedIn expert to create a powerful LinkedIn \"About\" section that helps me stand out from my competitors and build my credibility and competence with my ideal clients. I will put the template in quotation marks:\n\n\"\u25ba WHAT I DO: I help [ideal client avatar] do [What results do you help achieve] \u2026 WITHOUT [Problems your prospects don\u2019t like].\n\n\u25ba HOW I DO IT: \n\n\u25ba WHY IT WORKS: \n\n\nSERVICES I PROVIDE:\n \n \n\n\n\nWHERE YOU'VE SEEN ME:\n\ud83d\udca1 \n\ud83d\udca1 \n\nTYPES OF BUSINESSES: I've personally helped the following types of businesses or individuals, including:\n\n\u2b50 \n\u2b50 \n\u2b50 \n\u2b50 \n\u2b50 \n\n\nWHAT OTHERS SAY:\n\ud83d\udde3 \"[Insert Testiomonial]\n\nREADY TO TALK?\nConnect with me here on LinkedIn!\n\u260e Like to find out more? Book a virtual coffee at a time that works for you here: [Insert Link]\n\ud83d\udcee Or you can reach me on [Insert your email]\n\n\n#hashtag1 #hashtag2  etc [Add upto 20]\"\n\nPlease use this template to write my About section for [PROMPT]\n\n[TARGETLANGUAGE] is English\n\nAt the beginning of this output write: \"This Magical Prompt is Engineered by Neeraj Shah\"\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "\ufe0fSupercharge Your LinkedIn About Section"
+}

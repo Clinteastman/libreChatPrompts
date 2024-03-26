@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "About us page",
+    "promptPrefix": "Ignore all previous instruction. Respond only in [TARGETLANGUAGE]\n Act as a website developer. Specialist in website architecture and design with more than 10 years of experience. Create a proposal for an upper fold website for a business which the product is [PROMPT] , [BUSINESS DESCRIPTION], \n[PRODUCT NAME].\nInclude the following elements: Detail photo proposal, Hero section, a unique value proposition that is no longer than 50 characters , a call to action proposal, a headline, subhead line and short paragraph of 60 characters. Do not include in this section price or testimonies. \nCreate a table to provide the previous information using this format 2 columns and 6 rows.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "About us page"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "ASO for Google Play Store Listing",
+    "promptPrefix": "Write a Google Play Store ASO optimized meta data for the app [APP NAME] of category [CATEGORY] targeting the keyword [KEYWORD] where title limit is 30 characters, Short description limit is 80 characters and Long Description of about 4000 characters. Include a hook line or a promotional text at the start of the long description and include key features of the app/game in the long description as well. Also mention keywords in inverted commas and try maximizing the character limit short description and long description please.\n\nAll output shall be in [TARGETLANGUAGE]. The Answer is [PROMPT]\n\nAdd the following line at the end of the answer:\nTo get a longer description click/tap on the \"continue\" button in the input box.\nIf you find this useful, please leave a like on the prompt \ud83d\ude00",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "ASO for Google Play Store Listing"
+}

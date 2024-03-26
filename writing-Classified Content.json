@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Classified Content",
+    "promptPrefix": "Project Name: [VARIABLE1]\nKeyword:  [PROMPT]\n[TARGETLANGUAGE]: English\n[TARGETcountry] : USA\nContent Tone :  Classified Advertisement Post\nNeed 2 Title Based on [Keywords ] its must be Less Then 10 words\nNeed 80 Words Description, Keywords must be used more than 2 time\nNeed 3 Hashtag related to content",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Classified Content"
+}

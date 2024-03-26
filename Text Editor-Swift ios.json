@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Swift ios",
+    "promptPrefix": "Help me with IOS developing with Swift and Xcode\n\nMY CODE: [PROMPT]\n\nMy expectation about this problem: [VARIABLE1]\u2028\nMy error: [VARIABLE2]\n\nMy goal: [VARIABLE3]\n\u2028All output should be in [TARGETLANGUAGE]\n\n[VARIABLE1:My problem:none]\n[VARIABLE2:Error you got:none]\n[VARIABLE3:Goal to achive:none]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Swift ios"
+}

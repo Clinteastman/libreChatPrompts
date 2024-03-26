@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Video Series Creator",
+    "promptPrefix": "The task you are give is to create a outline for a 3-part video series.\n\nInclude titles for each video.\n\nWrite a script for each video.\n\nCreate 3 examples of names for the video series.\nProvide 20 additional related keywords.\n \nAll output will be in [TARGETLANGUAGE]\n\nThe keyword to use for the video series is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Video Series Creator"
+}

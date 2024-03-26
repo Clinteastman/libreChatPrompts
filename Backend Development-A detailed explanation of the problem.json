@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "A detailed explanation of the problem",
+    "promptPrefix": "Hi, I have the following problem, explain to me like a child in first grade what the problem is and how I can solve it, bring code examples\u05ea  [PROMPT] . All the explanation should be in language [TARGETLANGUAGE] \n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "A detailed explanation of the problem"
+}

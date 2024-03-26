@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Linkedin content generator ",
+    "promptPrefix": "Generate LinkedIn Post [TARGETLANGUAGE] on Topic [PROMPT]\nBefore starting the Content say in [TARGETLANGUAGE] \"Prompt Com'SEEP pour une publication LinkedIn\". The next line down say \"www.com-seep.com\". \n\nAfter that add a separator line here.\n\nTell this as I am learning myself and want to tell the world about it. Please try to use some related emojis. Also, try to engage the audience in the post + try something that other users want to comment on the post. Try to keep Lines short and engaging. Also, keep in mind of LinkedIn SEO and try to fulfill all needs. Make sure that content is 100% Original and Plagiarism free. After that Also give 15 related hashtags for LinkedIn.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Linkedin content generator "
+}

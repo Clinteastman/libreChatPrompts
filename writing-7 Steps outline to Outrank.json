@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "7 Steps outline to Outrank ",
+    "promptPrefix": "1.\tIntroduction unique \n\nHook the reader as quickly as possible. Make the intro conversational, ask questions and put yourself in the reader's shoes.\n\nYou want them to think: \u201cThis author gets me\u201d\n\n2. Challenge - Explain why companies struggle with this [PROMPT].\nIs it lack of expertise, strategy, resources? Be detailed. Demonstrate that you understand their pain points\n\n3. Benefits - Why should the reader care about this [PROMPT]? How can they benefit by reading further? Make it practical and engaging.\n\nInclude at least 3 benefits. Use statistics to support your argument\n\n4. Practical tips on [PROMPT] - Create practical tips that they can implement to improve their business.  Share tactics, best practices, new ideas - and how to execute them to help them achieve real business benefits They should be able implement at least 1 tactic immediately after reading - whether they\u2019re a beginner or expert.\n\n5. Unique content on [PROMPT] Use one of the below to make it unique:\n\n\u2192 Product: Include references to the product [link here]. Be specific and try to include screenshots or video.\n\n\u2192 Case study: Reference a case study that describes how a customer used to have the same challenge and how they solved it by using your product [PROMPT]\n\n\u2192 Experience or POV: Share your experience or point of view. Your experience is unique and adds value to the piece\n\n\u2192 Subject matter expertise: If you don\u2019t have experience, ask someone internally - \u201cWhy should companies invest in TOPIC?\u201d and use their quote\n\n\u2192 Software, tools and resources: Any software, tools or resources you have used or recommend? Add it here and why you recommend it\n\n6. Conclusion  - Wrap up the piece. Connect the introduction to the conclusion. Make sure you tie everything together \n\n7. CTA The call to action should be a logical next step and flow seamlessly from the conclusion. Use a CTA that\u2019s descriptive and relevant to use the [PROMPT] or product. \n[TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "7 Steps outline to Outrank "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Affiliate Optimized Content- 100% Human Written ",
+    "promptPrefix": "Follow the following [PROMPT] and describe every single one\n\nand follow [TARGETLANGUAGE]\n\n[Title]\n\n[Introduction]\n\n[Summary]\n\n[5 Products Types]\n\n[Product: 1]\n[Summary]\n[Description]\n[About this Item]\n[Reviews]\n[Pros & Cons]\n[Why should I buy this product]\n\n[Product: 2]\n[Summary]\n[Description]\n[About this Item]\n[Reviews]\n[Pros & Cons]\n[Why should I buy this product]\n\n[Product: 3]\n[Summary]\n[Description]\n[About this Item]\n[Reviews]\n[Pros & Cons]\n[Why should I buy this product]\n\n[Product: 4]\n[Summary]\n[Description]\n[About this Item]\n[Reviews]\n[Pros & Cons]\n[Why should I buy this product]\n\n[Product: 5]\n[Summary]\n[Description]\n[About this Item]\n[Reviews]\n[Pros & Cons]\n[Why should I buy this product]\n\n[The Research]\n[Overview]\n[Why we picked]\n[Top Rated Product]\n[How can you trust us?]\n[Who can use this?]\n[Step-by-Step Process]\n[Care and Maintenance]\n[Conclusion]\n\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Affiliate Optimized Content- 100% Human Written "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create Highly Ranked Google Posts ",
+    "promptPrefix": "Your task is to write a Google my business post from the text or link you are given. Please get the business name from the link provided and include it in the text. The post should be rich in keywords that will rank well.  The text should be no longer than 1500 characters. Also please refrain from using hashtags and make it sound as human as possible. All output shall be in [TARGETLANGUAGE]. The link or text to the write about is:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create Highly Ranked Google Posts "
+}

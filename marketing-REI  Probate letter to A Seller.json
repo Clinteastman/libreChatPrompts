@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "REI  Probate letter to A Seller ",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE]. I want you to act as a real estate investor expert that speaks and writes fluent [TARGETLANGUAGE]. Your task is to write a probate letter in no more than 300 words to a seller in [TARGETLANGUAGE]. On behalf of a company name. The primary goal of this letter is to request to have a conversation with the seller so the writer can learn more about them and about their needs, and answer their questions about the process and the market. Include the name of the seller in the letter as early as possible to personalize it, and ensure you include the name of the real estate agent writing on behalf of Chucky Buys Lucky Houses in the introductory section of the letter, and include contact information in the concluding portion of the letter. The letter is to be written in a way that is direct, simple, and respectful.  Emphasize the company name, expertise, and history of successful and quick transactions.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "REI  Probate letter to A Seller "
+}

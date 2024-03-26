@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Earn more money with Quiz content",
+    "promptPrefix": "First of all, I want you to act like a human content writer.[TARGETLANGUAGE]\nSecondly, Please write at least 300 words about the given topic with quiz content style.[TARGETLANGUAGE]\nThirdly, Please generate 10 quiz question and genearte 4 multiple choice for each of them also mention the answer.[TARGETLANGUAGE]\nFinally, Write a nice conclusion so that the user will feel happy using the quiz[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Earn more money with Quiz content"
+}

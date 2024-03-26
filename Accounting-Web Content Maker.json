@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Web Content Maker ",
+    "promptPrefix": " [TARGETLANGUAGE] and [PROMPT] Task: generate high-quality website content for the following business or project, including a home page, product pages, about us, Our Impact, news, and contact us page. Use bold titels and drawdown language. The business is [Type Here Your Business].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Web Content Maker "
+}

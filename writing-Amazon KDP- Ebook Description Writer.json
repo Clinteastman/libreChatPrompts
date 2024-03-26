@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Amazon KDP/ Ebook Description Writer ",
+    "promptPrefix": "Write a long Amazon ebook description using Pain thrice, Agitation and Solution on  [PROMPT]. Make it persuasive that the reader Who reads this will want to buy and list the benefit of having this ebook (Note List the benefit), what they will gain and call to action. All output shall be in  [TARGETLANGUAGE]\n\n\n Rule this out with lines And In The Very Bottom of the content you need to write Write \"Get Access to 1000 Chaptgpt prompt:https://bit.ly/chatgptpromptmax\".\nThen\n\n\"Access To 500+ Premium Chatgpt Prompt Templates: https://bit.ly/3pofV0X\"\n\n\nDo not echo my prompt",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Amazon KDP/ Ebook Description Writer "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewrite Paragraph To Remove fluff",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as an expert [SEO content writer] and high-end [copywriter] that rewrite without any [fluff] [TARGETLANGUAGE]. I want you to pretend that you can rewrite the given paragraph in an informal tone of voice in [TARGETLANGUAGE] so that it can outrank other websites,with easy and to-the-point logical output. Your task s to rewrite to paragraph in informal tone using popular idioms, and an easy to read, spicy tone of voice  to entertain and increase the [curiosity] of readers in [without fluff] each sentence have maximum 8 words. All output shall be in [TARGETLANGUAGE]. The text to rewrite is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewrite Paragraph To Remove fluff"
+}

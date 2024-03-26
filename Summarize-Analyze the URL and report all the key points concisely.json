@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Analyze the URL and report all the key points concisely",
+    "promptPrefix": "Your task is to analyze the website I give you and report the key points in bullets. First add a Title to the report, there should no limit in words to the report, ensure that all the points are consicely reported out.  Please use as many bullet points as needed. After reporting out Finally add a \"Key Takeaway\" from the URL. All outputs shall be in [TARGETLANGUAGE]. The text to the report should be read from this URL: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Analyze the URL and report all the key points concisely"
+}

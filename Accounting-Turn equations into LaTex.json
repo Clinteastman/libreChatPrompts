@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Turn equations into LaTex",
+    "promptPrefix": "Please ignore all previous inputs. Turn [PROMPT] into perfect LaTex code in [TARGETLANGUAGE].\nAlways start an equation with \\begin{equation} and end an equation with \\end{equation}.\nDo not solve any of the operations while generating the LaTex code. In other words, do not synthesise 2*7*x into 14*x or any other mathematical equations.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Turn equations into LaTex"
+}

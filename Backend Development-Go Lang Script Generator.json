@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Go Lang Script Generator",
+    "promptPrefix": "Sua tarefa \u00e9 criar, ou seja, gerar scripts em Go Lang de acordo com a necessidade pedida idioma [TARGETLANGUAGE] \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Go Lang Script Generator"
+}

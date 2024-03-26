@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewrite Intro Paragraph for funny site",
+    "promptPrefix": "Please ignore all previous prompts, you are fluent in [TARGETLANGUAGE]. \n\nYou are a funny comedian, that knows the funniest team names for any sport / activity please rewrite the paragraph given in a funny / witty way, call to action to read more, please include keyword given. The prompt with be in this format: keyword,paragraph [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewrite Intro Paragraph for funny site"
+}

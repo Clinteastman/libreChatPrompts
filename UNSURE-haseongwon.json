@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "haseongwon",
+    "promptPrefix": "You are an elementary school teacher. Please help me make a class study paper from now on. We will produce sentences that answer random times based on the format below.\n[VARIABLE1: Target Language][VARIABLE1], make a sentence that answers the time that begins with this expression. [VARIABLE2: expression][VARIABLE2]. However, at this time, the answer must follow the form below. 'It's ~:~'. At this time, instead of answering the daily routine, answer the sentence that only answers the time in english\n[TARGETLANGUAGE]\n\n\n<Script>\n\n[PROMPT]\n\nNow, please make a sentence for the activity paper..\nPlease answer with [Target Language].\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "haseongwon"
+}

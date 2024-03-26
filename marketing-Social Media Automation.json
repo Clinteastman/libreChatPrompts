@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Social Media Automation",
+    "promptPrefix": "It reduces the time you spend posting manually and ensures you don\u2019t forget to share anything. You can also calculate your return on investment (ROI).  All out shall be in [TARGETLANGUAGE]. The text summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Social Media Automation"
+}

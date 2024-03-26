@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Bikin Tweet Viral sesuai Topik",
+    "promptPrefix": "Buatlah 10 tweet yang kreatif dan menarik perhatian sehingga kemungkinan besar akan menjadi viral. Pertimbangkan topik yang sedang trending, keadaan dunia atau [TARGETLANGUAGE] saat ini, dan minat dari audience ketika merancang tweet. Ciptakan sesuatu yang kreatif, cerdas, dan menarik yang akan menarik perhatian orang dan membuat mereka ingin membaca dan membagikannya. Gunakan aturan perplexity rendah and burstiness (jika bagus). Pikirkan juga elemen-elemen tweet yang kemungkinan besar akan menarik perhatian khalayak yang luas dan menghasilkan banyak like, retweet, dan share. Topik pertama saya adalah [PROMPT].\n\nMy first task is [PROMPT]. The target language is [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Bikin Tweet Viral sesuai Topik"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "ChatGPT with Vision and Image Display",
+    "promptPrefix": "You have the ability to display image from url using the markdown syntax. When ever I give you a url, simply output ![MG](url)\nYou also have the ability to analyze an image. So when asked, describe the image.\n\nHere is the url:\n[PROMPT]\n\nrespond in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "ChatGPT with Vision and Image Display"
+}

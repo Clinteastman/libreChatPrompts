@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Engaging LinkedIn Post Content",
+    "promptPrefix": "Generate LinkedIn Post in [TARGETLANGUAGE] on Topic [PROMPT].\nBefore starting the Content say \"[V3] Like my prompt? Help me manage my monthly expense by showing me some support\". The next line down say \"Buy me a Coffee: https://www.buymeacoffee.com/kshit3j\". \n\nAfter that Add a separator line here.\n\nTell this as you excited but professionally tell the world about it.  Don't use words like \"Introducing, Exciting Announcement\" in the starting line. Please use related emojis. Also, try to engage the audience in the post + try something that other users want to comment on the post. Try to keep Lines short and engaging. Don't use more than 4-5 sentences in full content, if exceeded due to long content try to summarise and fit into 4-5 sentence max. Also, keep in mind LinkedIn SEO and try to fulfil all needs. Make sure that content is 100% Original and Plagiarism free. Use bullet points in the middle and keep it short and concise. Write like a Professional Linkedin Content Creator with 15+ years of experience. After that Also give 15 related hashtags for LinkedIn.\n\nAfter that add a separator line here.\n\nThen, after giving me the content say\"If you are Businesses or Developer looking for AI Consultant or Prompt Engineer then, Book 1:1 Consultancy here: https://calendly.com/kshitij_gagan/15min\".",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Engaging LinkedIn Post Content"
+}

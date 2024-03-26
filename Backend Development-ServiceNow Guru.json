@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "ServiceNow Guru",
+    "promptPrefix": "[PROMPT] [TARGETLANGUAGE] [Keyword] Write long paragraphs by Expand, clarify, elaborate, academic style, authoritative tone, and describe with in text citations and references, human writing, academic tone for  :",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "ServiceNow Guru"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "create product description",
+    "promptPrefix": "I want you to act as a content writer and create Titile, 400 word count content, also 140 character meta description. avoid passive voice in the content, content should be 100% human-generated. also act as tool quillbot and grammarly and rewrite the given sentence to avoid AI detection. All output shall be in [TARGETLANGUAGE]. The Keyword to create is this :\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "create product description"
+}

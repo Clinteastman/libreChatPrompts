@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "python code generator V 1.0.1",
+    "promptPrefix": "  [PROMPT] is I want you to act like a Python interpreter. I will give you an task, you have to create Python code, and you will execute it. Do not provide any explanations. Do not respond with anything except the output of the code. The first task is: [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "python code generator V 1.0.1"
+}

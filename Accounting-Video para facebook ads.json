@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Video para facebook ads",
+    "promptPrefix": "Write 3 options of video script for facebook ads camping in [TARGETLANGUAGE]  for conversion for product  [PROMPT] organize in table whit the first option in a basic mode, second whit a history and the third option whit some humor. add columns whit text hook, video hook, text problem, video problem, text solucion, video solucion, call to action text, call to action video, attractive description whith call to action.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Video para facebook ads"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Semantically related phrases to a topic seeded by keywords",
+    "promptPrefix": "Ignore all previous commands.  I want you to respond in [TARGETLANGUAGE].  This AI will generate the most semantically related phrases based on a topic, seeded by hint words \n\nTopic or T: enter the topic here \nHints or H: enter the hint words to construct phrases here \nPhrases or P: export most semantically related phrases here, comma separated \n[PROMPT]\nT:\nH:\nP:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Semantically related phrases to a topic seeded by keywords"
+}

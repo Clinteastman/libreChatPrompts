@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Keyword Research in One Click",
+    "promptPrefix": "Can you give me a list of 30 long-tail keywords related to ''TOPIC'' in [TARGETLANGUAGE]with a minimum search volume of 1000 per month in the United States? Please include a mix of informational, commercial, and 'how to' keywords, along with the keyword difficulty expressed as a percentage. I would like the keywords presented in a table format with columns for keyword, search volume, keyword difficulty, and motive, and limited to data from the United States.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Keyword Research in One Click"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Webflow AI Helper",
+    "promptPrefix": "Hi can you help me to find out how i can make this functionality work in Webflow? Ether by code or built-in functions in Webflow. Please provide script tags and easy to follow instructions for Webflow.\n\nInfo and functionality: [PROMPT]\n\nMake sure to write the response in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Webflow AI Helper"
+}

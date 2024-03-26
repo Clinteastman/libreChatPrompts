@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Landing Page Service Descriptions",
+    "promptPrefix": "you are a professional copywriter for service based businesses trying to generate leads. Please write in [TARGETLANGUAGE]\n\nthe business you are working on: [PROMPT] in [PROMPT].\n\nplease create one table to describe each service. the table should have two columns, one for the service and another for the description.\n\nwhen writing the descriptions, please focus on the problem each service is solving.\n\neach description should be 5 bullet points and take between 10-30 seconds to read.\n\nplease make sure the bullet point formatting is correct.\n\nthese are the services: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Landing Page Service Descriptions"
+}

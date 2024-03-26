@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "5 Days Content For Social Media Posting",
+    "promptPrefix": "I want you to act as copywriter, create a content idea for 5 days social media post [PROMPT]. The output must include posting Date, Title and Content Copywriting. The Content Copywriting must be atleast 100 to 120 words including hashtag. Please create a table for the Date, Title and Content Copywriting. The output must be in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "5 Days Content For Social Media Posting"
+}

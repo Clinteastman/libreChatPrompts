@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook Ads Primary text",
+    "promptPrefix": "I need 1 tables. \n\nCan you please provide me with a list of 20 crisp Primary text on the topic \"[PROMPT]\", each with a  minimum of 110 characters and maximum of 125 characters including spaces? I plan to use these Primary text for Facebook Ads.\n\nOutput this list in the form of a table. The table should have one column. The respective heading is output in the column. The column heading should read \u201cPrimary text (max. 125 characters)\u201d in [TARGETLANGUAGE]. The column heading should be translated to \"[TARGETLANGUAGE]\".\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook Ads Primary text"
+}

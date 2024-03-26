@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Landing Page Copy",
+    "promptPrefix": "[TARGETLANGUAGE]\n\n[PROMPT] Act as a landing page copywriting expert. \nI will give you a brief below and you will ask me questions to understand the product, brand and audience as best as you can. \n\nCompany: [BRAND]\nProduct: [PRODUCT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Landing Page Copy"
+}

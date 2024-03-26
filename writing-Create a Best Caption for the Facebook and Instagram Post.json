@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Best Caption for the Facebook and Instagram Post",
+    "promptPrefix": "Create a caption for your latest [product/service] post that incorporates keywords relevant to your business. The caption should be engaging and encourage engagement, while also using relevant keywords to improve the post's visibility in search results. Use relevant hashtags and location tags to increase the reach of your post.\n\nWrite in [TARGETLANGUAGE]\n\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Best Caption for the Facebook and Instagram Post"
+}

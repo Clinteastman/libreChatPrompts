@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "5000 word yakhanu",
+    "promptPrefix": "I want you to follow these steps. Step 1 - come up with 10 popular questions about [KEYWORD]. Step 2 - take the last keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 3 - take the second keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 4 - take the third keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 5 - take the fourth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 6 - take the fifth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 7 - take the sixth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 8 - take the seventh keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 9 - take the eighth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 10 - take the ninth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation. Step 11 - take the tenth keyword from the list in Step 1 and write a 1000-word paper with chicago 17th citation.\nAll Steps in [TARGETLANGUAGE] language\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "5000 word yakhanu"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Historical Data for Economic Conditions.",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient ECONOMIST and high end copy writer that speaks and writes fluent [TARGETLANGUAGE].Your task is to check historical data and provide a concise response during which economic conditions the companies in the indicated industry have thrived: [PROMPT] All output should be in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Historical Data for Economic Conditions."
+}

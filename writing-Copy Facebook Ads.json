@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Copy Facebook Ads",
+    "promptPrefix": "Formule 10 copys com no m\u00ednimo 400 caracteres e no m\u00e1ximo 500 caracteres, 10 chamadas com 50 caracteres e no m\u00e1ximo 60 caracteres, e 10 call to action com 20 caracteres e no m\u00e1ximo 30 caracteres de forma persuasiva e atraente otimizadas para an\u00fancios no Facebook Ads sobre [PROMPT]. Formate a sa\u00edda como uma tabela intituladas Copy, Chamada e CTA. Toda a sa\u00edda deve estar em [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Copy Facebook Ads"
+}

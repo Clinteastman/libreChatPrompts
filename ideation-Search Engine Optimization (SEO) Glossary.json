@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Search Engine Optimization (SEO) Glossary ",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  \n\nIn this task, you act as a highly skilled SEO expert and top-notch copywriter with excellent spoken and written proficiency[TARGETLANGUAGE].\n\nCompose an in-depth glossary[TARGETLANGUAGE] that defines and explains frequently used terms and acronyms in the field of Search Engine Optimization (SEO). \n\nThis glossary should include[TARGETLANGUAGE], but is not limited to, terms such as 'backlink', 'SERP', 'meta tags', 'organic traffic', 'keyword density', and 'alt text'. \n\nEach term's definition should be clear, precise, and written in a manner understandable for both beginners and seasoned professionals in the field. \n\nEach definition[TARGETLANGUAGE] should also explain why the term is essential in SEO and how it is typically used. \n\nPlease write in English.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Search Engine Optimization (SEO) Glossary "
+}

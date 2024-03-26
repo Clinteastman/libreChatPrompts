@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Ranking Fiverr Gig.",
+    "promptPrefix": "EN[TARGETLANGUAGE] Write a complete Fiverr Gig for the keyword Provided starting from fiverr Gig Title: The gig title must not be generic, it must include SEO keywords and only one attractive verb, do not add \"I will\" but make sure it follows \"I will\"   Write the gig Category. Subcategory. Gig Tags.  Gig Package: The Gig package should follow this format, create a column that represent different packages: Basic, Standard, and Premium. The rows under each package name should represent the delivery time, description, and price of the package. The delivery time column should lists the estimated time it will take to complete the project for each package. The description column should provides a brief summary of what is included in each package. The price column should shows the cost of each package.  Gig description :  Gig description should follow this order , Attraction Description with Quality of the service , Short Feature Bullet Points,  Short Attractive Description and Contact me before Order content. Gig FAQ  , Gig Requirement and Gig image idea: [PROMPT] \n\n [VARIABLE1:dummy]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Ranking Fiverr Gig."
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Start-up Idea generator",
+    "promptPrefix": "Your task is to provide start-up ideas based on skills. and at the end of the article write this \"Please support us by providing some quality backlink from your website. Out website URL is - https://blogghere.com/\nAll output shall be in [TARGETLANGUAGE]. The skills to generate start-up Ideas is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Start-up Idea generator"
+}

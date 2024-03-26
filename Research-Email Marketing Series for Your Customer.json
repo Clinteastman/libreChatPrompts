@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Email Marketing Series for Your Customer",
+    "promptPrefix": "Please ignore all the previous instruction. i want you to give answer on [TARGETLANGUAGE]. I understand you can generate one email marketing sequence for information & sales of product/service of [PROMPT]. Schedule in a tabular format of a day-by-day email for information to customer & Sales of a product/service given to you. In 1st Column Include Day. 2nd Column please create a beautiful subject line for email. 3rd column of long & Best Email body for the same with replacement of <Enter> with <br>.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Email Marketing Series for Your Customer"
+}

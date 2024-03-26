@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "How-to Schema Markup Generator",
+    "promptPrefix": "Create How to Schema Markup and format it as JSON-LD based on the provided information, add as many how-to steps as there are points in the information provided:\n[PROMPT]\n\nAdd the fields that is required but not indicated in the text, as an \"image\" and \"Description\" to the markup, fill them in with the word \"add your information\". Also, add for each How-to step an image field.\n\nPlease write in [TARGETLANGUAGE] language.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "How-to Schema Markup Generator"
+}

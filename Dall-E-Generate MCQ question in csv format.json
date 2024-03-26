@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate MCQ question in csv format",
+    "promptPrefix": "generate 25 [KEYWORD] multiple-choice questions with four options  and corresponding answers (1, 2, 3, 4) in a csv format [TARGETLANGUAGE]\n [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate MCQ question in csv format"
+}

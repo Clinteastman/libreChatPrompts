@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "<HTML> Product Description ",
+    "promptPrefix": "Your task is to create a product description with these instructions:\n2) 2, 3, 4 or 5  paragraphs with the headings <h3> <h4>  and <h5> with the benefits of the product.\n3)Create a bullet point <ul> list with the most important futures and a heading in <h5>. \n\nThe description should be written in HTML.\nAll output shall be in [TARGETLANGUAGE].\n\nNow I will give you the text to examine and create the product description:\n\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "<HTML> Product Description "
+}

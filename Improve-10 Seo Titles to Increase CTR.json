@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "10 Seo Titles to Increase CTR",
+    "promptPrefix": "Your task is to create 10 unique catchy, click-worthy seo titles that can increase CTR. The titles should be maximum of 60 characters. Add some phrases related to the query, to increase CTR inside (). All output shall be in [TARGETLANGUAGE] and in Secentence Case. The text to summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "10 Seo Titles to Increase CTR"
+}

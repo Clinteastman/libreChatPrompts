@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "All in One Programming Tools 100%",
+    "promptPrefix": "[TARGETLANGUAGE] full code of \"[PROMPT]\" in HTML, CSS, JAVASCRIPT and If need those code languages then use it: PHP, Python, C++, XML, Kotlin, Java, Swift, C#, C, NoSQL, SQL, Matlab, Ruby, R, TypeScript, Cala, Laravel . use icons if needed. Make it code are real working. Make it with eye-catching, beautiful and unique design in CSS. use: mouse hover effects, animation if need. Make Fully all elements Responsive Code any devices.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "All in One Programming Tools 100%"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook Post",
+    "promptPrefix": "Write a really short facebook post about the following article, use CTA\u00b4s and emojis. Write in [TARGETLANGUAGE]. \n\nCreate 3 versions\n\n[PROMPT]  ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook Post"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Instagram Hastag generator#",
+    "promptPrefix": "I want you to act as a creative social media strategist and generate Instagram hashtags that are not only relevant but also eye-catching and engaging. Use [my business niche/audience/target market] as the foundation for your hashtag suggestions and ensure they align with current trends and popular themes on the platform.\nAt the end of the output please mention and  Mark it bold and Italic , font size 5.-\" if you like the result, please hit the thumbs up button on the top\".\nThe target language is  [TARGETLANGUAGE] .\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Instagram Hastag generator#"
+}

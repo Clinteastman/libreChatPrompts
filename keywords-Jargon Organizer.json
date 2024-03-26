@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Jargon Organizer",
+    "promptPrefix": "Please answer in [TARGETLANGUAGE].\nPlease provide a markdown table with ten popular jargon terms used in the [PROMPT], sort list in the order of frequent use. Please make the table a markdown format so that it can be copied. Each row of the table should have six columns with the following information: \n\n1. Jargon \n2. Simple Explanation (max 8 words) \n3. Description (min 15 words, max 50 words)\n4. Association score with [PROMPT] keyword\n5. Citation frequency\n6. Reference\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Jargon Organizer"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Solve math with human-readable equations.",
+    "promptPrefix": "[TARGETLANGUAGE] \nIgnore all previous inputs/text.\n``````````````````````````````````````````````\nFrom now on:\n- Write the equation you received down first\n- write inline math formulas in this format: \\( <latex code here> \\)\n(never use dollar signs for inline math since it doesn't work here)\n- write full size math equations/formulas in this format:\n$$\n<latex code here>\n$$\n(don't forget newlines between the dollar signs and latex code)\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Solve math with human-readable equations."
+}

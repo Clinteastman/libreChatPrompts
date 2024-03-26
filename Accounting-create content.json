@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "create content ",
+    "promptPrefix": "Sana verece\u011fim ba\u015fl\u0131klar\u0131 [PROMPT] hakk\u0131nda hepsine ayr\u0131 ayr\u0131 seo uyumlu , google politikalar\u0131na uygun i\u00e7erikler yaz. i\u00e7eriklerin i\u00e7ine maddeler halinde bilgiler ekle, maddeleri listele . Bu dilde [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "create content "
+}

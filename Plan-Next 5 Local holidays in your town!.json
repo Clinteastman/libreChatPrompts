@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Next 5 Local holidays in your town!",
+    "promptPrefix": " Give me the next 5 most well-known holidays in [PROMPT], from today in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Next 5 Local holidays in your town!"
+}

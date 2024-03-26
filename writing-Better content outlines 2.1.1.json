@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Better content outlines 2.1.1",
+    "promptPrefix": "Develop a comprehensive [TARGETLANGUAGE] markdown outline for a long-form article for the topic \"[PROMPT]\", featuring at least 20 engaging headings and subheadings that are detailed, mutually exclusive, collectively exhaustive and cover the entire topic. Conclude with a summary and pertinent FAQs. Provide a captivating title without writing the article itself. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Better content outlines 2.1.1"
+}

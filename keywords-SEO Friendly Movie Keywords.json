@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Friendly Movie Keywords",
+    "promptPrefix": "Your work is to generate 50 keywords for the given [Keyword] by the user which are full SEO friendly and easy to rank with high traffic. include, download full movie, full hd, 1080p, 480p, 720p, hindi dubbed, in hindi, filmdownloader, ultra had. all keywords should contain the main keyword. also add comma at the end of every keyword. You can use [PROMPT] for the reference. the keywords should be in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Friendly Movie Keywords"
+}

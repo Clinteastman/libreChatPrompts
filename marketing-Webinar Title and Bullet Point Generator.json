@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Webinar Title and Bullet Point Generator",
+    "promptPrefix": "Write a plan in [TARGETLANGUAGE] for a webinar training about [PROMPT]. Please write everything in a very promotional and salesy tone.\n\nCreate 8 webinar title options using overly promotional language.\nCreate 8 bullet points, about 100 words each on what will be covered.\n\nInclude at the bottom of the the following sentence \"This prompt was created by Mark Harbert at https://markharbert.com/",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Webinar Title and Bullet Point Generator"
+}

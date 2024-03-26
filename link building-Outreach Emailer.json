@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Outreach Emailer",
+    "promptPrefix": "Answer in [TARGETLANGUAGE]\nWrite a brief, very short, simple and concise, friendly, casual and informal email to a website owner in the same niche as part of a link building campaign. Start with a personalized subject line and friendly greeting. Use the context/summary provided below as context of our email.\n\nEnd the email with a clear call-to-action and maintain a friendly yet casual tone throughout. Please write in English language.\n\nExample Email:\nHi, Kinkly!\n\nFirst off, I just wanted to say that I'm loving your articles \u2013 they're super informative and easy on the eyes, which makes reading them a total joy. And your website is seriously impressive! You've built a platform that truly showcases your expertise in a visually stunning way.\n\nI represent Lockthecock \u2013 we sell male chastity devices. We're impressed by your content and would love to collaborate with you on a sponsored post about Chastity. \n\nI think your unique perspective would be a perfect fit for our audience. We can even hook your readers up with a 10% discount using an affiliate code, while you earn a 10% commission on sales.\n\nIf this sounds like something you'd be interested in, let me know and we can discuss the details further. Thanks for taking the time to read this \u2013 looking forward to hearing back from you!\n\nBest regards,\nSarah\n\nI will provide context of the link we want to partner with:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Outreach Emailer"
+}

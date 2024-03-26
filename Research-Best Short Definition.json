@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Short Definition",
+    "promptPrefix": "Your task is to provide a definition for the text I give you in 1 sentence without including the text I provide you. All output should be in [TARGETLANGUAGE]. The text to provide a definition for is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Short Definition"
+}

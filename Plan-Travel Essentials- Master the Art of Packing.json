@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Travel Essentials- Master the Art of Packing",
+    "promptPrefix": "Your task is to provide in atleast 500 words a complet travel essentials and what to pack for a travel based on the destination provided by the user, the output shall be in [TARGETLANGUAGE] , the text must be written in a friendly tone and casual style, please provid all the necessary details, give some extra tips about packing, remember the information you give should be tailored for the destination provided by the user.\nthe destination is : [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Travel Essentials- Master the Art of Packing"
+}

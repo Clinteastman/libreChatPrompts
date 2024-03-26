@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rank math on page seo",
+    "promptPrefix": "I will give you [PROMPT] You need to analyze each paragraph and then write 3 FOCUS Keyword that will rank my news article on google, write a SEO friendly title that will contain positive or negative sentiment, add a power word in title, write a maximum 60 words of slug, write a meta description and meta tags. \n\nat the end of the content suggest me how can i make more SEO friendly my [PROMPT] so it will rank on google. \n\nnow start in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rank math on page seo"
+}

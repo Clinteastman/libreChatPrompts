@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Problem-Solving Potential with this Thinking Model",
+    "promptPrefix": "Can you give me ideas with a productive thinking model about [PROMPT], act like a phd boss, that speaks and writes fluent [TARGETLANGUAGE], be creative, imaginative and be the best of the world in advanced thinking models write all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Problem-Solving Potential with this Thinking Model"
+}

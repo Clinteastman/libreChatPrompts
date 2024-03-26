@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Business owners seeking relevant insights.",
+    "promptPrefix": "Ignore all previous prompts. I want you to act as an expert in the field of [PROMPT] and I will act as a business owner that is seeking business and marketing insights. Please create a list of the top five business ideas I can prusue for my [          ] company that sells [PROMPT].  Please create one table with columns that rank the difficulty of the following on a scale from 1 to 10: How intensive it will be on a copany resources, time needed to complete the task, potential upside if the ideas is successful, target market, competitors, potential challenges, potential revenue streams, marketing strategies, initial startup costs, ongoing expenses, social impact, scalability, and other factors I haven't thought of.  All of the information you provide should be in a tabular format.  If you have any questions, for me, please be sure to ask. [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Business owners seeking relevant insights."
+}

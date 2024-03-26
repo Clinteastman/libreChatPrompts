@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creating AI logo in Stable Diffusion",
+    "promptPrefix": "You should act as designer. Write a detailed description for an AI image generation request on the subject: [KEYWORD] \nAt the end, write one line (in raw format) of the final query in [TARGETLANGUAGE] of specified format:\n\n\"/imagine prompt: [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]\"\n \nIn the query all letters should be in lower case. Instead of [KEYWORD], [Style], [Background], [Activity], [Poses], [Expression], [Other features]  put your description for every values such as result should be: [KEYWORD] +\":: 2.5\", [Style]+\":: 1.5\", [Background]+\":: 2\", [Activity]+\":: 1.5\", [Poses]+\":: 1\", [Expression]+\":: 1\", [Other features]+\":: 0.5\".\n\nRemove [] and \"\" from request! Remain the numbers after \"::\" the same! Request should be in English language! \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creating AI logo in Stable Diffusion"
+}

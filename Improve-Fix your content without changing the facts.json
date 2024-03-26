@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fix your content without changing the facts",
+    "promptPrefix": "Please correct any grammar mistakes, typos, and factual errors in the text written in the text here: [PROMPT]\n\nYour task is to improve the content while maintaining the tone of content as it is. Do not change the facts or information provided originally in the given input text. Strictly avoid speculation and include only 100% factual and accurate information. Maintain a simple and straightforward tone throughout and write in a casual and conversational style. Also, write words count of the output texts at the end. Input and output language is  [TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fix your content without changing the facts"
+}

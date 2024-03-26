@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Complete Book",
+    "promptPrefix": "Act like an author and write a book on the topic\u201d [PROMPT] \u201c\nGenerate an awesome , engaging creative book title on the topic.\n\nGenerate 15 book chapter titles and list them\n\nGenerate a detailed book introduction/preface  with the title provided in 800-1200 words\n\n Write all chapters  , one by one , each chapter should be around 1500 words.\n\nPlease write in confident tone, journalistic writing style.\nThe book must be enagaging , informative, professional human toned .\nUse industry specific terms, data and quotes where ever needed .\n\n\nPlease write in confident tone, creative writing style in [TARGETLANGUAGE] language.\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Complete Book"
+}

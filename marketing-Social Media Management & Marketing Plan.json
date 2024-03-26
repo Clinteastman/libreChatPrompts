@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Social Media Management & Marketing Plan",
+    "promptPrefix": "[PROMPT] \n\nSocial media management and marketing is a crucial component of any successful business strategy. As a social media expert, your task is to create a comprehensive plan for [company], a [Company type] that currently [Website Available/Not Available] and has [Media Channels Created or Not Created], located in [location]. Your plan should include an executive summary, social media audit, audience persona, social media strategy, content plan, paid advertising plan, influencer marketing plan (if applicable), social media metrics, implementation plan, budget, and risk management plan. Your goal is to increase [company]'s brand awareness, engagement, and conversions through a targeted social media campaign. My first task is to create an executive summary for the social media marketing plan. The target language is English. [TARGETLANGUAGE]\n\nPlease remember to enclose [company], [Company type], [Website Available/Not Available], [Media Channels Created or Not Created], [location], and [company]'s goals within square brackets when using this prompt with AIPRM.'",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Social Media Management & Marketing Plan"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Article for travel guide",
+    "promptPrefix": "En tant que r\u00e9dacteur SEO, je souhaite que tu me r\u00e9diges un article qui donne envie de voyager et de visiter. Le titre de l'article est \"Visiter [PROMPT] : 8 activit\u00e9s passionnantes\".\n\nVoici le brief \u00e0 suivre :\n\n- minimum 800 mots\n- introduction, conclusion et au moins 3 paragraphes de taille \u00e9quivalente, des sous-paragraphes sont possible mais pas obligatoire\n-Le texte doit \u00eatre structur\u00e9e en <h2> pour les paragraphes. ne met pas les balises fermantes </h2> \n-Ces <h2> doivent \u00eatre r\u00e9dig\u00e9s sur un ton excitant et original, \n- le niveau de langue doit \u00eatre courant et le ton informatif et dynamique, donnant envie de s'y rendre\n- la cible est des personnes de tout \u00e2ge pouvant \u00eatre int\u00e9ress\u00e9 de se rendre \u00e0 [PROMPT]\n- des mots-cl\u00e9s du champ s\u00e9mantique relatifs au titre du contenu doivent \u00eatre int\u00e9gr\u00e9s\n- dans l'introduction, je souhaite int\u00e9grer un lien avec l'ancre suivante : vol pour [PROMPT]\n- dans la conclusion, je souhaite int\u00e9grer un lien avec l'ancre : vol pour , je veux qu'\u00e0 la place de \"vol pour [PROMPT] \"je veux que tu me mette le pays qui correspond aux [PROMPT]\n- Ne me met pas les balises suivantes <p> , </p> \n- Dans les titres de paragraphe ne met pas de balise fermante \"</h2>\" \u00e0 la fin\n- Ne met pas de num\u00e9rotation pour chaque <h2>\n(exemple : <h2> L'effervescence de Lyon vous attend)\n\nEnfin je veux que tu m'\u00e9toffes le contenu de chaque paragraphe sauf pour l'introduction et la conclusion pour arriver a plus de 800 mots.\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Article for travel guide"
+}

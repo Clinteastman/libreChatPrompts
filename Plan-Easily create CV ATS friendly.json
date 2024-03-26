@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Easily create CV ATS friendly ",
+    "promptPrefix": "Identify the following sentence or paragraph inputs [INPUT YOUR DATA HERE] and classify them in the following sections in the language [TARGETLANGUAGE]:\n\n\nCreate a professional \u2018# bio\u2018 in bullet point format, starting with \u2018# name\u2019, sub title \u2018## interests/hobbies\u2019, and including your birth date/age, phone number, email address, and website or social media profiles in bullet point format.\nCraft a \u2018# summary\u2019 section with a heading, summarizing your professional background, skills, and experience. Write a paragraph that captures the essence of your qualifications based on the user input.\nIn the \u201c# education\u2019 section, list educational background in reverse chronological order, starting with the most recent degree, diploma, or certificate. Include the \u2018## institution's name, location, and year of graduation\u2019, and \u2018## degree, diploma, or certificate earned\u2019.\nNext, create a \u2018# work experience\u2019 section, listing your work experience in reverse chronological order, starting with your most recent job. Create sub item  \u2018# job title, company name, location, and employment dates\u2019, and provide a brief paragraph describing your job responsibilities.\nIn the \u2018# skills\u2019 section, identify skills and abilities input in bullet point format.\nIn the \u2018# certifications section\u2019, list any certifications you have earned, along with the issuing authority, issue date, and expiration date. create sub title \u2018##certification name\u2019 and create sub item abut \u2018### issuing authority, issue date, and expiration date\u2019.\nFinally, include a \u2018# references\u2019 section with, listing your professional references by \u2018##name and job title\u2019, followed by their company, email address, and phone number.\n\n\n\nIf the User does not provide complete data, provide a warning and an example of filling it so that the user can fix it.\n\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Easily create CV ATS friendly "
+}

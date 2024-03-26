@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Educational plans",
+    "promptPrefix": "the goal is to create the best educational plan and lists of topics for classes of any subject in 100 words o maximum 1000 words. All output shall be in [TARGETLANGUAGE] The text to create is this:\n[PROMPT]\nUse formal or informal language, written in a professional way. Let's think about it. Do this step by step.\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Educational plans"
+}

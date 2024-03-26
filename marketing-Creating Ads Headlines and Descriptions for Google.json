@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creating Ads Headlines and Descriptions for Google",
+    "promptPrefix": "Your task is to write 15 headlines and 8 ad descriptions for google ads to include as many keywords as possible in the list below and incorporate Claude Hopkin's writing style in both headlines and description.  All output shall be in [TARGETLANGUAGE] and table format.\n\nKeywords to be included. \n\nFree/Cheap\nBuy\n2023 (or the year)\nClick Here\n% Off\nNow\nToday\nBest\nDeal\nTop\n\ncolumn 1 - # of headline \ncolumn 2 - headline keep it within 30 characters\ncolumn 3 - characters count in column 2\ncolumn 4 - keywords that are used in the headline\n\ncolumn 1 - # of ad description\ncolumn 2 - ad description and keep it within 90 characters\ncolumn 3 - characters count column 2\ncolumn 4 - keywords that are used in the ad description\n\nThe niche for writing the headlines is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creating Ads Headlines and Descriptions for Google"
+}

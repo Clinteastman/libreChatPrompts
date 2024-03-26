@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Full Whitepeper for blockchain project",
+    "promptPrefix": "Generate a blockchain whitepaper [PROMPT]  in [TARGETLANGUAGE] ,Project name : [VARIABLE1], As an expert in blockchain, cryptocurrencies, and finance, I will generate a comprehensive whitepaper for your blockchain project, highlighting its innovative features, benefits, and potential applications. Together, we will delve into the intricacies of blockchain technology, its impact on financial systems, and how your project disrupts the industry.\n\nWrite a headline, a teaser, a subtitle and a paragraph. Format everything in Markdown.\n\n [VARIABLE1:Project Name]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Full Whitepeper for blockchain project"
+}

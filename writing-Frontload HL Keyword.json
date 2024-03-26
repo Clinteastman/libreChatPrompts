@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Frontload HL Keyword",
+    "promptPrefix": "Please optimize the headline given and keep it under 75 characters with all output in [TARGETLANGUAGE]. The headline to summarize is this:\n\n[PROMPT]\n\nThe keyword to frontload is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Frontload HL Keyword"
+}

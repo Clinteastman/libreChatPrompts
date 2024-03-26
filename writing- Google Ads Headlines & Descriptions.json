@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Google Ads Headlines & Descriptions",
+    "promptPrefix": "K\u00f6nnen Sie mir bitte insgesamt drei Listen mit \u00dcberschriften zum Thema \u201e[PROMPT]\u201c erstellen? Ich plane, diese \u00dcberschriften f\u00fcr Google Ads zu verwenden. \n\nGebe diese Listen in Form von Tabellen aus. Jede Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige \u00dcberschrift ausgegeben.\n\nDie erste Liste soll 30 \u00dcberschriften zum Thema \u201e[PROMPT]\u201c erstellen, die jeweils 20 bis 30 Zeichen inklusive Leerzeichen lang sind? Ich plane, diese \u00dcberschriften f\u00fcr Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Spalten\u00fcberschrift soll auf Deutsch \u201e\u00dcberschriften (max. 30 Zeichen)\u201c lauten. Die Spalten\u00fcberschrift sollte in die \u201e[TARGETLANGUAGE]\u201c \u00fcbersetzt werden.\n\nK\u00f6nnen Sie mir bitte eine weitere Liste mit 30 knackigen \u00dcberschriften zum Thema \u201e[PROMPT]\u201c erstellen, die jeweils 30 bis 60 Zeichen inklusive Leerzeichen haben? Ich plane, diese \u00dcberschriften f\u00fcr Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige \u00dcberschrift bzw. Headline. Die Spalten\u00fcberschrift soll \u201eLongheadlines & Descriptions (max. 60 Zeichen)\u201c lauten.\n\nK\u00f6nnten Sie mir bitte eine Liste mit 30 knackigen \u00dcberschriften zum Thema \u201e[PROMPT]\u201c erstellen, die jeweils mindestens 70 und maximal 90 Zeichen inklusive Leerzeichen haben? Ich plane, diese \u00dcberschriften f\u00fcr Google Ads zu verwenden. Gebe diese Liste ebenfalls in Form eine Tabelle aus. Die Tabelle soll eine Spalte haben. In der Spalte wird die jeweilige \u00dcberschrift bzw. Headline. Die Spalten\u00fcberschrift soll \u201eLongheadlines & Descriptions (max. 60 Zeichen)\u201c lauten.\n\nDas Ergebnis sollte in der Sprache \u201e[TARGETLANGUAGE]\u201c ausgegeben werden.\n\nNutze den im [PROMPT] genannten Begriff nicht zu oft. Vermeide Fragen in den Headlines. Gehe in den Headlines auch darauf ein, welchen Mehrwert Nutzer zum Thema [PrOMPT] haben, welche Probleme [PROMPT] l\u00f6sen kann und welche Motivation Nutzer zum [PROMPT] haben k\u00f6nnten.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Google Ads Headlines & Descriptions"
+}

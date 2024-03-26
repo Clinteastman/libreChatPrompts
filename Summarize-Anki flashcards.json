@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Anki flashcards",
+    "promptPrefix": "[TARGETLANGUAGE] [PROMPT]. Create 10 different flashcards about [KEYWORD]. Put them in CSV format with the question in the first column and  answer and an exemple in the second column, using semicolons to separate the columns. Enclose the text in a code block. Retire os numeros do inicio das perguntas. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Anki flashcards"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Etsy listing ",
+    "promptPrefix": "Task: optimize my Etsy listing for search engine visibility by following these steps:\nTarget language:[TARGETLANGUAGE]\n[PROMPT]\nCreate a Traffic Grabbing Title that adheres to the Etsy algorithm's relevancy, competition, and traffic guidelines.\nGenerate, based on erank pro and sale samurai, 15 high-volume, at least two words, relevant tags to increase visibility and improve listing statistics seperate them with a comma. Write optimized image alt tags. Craft a keyword-rich description.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Etsy listing "
+}

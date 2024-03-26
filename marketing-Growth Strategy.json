@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Growth Strategy ",
+    "promptPrefix": "what are  the platforms for influencer marketing  and how can we do it in UAE for a discounter app [PROMPT] [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Growth Strategy "
+}

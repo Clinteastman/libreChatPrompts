@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Prompt - fine tuning",
+    "promptPrefix": "Je vais t'envoyer plusieurs bout de texte . A chaque envoie tu r\u00e9pondras ok. A la fin je te donnerai les instruction. Compris ?\n[PROMPT]  Respond in [TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Prompt - fine tuning"
+}

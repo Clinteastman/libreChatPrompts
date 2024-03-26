@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create speaker note",
+    "promptPrefix": "I'll give you a bullet from one of the slides from my presentation and create a speaker note from it in [TARGETLANGUAGE]. The length of this slide should be 2 minutes. Read following contents [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create speaker note"
+}

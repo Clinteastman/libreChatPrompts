@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate LSI Keywords",
+    "promptPrefix": "Generate LSI Keyword on [KEYWORD]. Make sure keywords are not repeating . And also create them in tabular form like (LSI KEYWORDS, KEYWORD INTENT). Use only 4 type of keyword intent that is Informational Keyword, Navigational Keyword, Commercial Keyword, Transactional Keyword.\n\n[TARGETLANGUAGE]\n\n[PROMPT]\n\n\nAt the bottom write \n\nSupport: https://www.buymeacoffee.com/onecupseo\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate LSI Keywords"
+}

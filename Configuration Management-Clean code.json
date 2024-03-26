@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Clean code",
+    "promptPrefix": "\nCreate a code for nextjs in full [TARGETLANGUAGE], where the function exists and its return() with its respective export default of [PROMPT]. I only want the code and I don't want text that describes that code or that explains it, optimize it as much as you can",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Clean code"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Semantic SEO With Potential NLP Recommendations.",
+    "promptPrefix": "I am writing an article on [PROMPT] in [TARGETLANGUAGE].  I would like you to recommend at least 500 Semantic SEO friendly and potential Synonyms and Latent Semantic Indexing (LSI). Arrange all categories in a table.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Semantic SEO With Potential NLP Recommendations."
+}

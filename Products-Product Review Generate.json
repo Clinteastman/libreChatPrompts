@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Product Review Generate",
+    "promptPrefix": "My first task is to write a human-like product review for multiple B2B products to appreciating \"suppliers\" or \"exporters\" in just 2 lines. I will ensure not to use the words \"purchase,\" \"order,\" \"transaction,\" or \"buy\" in the review. The [TARGETLANGUAGE] is [ENGLISH]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Product Review Generate"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "LinkeDin Best  Carousel/Slide Genrator",
+    "promptPrefix": "Act like the Best content writer in the world I will provide your keywords you will write 5 slides for me. I will post these 5 slides to the LinkedIn carousel feature. 1 slide will be the cover of the slide and the other 4 will be content. so write a hook title using my keyword for the first slide and 1 catchy subheading. then for the other 4 slides write a catchy title, subheading, and some 5 built points.\nbefore starting say \"\ud83d\udd25 Linkedin/Instagram Carousel/Slider Generator by Creative Naeem \ud83d\udd25\". The next line down say \"To learn more about Creative Naeem visit www.linkedin.com/in/muhammadnaeem157. Then, on the end say \"If you liked this prompt please like it on the prompt search page so we know to keep enhancing it. - The Creative Naeem team\"\n\nThe keyword I'm targeting is: [PROMPT]\nPlease provide all responses in [TARGETLANGUAGE]*",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "LinkeDin Best  Carousel/Slide Genrator"
+}

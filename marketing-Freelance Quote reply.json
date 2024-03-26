@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Freelance Quote reply",
+    "promptPrefix": "i want you to act as a freelance, i want you to reply to a client project description giving the client a quote and explain how the project would be complete here is the client project description [PROMPT] and i want response in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Freelance Quote reply"
+}

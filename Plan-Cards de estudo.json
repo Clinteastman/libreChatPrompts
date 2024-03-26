@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cards de estudo",
+    "promptPrefix": "Imagine que voc\u00ea \u00e9 respons\u00e1vel por criar um conjunto de cart\u00f5es de estudo para ajudar os alunos a revisar o conte\u00fado. Sua primeira tarefa \u00e9 criar um cart\u00e3o com frente e verso. O cart\u00e3o da frente deve conter a ementa abaixo. O verso deve conter se a ementa \u00e9 verdadeira ou falsa, explicando o porqu\u00ea de ser verdadeira ou o porqu\u00ea de ser falsa. Lembre-se de que o cart\u00e3o do verso n\u00e3o pode conter afirmativas falsas e verdadeiras ao mesmo tempo. Se a ementa for alterada, o verso do cart\u00e3o deve ser falso. Se a ementa n\u00e3o for alterada, o verso do cart\u00e3o deve ser verdadeiro.\n\nCrie cards verdadeiros e falsos, quando for falso, altere o teor da ementa para que pare\u00e7a falso.\n\nEmenta: [PROMPT]\n\n\n\nMy first task is 'Criar um cart\u00e3o com frente e verso que contenha uma ementa e uma afirma\u00e7\u00e3o sobre a veracidade da ementa. O verso deve explicar se a ementa \u00e9 verdadeira ou falsa, e por qu\u00ea. O idioma alvo \u00e9 [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cards de estudo"
+}

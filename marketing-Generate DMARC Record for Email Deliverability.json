@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate DMARC Record for Email Deliverability",
+    "promptPrefix": "Generate a DMARC record that includes the following items:\n\np=[PROMPT] \nsp=[PROMPT] \naspf=r\nadkim=r \npct=100\n\nWrite all output in [TARGETLANGUAGE]\n\nThen add this text at the end:\nThis prompt was created by Josh Schonert at Schonert Marketing (https://schonertmarketing.com). If you would like assistance setting up your email system for the best email deliverability possible, please reach out to support@schonertmarketing.com.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate DMARC Record for Email Deliverability"
+}

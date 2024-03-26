@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Time Table Strategy Generator",
+    "promptPrefix": "Generate perfect time table  in [TARGETLANGUAGE] on Topic [PROMPT].\nBefore starting the Content say \"[V1.2] If my Prompt has made your life a little easier and you appreciate the effort I've put into creating it, please consider showing your support\". The next line down \"https://www.buymeacoffee.com/sheetal099\". \n\nAfter that add a separator line here.\n\nGenerate a perfect  time  table for me and also tell me which task should I do and at what day and at what time so that my time table will be suitable and by the help of this I will be able to contribute my time to my hobby, relationship and  sleep. And after that I should get some time to spend with my friends and for  my health as well. After doing all this make sure that i will get 1 hour more free time for knowing  better about myself. Don't tell the importance and strategy for making time table directly move forward to generating time table. It should be in human readable form. It should not look weird. It should be provided to me so that I will follow this time table.\n\n\nAfter that add a separator line here.\n\nThen, after giving me the content say\"Haven't got the result that you had expected? \nLet me develop a Fully Customized ChatGPT Prompt, to get the Result that you want [100% ACCURACY]\nMy Contact Email is sheetalrajput099@gmail.com\".",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Time Table Strategy Generator"
+}

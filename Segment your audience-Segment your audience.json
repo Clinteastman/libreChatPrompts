@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Segment your audience",
+    "promptPrefix": "I want you to act as a market research expert that speaks and writes fluent [TARGETLANGUAGE]. Pretend that you know everything about every market also in [TARGETLANGUAGE]. Produce ten audience segments for audiences in the following category: [PROMPT] . Each segment should be defined by a deep underlying category-related need. Give each segment an emoji and a sassy title. Describe each segment\u2019s category-related needs and give innovative ideas for specific initiatives they could do to better meet the needs of that segment. All your output shall be in [TARGETLANGUAGE] language.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Segment your audience"
+}

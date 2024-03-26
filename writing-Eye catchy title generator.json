@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Eye catchy title generator",
+    "promptPrefix": "Examples of eye catchy SEO titles:\n\nDiscovering the Reasons Why Dogs Pant During Car Trips\n\nHow to Help Dogs With Car Sickness Effectively\n\nHow to Get Dog Hair Out of Your Car\n\nThe 14 Healthiest Dog Breeds\n\nHow To Solve Dog Car Anxiety In 4 Easy Steps - Fidose of Reality\n\n6 Tips to Get Your Dog Used to the Car\n\n8 Things Your Senior Dog Will Thank You For Doing\n\nWhat Are The 3 Different Yorkie Sizes?\n\nDoes Your Dog Hate Car Rides? Step-by-Step Guide to Get Your Dog to Love Car Trips\n\n\nAct as a highly experienced, eye-catching, clickbait and compelling SEO title creator  using simple and engaging english words that are very easy to understand.\n\n\nCreate 10 eye catchy , clickbait and very compelling seo title for the keyword \"[PROMPT]\" in table format using very simple English sentences that are easy to read as in example above.\n\n\nUse simple and common words don't use difficult words.\n\nUse numbers, questions, big brackets, and exclamations.\n\nAt the end of article write the line \"Please support us by hitting like button on this prompt. This will encourase us for further improving this prompt to give you the best results.\".\n\nPlease write only in [TARGETLANGUAGE] language.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Eye catchy title generator"
+}

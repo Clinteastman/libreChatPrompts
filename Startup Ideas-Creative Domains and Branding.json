@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creative Domains and Branding",
+    "promptPrefix": "Write 10 excellent, creative domain names for a website about [PROMPT] in [TARGETLANGUAGE]. Keep it simple and memorable, Make it relevant to the business. Use figurative language\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creative Domains and Branding"
+}

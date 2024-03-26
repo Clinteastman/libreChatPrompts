@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Business Model Canvas for Startups (BMC)",
+    "promptPrefix": "Audience: Small business owners and people seeking instructions and information for their product or service strategy \nFormat and length: 500-1000 words, for professional text writing \nKeywords and subtopics: use keywords from the \u201cprompt\u201d description\nTone and style: Professional, with a focus on practical advice and real-world examples\nResearch and sources: Please include data and statistics from reputable scientific sources such as financial times, forbs, Inc, New York times statista, marketwatch, Data.gov, Google Public Data Explorer, World Bank Data, OECD Data, Eurostat, elstat, taking in account recent business trends like sustainability and enviroment\nConstraints or limitations: Please avoid disputable material\nDeadline: This post should be submitted by today\nYour task is to use the provided information about the product or service taking in account its main characteristics, and considering the market in focus and the required resources to create a BUSINESS MODEL canvas  for a new product or service. use an analytic formal analysis taking in account all possible parameters. Avoid increased risk. [TARGETLANGUAGE]:\n[PROMPT]\nAnalyse further each part of the Business model canvas",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Business Model Canvas for Startups (BMC)"
+}

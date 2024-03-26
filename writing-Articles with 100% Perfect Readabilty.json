@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Articles with 100% Perfect Readabilty",
+    "promptPrefix": "Your task is to generate articles I give you in  words. All output shall be in [TARGETLANGUAGE]. The text to articles is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Articles with 100% Perfect Readabilty"
+}

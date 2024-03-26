@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Disease Definer",
+    "promptPrefix": "Your task is to assume the role of a professor,with the guidance of books like medsurgical nursing, anatomy and physiology write for me  the definition, major characteristics, categories or types and subtypes if available, the epidemiology, risk factors, signs and symptoms, causes, a comprehensive pathophysiology, medical treatment, pharmacological treatment, surgical treatment if any, nursing management (the order of assessment, admission, positioning, observation or vital signs, investigations, drugs, diet, elimination to mean input and output monitoring,comfort to mean activities to increase patient comfort like oral care, exercise both passive and active, rest and advice on discharge as health message) and major complications of the  following condition [PROMPT].  At the ended create 3 nursing diagnosis(in the guidance of nanda book) following the assessments(signs and symptoms), diagnosis({diagnosis} ... Related to{pathophysiology} ... As evidenced by{symptom} ...), plan, implementation and evaluation format respectfully. All outputs shall be in [TARGETLANGUAGE]. \n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Disease Definer"
+}

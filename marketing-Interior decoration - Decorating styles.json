@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Interior decoration - Decorating styles",
+    "promptPrefix": "Optimize and sell home decor products organically: Tips for creating an effective strategy to boost sales and reach more customers through organic channels. [PROMPT]   [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Interior decoration - Decorating styles"
+}

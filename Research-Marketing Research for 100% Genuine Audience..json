@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Marketing Research for 100% Genuine Audience.",
+    "promptPrefix": "Please Ignore all the Previous instructions. I want you to conduct marketing research to develop a keyword strategy and SEO content plan for [TARGETLANGUAGE] using [KEYWORD] as the primary focus keyword. All output should be in [TARGETLANGUAGE]. \nThe text to summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Marketing Research for 100% Genuine Audience."
+}

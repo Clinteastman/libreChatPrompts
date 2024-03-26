@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewrite text",
+    "promptPrefix": "Ignore previous instructions\n\nYour task is to rewrite [text].\n\nUse as many different words as possible to enrich your text. Avoid repeating words\nDo not use very common words that AI often uses. Please keep this in your mind.\nUse words that are not that common, use more unique words. Please mind this. Do not forget this.\n\nParaphrase every sentences, paragraph and etc to deep [TARGETLANGUAGE]. Use deep words, and unique words.\nWrites fluently [TARGETLANGUAGE]. I want you to pretend that you can write content so well in [TARGETLANGUAGE] .\nAdd more detail and to remove unnecessary words. \nMake it more accurate\n \n\nI want you to write content so that it can outrank other websites. For that, you need to know 2 factors: \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of the text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or more complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the content, I need it to have a good amount of perplexity and burstiness.\nUse markdown format. \nAdd more detail and to remove unnecessary words. \nMake it more accurate.\n[TARGETLANGUAGE]\n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewrite text"
+}

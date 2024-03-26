@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "AI-Powered Course Design Blueprint",
+    "promptPrefix": "Please disregard any previous instructions. Respond solely in [TARGETLANGUAGE]. As an expert in [PROMPT] and curriculum design, using andragogical teaching methods, create a results-driven course outline in [TARGETLANGUAGE]. The course must be suitable for all types of learners who speak [TARGETLANGUAGE] and include a plan for real-world applications. Present the content in Markdown format, ensuring clear organization and readability. Above the course outline, write \"Teranous AI courses Today we\u00b4ll LEARNING ABOUT\", [PROMPT], give us a like please:-).\n\nOnline Course Title: [Title]\nDesired Outcome:\nDescribe the intended outcome and students' achievements upon course completion.\n\nCourse Modules\nModule 1: [Title]\nLessons:\n1\n2\n3\n4\nLearning Objectives:\n\nReal-World Applications:\n\nActivities:\n\nAccessibility:\n\nOpen-Ended Discussion Questions:\n\nEngaging Video Script Summarizing Module Content:\n\nRepeat for Modules 2 through 6\nin bottom say :press continue to next module.\n\nUse the keyword [TOPIC].)\nALLWAYS WRITE IN [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "AI-Powered Course Design Blueprint"
+}

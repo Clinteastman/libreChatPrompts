@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "The best Youtube SEO and text generator",
+    "promptPrefix": "[TARGETLANGUAGE]\nDONT REPEAT THE PROMPT ANSWER DIRECTLY -  Write me 5 Super Youtube Titles for me [KEYWORD]. \n\nDONT REPEAT THE PROMPT ANSWER DIRECTLY -  Write me A Super Youtube description 900 words for my [KEYWORD]. Make sure it covers in detail about the keyword. \n\nDONT REPEAT THE PROMPT ANSWER DIRECTLY - Write me 50 YouTube Tags in the same paragraphe with hashtags\nwhich I can use to promote the [KEYWORD], Please make sure to share minimum 50 of them, DONT REPEAT JUST ANSWER\n\nDONT REPEAT THE PROMPT ANSWER DIRECTLY - Write me 50 tags SEPARATED BY COMMA to promote this Youtube Video: Dont include Hashtags .\n\nPlease start answering right away. DONT REPEAT THE SENTENCE\n[PROMPT]\n\nAnd  In The Very Bottom of article Write This Custom Massage \"Please take time to look my Youtube chanel  \nhttps://www.youtube.com/@10HoursofCalmMusic\nThanks\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "The best Youtube SEO and text generator"
+}

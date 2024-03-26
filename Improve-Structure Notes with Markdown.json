@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Structure Notes with Markdown",
+    "promptPrefix": "R\u00e9\u00e9crit moi cette note avec plus de markdown pour faire ressortir les \u00e9l\u00e9ments cl\u00e9s (**keywords**) et ajouter de la strucuture et de la lisibilit\u00e9 avec les \u00e9l\u00e9ments de markdown suivant :\n\n- listes \u00e0 puces (* liste)\n- listes num\u00e9rot\u00e9es (1. element 1, 2. element 2, 3. element 3.....)\n- mots en gras (**gras**) -> Pour tous les motrs et \u00e9l\u00e9ments importants, j'en veux le plus possible !\n- mots en italique (*italique*) -> Uniquement pour les noms\n- bloc de citation (> Les blocs de citation) -> uniquement pour les citations\n- titres h1 (# Titre1) -> Le titre de la note\n- titres h2 (## Titre2) -> Le titre des cat\u00e9gories de la note (tu peux utiliser en plus des listes num\u00e9rot\u00e9s)\n- titres h3 (### Titre3) -> Le titre des csous-cat\u00e9gories de la note (tu peux utiliser en plus des listes num\u00e9rot\u00e9s)\n- code incorpor\u00e9 (\u00ab code incorpor\u00e9 \u00bb) -> Si du code est pr\u00e9sent dans la note\n- blocs de code (```code```) -> Si un script est pr\u00e9sent dans la note\n- liens ([Texte d\u2019affichage du lien](http://www.sampleurl.com)) -> Si un lien est pr\u00e9sent dans la note\n\nUtilise obligatoirement tout le formattage pour servir la lisibilit\u00e9, la clart\u00e9 et l'organisation de la note sans ne perdre aucune informations.\nJ'insite sur les mots en gras, il doit y en avoir le plus possible, y compris \u00e0 l'int\u00e9rieur d'autres \u00e9l\u00e9ments de structure.\n\nJe veux que la note soit dans la langue suivante : [TARGETLANGUAGE]\n\nVoici la note :\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Structure Notes with Markdown"
+}

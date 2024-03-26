@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "10 keywords from an article link",
+    "promptPrefix": "For the following article url [PROMPT]. Can you give me a list of 10 most relevant keywords in [TARGETLANGUAGE] Lrelated to the article's title. They keywords need to have at least two words. I want the output to be in one sentence, where a comma is added behind each keyword.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "10 keywords from an article link"
+}

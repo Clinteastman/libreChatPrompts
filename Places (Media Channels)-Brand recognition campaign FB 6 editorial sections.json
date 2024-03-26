@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Brand recognition campaign FB 6 editorial sections",
+    "promptPrefix": "[TARGETLANGUAGE] Englihs [PROMPT] As an expert in digital marketing and communication develops a brand recognition campaign, through an editorial line focused on the Facebook audience with 6 clearly defined sections.\nI give you the name of the brand: By Sibarita\nBrand mission: To highlight the manufacturing processes and materials that have prevailed over time and are a guarantee of quality in today's decorative arts.\nBrand Vision: To offer an integral solution of well-being to the client with pieces for their home.\nCustomer profile: Host at home with friends, 25 to 34 years old and 69.8% female.\nPain points: Lack of time or resources to prepare the event.\nDesire points: People who want to build a reputation as exceptional hosts.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Brand recognition campaign FB 6 editorial sections"
+}

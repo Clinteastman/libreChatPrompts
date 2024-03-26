@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword to phrase with semantic sense",
+    "promptPrefix": "Escribe la respuesta en [TARGETLANGUAGE] Te pasar\u00e9 una lista de frases, algunas con sentido y otras sin sentido. Necesito que identifiques las que no tienen sentido y que reordenes las palabras de esa frase para que formen una frase con sentido. Puedes agregarle alg\u00fan art\u00edculo entre palabras, por ejemplo \"precio motores fueraborda\" se transformar\u00eda en \"precio de motores fueraborda\". Trata de no agregar art\u00edculos al inicio de la frase. Otro ejemplo: \"consumo motores fueraborda\" quear\u00eda \"consumo de motores fueraborda\". \"Motor fueraborda\" quedar\u00eda igual ya que Motor fueraborda es un objeto en si mismo, entonces tiene sentido.. Devuelve una tabla donde en la primera columna est\u00e1 la frase original y en la segunda la frase con sentido. Aqu\u00ed la lista: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword to phrase with semantic sense"
+}

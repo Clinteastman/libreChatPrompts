@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Risk Map in One minute",
+    "promptPrefix": "Apresente o resultado no idioma [TARGETLANGUAGE]\nEu quero que voc\u00ea me apresente o nome de 9 riscos para...\nApresente cada risco criado de forma enumerada.\nOs Riscos 1 a 3 devem estar associados \u00e0 fase de Planejamento.\nOs Riscos 4 a 6 devem estar associados \u00e0 fase de Sele\u00e7\u00e3o do Fornecedor.\nOs Riscos 7 a 9 devem estar associados \u00e0 fase de Gest\u00e3o do Contrato.\nDepois disso me apresente a causa para cada risco apresentado.\nDepois disso me apresente o impacto para cada risco apresentado.\nDepois disso me apresente duas a\u00e7\u00f5es preventivas para cada risco apresentado.\nDepois disso me apresente duas a\u00e7\u00f5es de conting\u00eancias para cada risco apresentado.\nApresente as a\u00e7\u00f5es preventivas e a\u00e7\u00f5es de conting\u00eancias em forma de marcadores.\nFa\u00e7a essa tarefa em 3 etapas.\nPrimeiro fa\u00e7a os riscos de 1 a 3.\nDepois expere meu comando.\nDepois fa\u00e7a os riscos de 4 a 6.\nDepois expere meu comando.\nDepois fa\u00e7a riscos de 7 a 9. \nDepois expere meu comando.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Risk Map in One minute"
+}

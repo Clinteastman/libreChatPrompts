@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Why isnt it A english",
+    "promptPrefix": "[TARGETLANGUAGE] is English.\n\n [PROMPT] I am going to type 2 word [word1][word2]. Make a sentence using this two words. Make the first word positive and the other negative.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Why isnt it A english"
+}

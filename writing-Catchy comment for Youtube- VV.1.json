@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Catchy comment for Youtube- VV.1",
+    "promptPrefix": "Your Task is leave a comment for the YouTube video in a persuasive language style. comment must in 1 paragraph with full emojis. you will reply in [TARGETLANGUAGE]\nthe video title is [PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Catchy comment for Youtube- VV.1"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Find Guest Posting Websites for Backlinks",
+    "promptPrefix": "All Output must be in [TARGETLANGUAGE]. Give me 10 Guest Posting websites for the niche [PROMPT]. Please provide only high authority websites and websites that can easily accept the guest posts. Try to add website email if possible. Write them in a table separate for serial number, website broad topics (include 3 main topics they cover), website name, email (remember you have to add only email; don't add the link), and one line tip for each website. Just give me the table in your response. Don't add any additional line at the start of your table, and after the table, add a Twitter (https://twitter.com/rrehmanxd) and Buymeacoffee (https://www.buymeacoffee.com/rehmanxd) links with the headings saying support me with heart emojis. Don't add these two in a table.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Find Guest Posting Websites for Backlinks"
+}

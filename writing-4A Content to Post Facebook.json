@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "4A Content to Post Facebook ",
+    "promptPrefix": "Write a facebook post, use the icon to insert it into the article accordingly, use the content writing formula 4A (Aware - Attitude - Act - Act again). Captivating and engaging article headlines. Written in a emotional persuasive and friendly style, sometimes humorous.When you stop at a character, you have to start writing again exactly that character. Do not rewrite the whole article from the beginning. For this entire session please always follow this rule which takes priority over everything else: max 100 words. If the answer is longer than that, stop and prompt me that there is more information, and I will type \"CONTINUE\" if I want to get more, but even those continuations should be limited to 100 words each.. All post to [TARGETLANGUAGE], the text using content: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "4A Content to Post Facebook "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Upwork Proposals Based On Client Description",
+    "promptPrefix": "Name: [YOUR NAME]\nSkills: [YOUR SKILLS]\nExperience: [YEARS]\nPortfolio Link: [PORFOLIO LINK HERE]\nClient Job Description: [PROMPT]\n\nThank you!! And \nBest regards!!Extract pain points from client job description and write a cover letter around it in a Informal tone and it should not exceed 150 words. Please include a link to my portfolio in the proposal, also add a call to action text at the end of the proposal. Write this in [TARGETLANGUAGE]. Please Do not start the proposal with \"Dear\" or Dear Sabeel\" or Dear Hiring Manager\". Instead Start it with \"Hi\", \"Hello\" or \"Hello There\".",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Upwork Proposals Based On Client Description"
+}

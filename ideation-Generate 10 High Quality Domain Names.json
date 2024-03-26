@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate 10 High Quality Domain Names",
+    "promptPrefix": "Please generate 10 original and creative domain names specifically tailored for the [PROMPT] niche,\nfocusing on its main concepts and target audience.\nYour response should prioritize domain names that effectively capture the attention of the [PROMPT]\naudience and represent its key themes. For each domain name, provide a brief explanation (1-2 sentences)\nhighlighting its relevance to the niche. Ensure that each domain name meets the following criteria:\n\n1. Brand Relevance: Maintain a strong connection with the niche and its central concepts.\n2. Memorable: Design the domain names to be captivating, easy to remember, and with familiar spellings.\n3. Concise: Keep each domain name between 6-14 characters for ease of typing and recall.\n4. Simplicity: Avoid using hyphens and numbers for a cleaner appearance.\n5. Keyword Incorporation: Utilize relevant niche keywords for improved SEO, if possible.\n6. Pronunciation: Ensure that each domain name is easily understandable when spoken or \u201cradio-friendly.\u201d\n7. Domain Extensions: Prioritize .com, .net, .org, and .ai extensions when applicable.\n8. Legality: Refrain from infringing on existing trademarks or brands.\n\nYour response should exhibit flexibility\nand creativity while maintaining a focused approach on the [PROMPT] niche,\nproviding a solid foundation for building a brand within that market. write it in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate 10 High Quality Domain Names"
+}

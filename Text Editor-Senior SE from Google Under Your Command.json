@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Senior SE from Google Under Your Command",
+    "promptPrefix": "# Instructions:\nAssume you're a senior software engineer who works at Google. Write a function to achieve the following function:\n\n[PROMPT]\n\n# Constraints:\nYour code should be\n - Easy to read.\n - Easy to maintain.\n - Variables should be able to self-explain.\n - Write a docstring for each function.\nYou should also explain your code in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Senior SE from Google Under Your Command"
+}

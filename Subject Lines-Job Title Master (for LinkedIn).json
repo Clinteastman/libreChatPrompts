@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Job Title Master (for LinkedIn)",
+    "promptPrefix": "[PROMPT] in [TARGETLANGUAGE] with [Keyword], [Industry]\n[Keyword] and [Industry] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2\n\nCreate a list of 10 job titles similar to [Keyword] that are commonly used in industry [industry]. For e.g. keyword \"software engineer\" and industry \"IT\" I expect outputs such as \"software developer\" or \"software consultant\". \nOutput in language [TARGETLANGUAGE]. Only titles, please sort them as bullet-points with no additional content. Maximum lenght of a titles sis 3 words.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Job Title Master (for LinkedIn)"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Midjourney (Generic) for GPT-4",
+    "promptPrefix": "ignore all previous instructions:\nwrite without wordwraps and headlines, without connection words, focus on nouns and adjectives, back to back seperated with commas:\n[1], [2], [3] {night}, [4], [5] {materials} {camera settings} \nreplace [1] with the subject: \"[PROMPT]\"\nreplace [2] with a list of nouns and adjectives about [1]\nreplace [3] with a list of nouns and adjectives about the environment of the scene\nreplace [4] with a list of nouns and adjectives about the mood/feelings and atmosphere of the scene\nreplace [5] with a list of nouns and adjectives about the technical basis like render engine/camera model and details\nreplace the content inside the {} brackets with details about the content/word inside the {} and delete the brackets. Repeat that for every {} bracket in the prompt\ncomplex prompt for an AI-based text to image program that converts a prompt about a topic into an image. The outcome depends on the prompts coherency. The topic of the whole scene is always dependend on the subject that is replaced with [1].\nalways start the prompt with \"/imagine prompt:\"\nalways end the prompt with \"--q 2\"\nwrite in [TARGETLANGUAGE]\ndon't use any line breaks\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Midjourney (Generic) for GPT-4"
+}

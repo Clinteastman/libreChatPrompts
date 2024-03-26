@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create Industry Blog Categories",
+    "promptPrefix": "Please ignore all previous instructions.\nCreate 5 blog categories for a [PROMPT] website, and provide a brief description of what each category will cover. The categories should be related to [PROMPT] and should be in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create Industry Blog Categories"
+}

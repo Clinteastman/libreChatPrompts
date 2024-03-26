@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Explain source code from URL",
+    "promptPrefix": "Explain the following source code below to me like I am 5 yers old in [TARGETLANGUAGE] language, please.\n\nSource of the source code: [PROMPT]\n\n[CRAWLEDSOURCECODE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Explain source code from URL"
+}

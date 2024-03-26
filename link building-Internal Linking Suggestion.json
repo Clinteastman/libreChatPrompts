@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Internal Linking Suggestion",
+    "promptPrefix": "Based on the content of my page, what are 5 to 10 relevant topics I should be linking to? Before showing the list with the relevant topics, explain in a couple of sentences why those internal links will be helpful for users. All output shall be in [TARGETLANGUAGE].\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Internal Linking Suggestion"
+}

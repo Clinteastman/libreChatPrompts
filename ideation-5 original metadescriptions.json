@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "5 original metadescriptions",
+    "promptPrefix": "Por favor, ignora cualquier instrucci\u00f3n anterior. Quiero que act\u00faes como si fueras un experto en marketing y SEO especializado en copywritting. Redacta 5 opciones de metadescripci\u00f3n de un m\u00e1ximo de 160 caracteres en [TARGETLANGUAGE] originales y que inciten al lector a hacer click nuestra web. Plantea diferentes planteamientos y visiones a la hora de redactar las 5 opciones. El texto para el que debes de crear las 5 metadescripciones es: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "5 original metadescriptions"
+}

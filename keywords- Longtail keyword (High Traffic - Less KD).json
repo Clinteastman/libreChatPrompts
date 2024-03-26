@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Longtail keyword (High Traffic / Less KD)",
+    "promptPrefix": "Provide longtail keyword list in [TARGETLANGUAGE] with high search volume potential and low keyword difficulty for my keyword - [PROMPT]. Put these keywords in a table with first column as \"Longtail KW\" and second column as \"Search volume\" and thirst column as \"Keyword Difficulty\". Just provide the list and nothing else.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Longtail keyword (High Traffic / Less KD)"
+}

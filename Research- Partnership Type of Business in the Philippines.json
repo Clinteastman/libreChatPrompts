@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Partnership Type of Business in the Philippines",
+    "promptPrefix": "Your task is to give information about Partnership type of business in the Philippines, including business registration, tax filing, any rules about the business and all the latest process about partnership type of business. Give all the details you can pull out. All output shall be in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Partnership Type of Business in the Philippines"
+}

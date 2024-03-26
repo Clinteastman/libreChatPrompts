@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Build Enem Assessment",
+    "promptPrefix": "Instru\u00e7\u00f5es:\nUse o tema [KEYWORD] para construir 5 quest\u00f5es objetivas com 5 alternativas cada.\n\nAs quest\u00f5es seguem o padr\u00e3o da prova do ENEM. \n\nPara elaborar as quest\u00f5es use como refer\u00eancia os documentos:\n1- O Guia para Elabora\u00e7\u00e3o e Revis\u00e3o de Itens do ENEM (Exame Nacional do Ensino M\u00e9dio) que est\u00e1 em: http://darnassus.if.ufrj.br/~marta/enem/docs_enem/guia_elaboracao_revisao_itens_2012.pdf ;\n2 - a matriz de refer\u00eancia que est\u00e1 em: https://download.inep.gov.br/download/enem/matriz_referencia.pdf\n3. Prova ENEM: https://download.inep.gov.br/enem/provas_e_gabaritos/2022_PV_impresso_D1_CD1.pdf\n\nCada quest\u00e3o ter\u00e1 uma resposta correta.\n\nCada quest\u00e3o ter\u00e1 a resolu\u00e7\u00e3o.\n\nO formato de sa\u00edda \u00e9:\nQuest\u00f5es\nGabarito\nResolu\u00e7\u00f5es\n\nUse [PROMPT] como o in\u00edcio do texto.\n\nTodas as sa\u00eddas devem estar em [TARGETLANGUAGE].\nEstilo de escrita [CREATIVE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Build Enem Assessment"
+}

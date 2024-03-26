@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Forum Marketing Description 2.0",
+    "promptPrefix": "Please ignore all previous instructions, I want you to respond only in [TARGETLANGUAGE] write me a forum description of 200 words on [KEYWORD]. Use a professional funny marketing human tone and use some poetic phrases in it and write in expository. Make the content 100% plagiarism free and make it SEO friendly. However, add necessary emoticons if needed. Talk in a way that attracts readers like no others\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Forum Marketing Description 2.0"
+}

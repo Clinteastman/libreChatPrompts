@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "create full chrome extinction with all libery",
+    "promptPrefix": "[PROMPT]Create code chorme extinction with libraries :\n1. popup.js\n2. content.js\n3 .popup.html\n4. Background.js\n5. manifest.js\n [TARGETLANGUAGE].  \n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "create full chrome extinction with all libery"
+}

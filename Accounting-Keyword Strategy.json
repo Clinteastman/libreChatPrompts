@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword Strategy",
+    "promptPrefix": "enter one hashtag in Chinese for example # [PROMPT]\uff0cCreate 20 hashtags [TARGETLANGUAGE] in Chinese\uff0cand 20 youTube Tags",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword Strategy"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create Professional Freelance Project Proposal ",
+    "promptPrefix": "Your task is to create a professional proposal or project proposal for applying to a freelance job, The length of this proposal template should be under in 200 words. All output shall be in [TARGETLANGUAGE]. The Freelance job description or subpage URL is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create Professional Freelance Project Proposal "
+}

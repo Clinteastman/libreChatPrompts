@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "20 Content Ideas Related To Any Topic",
+    "promptPrefix": " [TARGETLANGUAGE] [PROMPT] Create 20 content ideas related to a [topic] make it interesting and beneficial.\n [TARGETLANGUAGE] [PROMPT] add a short description to each idea.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "20 Content Ideas Related To Any Topic"
+}

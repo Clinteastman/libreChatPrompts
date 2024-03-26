@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Outsource Accelerator Inquiry Response",
+    "promptPrefix": "Hi [Client Name],\n\nThank you for your inquiry. We are an authorized partner of Outsource Accelerator and we would love to learn more about your business.\n\nAt LTVplus, our mission is to help businesses like yours grow and thrive by delivering top-notch customer service and support. We specialize in providing omnichannel support for E-commerce brands. \n\nI understand that you are looking to [PROMPT]. We would be happy to provide you with a personalized demo of our services and dive deep into your business requirements to tailor-make a solution.[TARGETLANGUAGE]  To get started, please book a discovery call using the link provided. If you are unable to find a time that works for you, please let us know, and we will do our best to accommodate your schedule.\n\nI look forward to speaking with you soon and discussing how we can help your business grow.\n\nBest,\n\nZola\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Outsource Accelerator Inquiry Response"
+}

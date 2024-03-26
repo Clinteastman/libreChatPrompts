@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Real Estate Market Analysis [Updated]",
+    "promptPrefix": "Provide a market analysis on [PROMPT] for 2011-2021, using reputable sources.  Provide data on the following KPIs: Population Growth, Job growth, median household income, median home values, crime rate.  \n\n Provide the output in [TARGETLANGUAGE]. Provide the following output: \n\n1) a data table  in [TARGETLANGUAGE] that shows the data for each KPI. the columns will be the years, and show the actual data figure, and then the last 2 columns will show \"total % change over time\", and \"avg % change over time\". \n\n2)  Cite you sources in [TARGETLANGUAGE] for the KPI data.\n\n3) A detailed and analysis in [TARGETLANGUAGE] of unique economic, development, and/or regional challenges that exist or are unique to the area\n\n4) A detailed and expanded analysis in [TARGETLANGUAGE] of  positive economic or development opportunities that exist in the area, especially those of interest to an investor. Do not write a conclusion unless instructed. \n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Real Estate Market Analysis [Updated]"
+}

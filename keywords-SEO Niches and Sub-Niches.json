@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Niches and Sub-Niches",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I run a website at [PROMPT]. What are the sub-niches I should be tackling with my content. Give me the results in the form of a table with the sub-niche a number between 1 and 100 to indicate the popularity of the sub-niche.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Niches and Sub-Niches"
+}

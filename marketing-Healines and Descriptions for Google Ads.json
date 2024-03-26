@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Healines and Descriptions for Google Ads",
+    "promptPrefix": "The text should be in the following language [TARGETLANGUAGE]\n\n[PROMPT]\nI want you to use all your background about best practices for ad copywriting and act as an expert to create the best headlines and descriptions for a Google Ads Campaign. Consider this information to build each headline and description: The campaign's main keyword is [KEYWORD], the goal of the campaign is [CAMPAIGNGOAL], the campaign is made for this specific audience [AUDIENCE]\n\nMake sure all the headlines and descriptions are plagiarism free. Use a language that connects and resonate with the specific audience.\n\nConsider the given characteristics of the specific audience as insights to understand their pain-points and present a solution throughout the headlines and descriptions. \n\nGive me thirty headlines. They should be 30 characters maximum. Present them in a sheet format with the title HEADLINES (Max 30 Characters)\n\nGive me thirty descriptions. The descriptions should be 90 characters maximum. Present them in a sheet format with the title DESCRIPTIONS (Max 90 Characters)\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Healines and Descriptions for Google Ads"
+}

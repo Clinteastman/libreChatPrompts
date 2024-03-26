@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Formatted Blog Post",
+    "promptPrefix": "For the keyword I provide, create text for a full blog that included 2-3 meta titles, 2-3 meta descriptions,  most common FAQs with answers, all headers from h1-4, includes multiple bullet points for each header and covers as much about the [PROMPT] as possible while limiting over used works and making is as user friendly as possible in [TARGETLANGUAGE]. Then write a 1000-2000 word blog based on all information provided. The keyword to use it this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Formatted Blog Post"
+}

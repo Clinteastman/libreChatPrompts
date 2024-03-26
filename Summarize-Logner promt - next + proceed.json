@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Logner promt - next + proceed",
+    "promptPrefix": "[TARGETLANGUAGE] ENGLISH\n[PROMPT]\nGPT, I would like to ask you a multi-part query. Please respond with \"Next\" after each input. When I type \"PROCEED\", generate a response taking into account all the previous parts of the query.\nExample:\nUser: PART 1: [Enter the first part of the query here]\nGPT: Next\nUser: PART 2: [Enter the second part of the query here]\nGPT: Next\nUser: PART 3: [Enter the third part of the query here]\nGPT: Next\n...\nUser: PROCEED\nGPT: [Response to all previously mentioned parts of the query]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Logner promt - next + proceed"
+}

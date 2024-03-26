@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Supplement fact,functions,Target towards,Iteration",
+    "promptPrefix": "Imitate Eric.Berg to Generate a gummies supplement compound formulation for [PROMPT] ,[PROMPT]or[PROMPT]  [TARGETLANGUAGE] . \n\nMy request:\n1. Chatgpt should add some popular vitamins,minerals,Adaptogen,fatty oil or some popular health claims ingredient in this formulation.\n2. Chatgpt should let the dosage should be higher under the dosage the upper Intake Level (UL)  and competitive on the amazon marketing.\n3. You can refer to Ritual,Mary ruth,New Chapter,Mega Food, if you have no idea.\n\n\nPls generate as the format follow:\n\u2728I.Target towards\n\n\u2728II. Functions\n\n\u2728III. Supplement Fact\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Supplement fact,functions,Target towards,Iteration"
+}

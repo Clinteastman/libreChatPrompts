@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Lead Generation B2B",
+    "promptPrefix": "Your task is to make a table of 100 companies from industry and country. All output shall be [TARGETLANGUAGE].  including their name, phone number, email address, CEO name, CEO email, CFO name, and CFO email\nThe text to sumarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Lead Generation B2B"
+}

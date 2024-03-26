@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Roblox Building Help",
+    "promptPrefix": "the platform and game is about the following: [PROMPT]\nwrite a roblox game desc up to 1000 charecters (including spaces) and also some gamepass ideas not in the desc & title ideas not in the desc up to 50 charecters incuding spaces \n\nThe target launguege is [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Roblox Building Help"
+}

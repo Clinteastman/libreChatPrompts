@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewrite Sentence Prompt",
+    "promptPrefix": "I Want You To Act As A Content Writer who writes fluently in [TARGETLANGUAGE] and is Very Proficient in SEO. Your task is to rewrite [PROMPT] to create a unique text version. Use easy to understand sentences which are not too complex. Now rewrite [PROMPT].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewrite Sentence Prompt"
+}

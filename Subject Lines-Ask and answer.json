@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Ask and answer",
+    "promptPrefix": "Ask me 15 questions and answer to them about this text in [TARGETLANGUAGE]. Put your answers into a excel table with \"Questions\" on the left and \"Answers\" on the right: \"[PROMPT]\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Ask and answer"
+}

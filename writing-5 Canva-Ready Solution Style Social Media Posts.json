@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "5 Canva-Ready Solution Style Social Media Posts",
+    "promptPrefix": "Create a total of 15 quotes as follows. \n\nGet a list of 5 commonly encountered problems in the [PROMPT] niche using [TARGETLANGUAGE]\n\nFor each of the 5 problems, find 3 solutions offered by well known [PROMPT] experts and organise in a TABLE.  There will be a total of 15 quotes.\n\nStructure the table as follows:\n1st column: Number of the quote\n2nd column: Name of the commonly encountered problem in the form of a question\n3rd column: Quote from expert in the form of a solution, including the name of the expert. Quote must be shorter than 240 characters. \n4th column: Write a expanded, long Facebook post exploring the problem and solution. Include 1-2 more tips in the [PROMPT] field about that solution. Write this for Facebook audience with a minimum of 400 characters.  Facebook post must also Include a question relating to this post to encourage engagement.  Include relevant emoji's and hashtags\n5th column: Rewrite a short version of the facebook post for Twitter\n\nContinue until you have completed a total of 15 rows.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "5 Canva-Ready Solution Style Social Media Posts"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Frequently asked question with answers",
+    "promptPrefix": "Your task is to make a FAQ with both questions and answers. All text shall be in [TARGETLANGUAGE]  the topic is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Frequently asked question with answers"
+}

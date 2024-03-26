@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blogpost to LinkedIn Post with 5 Headlines",
+    "promptPrefix": "Transform a blogpost into a high-engaging LinkedIn post that captures the attention of your target audience: CEOs, CMOs, Marketing Managers, and similar positions in marketing. Generate 5 options for a short and attention-grabbing headline that will entice users to click \"read more\". Don't mention the target audiences in the headline. Create a 1-2 line introduction that hooks the reader and makes them want to keep reading. Distill the most important information from the blog post into bullet points, providing quick insights for the reader in an easy-to-digest format. Ensure the language is simple and the overall post is easy to read. The tone should be informative and captivating, presenting the key takeaways from the blog post without the need for the reader to visit the blog for more information. Note: The output from the prompt should be in [TARGETLANGUAGE] \n\nThe URL for the blogpost is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blogpost to LinkedIn Post with 5 Headlines"
+}

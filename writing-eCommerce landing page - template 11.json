@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "eCommerce landing page - template 11",
+    "promptPrefix": "I want you to act as very proficient conversion copywriter and that writes in fluent [TARGETLANGUAGE]. Your task is to write the text based on product description but must follow this structure: benefit-focused headline; product description; 3 most important benefits that should not be described in more than 5 words; 6 additional benefits described in short paragraphs and with strong inviting headlines; and 8 user testimonials. The product description is this: \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "eCommerce landing page - template 11"
+}

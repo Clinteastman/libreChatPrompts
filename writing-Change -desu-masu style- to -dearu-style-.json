@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Change \"desu-masu style\" to \"dearu-style\"",
+    "promptPrefix": "\u4ee5\u4e0b\u306e\u6587\u7ae0\u306e\u6587\u672b\u306e\u8868\u73fe\u306e\u300c\u301c\u3067\u3059\u3001\u301c\u3067\u3057\u305f\u3001\u301c\u307e\u3059\u3001\u301c\u3057\u307e\u3057\u305f\u300d\u306a\u3069\u306e\u300c\u3067\u3059\u307e\u3059\u8abf\u300d\u3092\u300c\u301c\u3067\u3042\u308b\u3001\u301c\u3067\u3042\u3063\u305f\u3001\u301c\u3060\u3001\u301c\u3057\u305f\u300d\u306e\u300c\u3067\u3042\u308b\u8abf\u300d\u306b\u5909\u66f4\u3057\u3066\n[PROMPT]\n[TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Change \"desu-masu style\" to \"dearu-style\""
+}

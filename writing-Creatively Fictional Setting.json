@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creatively Fictional Setting",
+    "promptPrefix": "Outline the following data for your creative fictional setting of [PROMPT], or [A BRIEF DESCRIPTION OF YOUR LOCATION, maximum ca. 8000], organized in rows and lined up accordingly:\n\nName of Location:  info here \nGenre and Tone:  info here \nMap: info here \nPeople: info here \nRules, Laws, and Taboos: info here \nRituals, Social Practices, and Culture: info here \nReal-life Inspiration: info here \nName of Location: info here \nSight: info here \nSmell: info here \nTaste: info here \nSound: info here \nTouch: info here \nMetaphor: info here \nTexture & Sensation: info here \nPossible Sources of Conflict: info here \nCommon People Found in This Setting: info here \nSetting Description Example: info here\n\nYour outline should be formatted in a clear and organized manner, with each piece of information aligned in its respective row. You may use bullet points, dashes, or other symbols to separate the different pieces of information in each row, as long as the overall format is easy to read and understand.\n\nThe data provided should be specific and detailed, providing a clear and comprehensive picture of the location in question. Use vivid and descriptive language to capture the sights, sounds, smells, tastes, and textures of the setting, and be sure to include any relevant social or cultural practices, laws, or taboos that might impact the story.\n\nIncorporating a setting description example can also help to provide context and inspire creativity for the writer. Overall, your outline should be a useful and informative resource for anyone looking to create a compelling and immersive setting for their story.\n\nYou must use [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creatively Fictional Setting"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Article Rewriter | No Passive Voice",
+    "promptPrefix": "I want you to rewrite this text in [number of words] words,  and make it SEO optimized for the keyword [KEYWORD], no passive voice, and make it friendly to hook the reader.\n\nAll output should be in [TARGETLANGUAGE].\nThe article to rewrite is this: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Article Rewriter | No Passive Voice"
+}

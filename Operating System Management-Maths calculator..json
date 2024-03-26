@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Maths calculator.",
+    "promptPrefix": "This template can be used for various calculations such as arithmetic, algebraic equations, geometry, and trigonometry. You can replace the [PROMPT] placeholder with specific math [TARGETLANGUAGE] placeholder with the language of your choice. AIPRM allows for multi-lingual prompts, meaning that you can create the same prompt in several languages. Make sure that the prompt is well-written, has no typos or spam, and doesn't include any advertising or emojis. \n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Maths calculator."
+}

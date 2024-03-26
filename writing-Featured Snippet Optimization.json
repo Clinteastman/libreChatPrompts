@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Featured Snippet Optimization",
+    "promptPrefix": "Rewrite the article for featured snippet optimization under 50 to 60 words. Try to give direct answer with yes or no at the first, then describe it why. Also write the paragraph using small amount of perplexity and burstiness. Write in [TARGETLANGUAGE]. Get the input from: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Featured Snippet Optimization"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Conclusion with Interactive Question for your BLOG!",
+    "promptPrefix": "Act as a Copywriter\nWrite SEO-optimized Conclusion with Interactive question [PROMPT] this blog in [TARGETLANGUAGE] showcase with separate section",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Conclusion with Interactive Question for your BLOG!"
+}

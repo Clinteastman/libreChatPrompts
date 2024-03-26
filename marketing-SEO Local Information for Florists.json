@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Local Information for Florists",
+    "promptPrefix": "[PROMPT] in [TARGETLANGUAGE] Provide local seo information related to an address. The information should focus on the town neighborhood, region and other areas related to the provided address for the purpose purpose of local seo optimization. This information should be pertinent to the floral industry. Focus on geo-location information rather than SEO strategy. Information like the neighborhood, hamlet, region, nicknames, local names, etc",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Local Information for Florists"
+}

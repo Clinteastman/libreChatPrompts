@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Netflix Analyzer",
+    "promptPrefix": "ich nenne dir jetzt ein paar netflix serien und Filme : \"[PROMPT]\" und du versuche ein Muster darin zu erkennen bzw. versuche was \u00fcber diese Person zu schlussfolgern die das alles gesehen hat. So viel wie du nur schaffst. Ziehe zum Schluss ein Fazit was du \u00fcber die Person denkst. Antworte mir bitte alles auf [TARGETLANGUAGE]. Empfehle mir in einer schicken Tabelle zum Schluss noch basierend auf meinen Mustern jeweils 5 weitere Titel die ich mir anschauen sollte. In der Tabelle w\u00e4re es sch\u00f6n wenn du den Titel, Hauptdarsteller und Kategorie benennst und in Sternchenform darstellst wie gut oder schlecht die Bewertung ist.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Netflix Analyzer"
+}

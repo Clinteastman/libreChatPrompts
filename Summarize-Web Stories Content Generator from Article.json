@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Web Stories Content Generator from Article",
+    "promptPrefix": "Can you help with my article to help me generate content for web stories in WordPress in [TARGETLANGUAGE], summarise it and make it in 10 points. it should be in such a way that any human being after reading these 10 points get a clear context of story. try to make these points shorter, under 100 characters is recommended.\nI want you to write like a 10-year-old kid tone, the content should have 0% plagiarism and passes the AI Content detector tool. Also, Optimize the web story content for SEO\n\nYou can find more about my article here: [PROMPT]\n\nAlso at the end give me Web Story SEO Optimized Title and Meta Description text at the end which are 0% Plagarism",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Web Stories Content Generator from Article"
+}

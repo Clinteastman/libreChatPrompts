@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Webinar Promotion LinkedIn Post",
+    "promptPrefix": "Your task is to write a LinkedIn post for a webinar accouncement in [TARGETLANGUAGE]. Post has 3 parts, do not write the parts title in the output:\n1)Hook\n2)Benefits\n3)Call to action\n\nDirectives on the Hook part:\nThe post  should start with a short and convincing hook which is compatible with the set tone. It should be maximum 50 characters. Make a break after the hook.\n\nDirectives on the benefits part:\nAfter the hook, write down 3 main benefits of joining to webinar as bullet point list. Do not write anything other than the bullet point list. Do not start to bullet point with word\"benefits\", use something captivating.  To understand benefits, use the text below:\n[PROMPT]\n\nDirectives on the call to action part:\nEnd post with an invitation call.\nKeep the post maximum 300 characters.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Webinar Promotion LinkedIn Post"
+}

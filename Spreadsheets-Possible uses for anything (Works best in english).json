@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Possible uses for anything (Works best in english)",
+    "promptPrefix": "Your task is to ideate possible applications of [PROMPT]. \n\nOrganise the informations into a table with 5 columns named:\n\n1. Name\n2. Technology\n3. Marketing\n4. Work Automation\n5. Practical uses\n\nIn the first column show me how would you name potential application. In the second column show me what kind of uses does [PROMPT] have in the field of technology and how it could contribute to technological advancements. In the third column show me what kind of marketing techniques and opportunities does [PROMPT] bring to the table. In the fourth column tell me how [PROMPT] could be used to automate work - it can cover physical labour or any type of mental work. In the fifth column show me what kind of real life uses [PROMPT] can have.\n\nBoth outputs and table shall be in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Possible uses for anything (Works best in english)"
+}

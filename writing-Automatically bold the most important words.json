@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Automatically bold the most important words",
+    "promptPrefix": "You have to determine the most important words and phrases in this [PROMPT], once this is done, I want you to send me back the same text with the only change being that you have put in bold those words that you considered important. I need to see the bolded words very clearly in this text, to do this you should probably use the bold tag. , write all output in [TARGETLANGUAGE]:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Automatically bold the most important words"
+}

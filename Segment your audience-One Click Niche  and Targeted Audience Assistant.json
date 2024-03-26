@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "One Click Niche  and Targeted Audience Assistant ",
+    "promptPrefix": "Find my targeted audience and niche based on my area of expertise and/or interest given in this prompt, where do I find them, how do I reach them, and how do I promote to them? Give me ideas for a marketing promotion to my targeted audience and or/ niche [TARGETLANGUAGE] IN  [PROMPT], [VARIABLE1], [VARIABLE2], [VARIABLE3]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "One Click Niche  and Targeted Audience Assistant "
+}

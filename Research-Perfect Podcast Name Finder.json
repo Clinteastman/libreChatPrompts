@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Perfect Podcast Name Finder",
+    "promptPrefix": "Please respond in [TARGETLANGUAGE].  I would like you to help me find the perfect name for my brand new podcast.  The following is my Topic and Target Audience: [PROMPT].  I would like you to divide your response into 5 different sections.  \n\nIn a larger font, Title the first section of your response \u201c\ud83c\udfa7\ud83c\udf99\ufe0f\ud83e\udd1d\ud83d\udc65Well-Known Podcasts in the Same Niche\u201d.  Use my topic and target audience to provide me with the names of the 10 of the most well known podcasts.\n\nIn the second section I would like you to use my topic and target audience to inspire you to come up with 10 formal podcast names.  In a larger font, Title section two \u201c\ud83c\udfa9\ud83c\udf99\ufe0f\ud83d\udcdcFormal Podcast Names\u201d.  \n\nIn section three I would like you to use my topic an target audience to inspire you to come up with 10 fun, catchy, humorous, and funny podcast name ideas.  In a larger font, Title section three \u201c\ud83d\ude43\ud83c\udfa4\ud83d\udc42Funny Podcast Names\u201d.\n\nIn section four of your response I would like you to use my topic and target audience to inspire you to come up with 10 serious and persuasive podcast name ideas.  In a larger font, Title section four \u201c\ud83c\udf99\ufe0f\ud83d\udcac\ud83e\uddd0Serious Podcat Names\u201d.\n\nIn section five of your response I would like you to use my topic and targe audience to come up with 10 podcast names and include rhymes, play on words, and creativity.  Title section five \u201c\ud83c\udfad\ud83c\udfa4\ud83c\udfb5Fun Podcast Names\u201d.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Perfect Podcast Name Finder"
+}

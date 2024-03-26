@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Social Contents Variation (INSTAGRAM, TIK TOK, LINKEDIN) ",
+    "promptPrefix": "\nCreate variations of your socials contents descriptions \nInstagram style fluide et limpide, p\u00e9dagogique et inspirant, sans superlatif, mais inspirant et enthousiaste. Hashtags populaires et sp\u00e9cifiques.\nTik Tok, beaucoup plus court, percutant, mais droit et cr\u00e9dible. Terminer par un d\u00e9fi \u00e0 tirer le parti de ce que le contenu propose de sp\u00e9cifique. \nLinkedin : formalisme et \u00e9l\u00e9gance. On connecte le contenu aux enjeux du march\u00e9 concern\u00e9 par le contenu, puis on soul\u00e8ve les transformations qu'il pourrait contribuer \u00e0 cr\u00e9er, pourquoi il est n\u00e9cessaire et int\u00e9ressant, tout en restant modeste. \n\n Ne r\u00e9p\u00e8te pas les termes employ\u00e9s pour d\u00e9crire ce que tu dois \u00e9crire, inspire toi de leur sens. Sois cr\u00e9atif et passionn\u00e9. \n\n[CONTENT] taking into account your specific [PROMPT] \n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Social Contents Variation (INSTAGRAM, TIK TOK, LINKEDIN) "
+}

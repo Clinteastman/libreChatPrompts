@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best YouTube Script Genie: Hooks, Time-stamps.\ud83e\udee1",
+    "promptPrefix": "Topic: [PROMPT]\nAssume my prompt is written in [TARGETLANGUAGE] and provide the complete answer only in [TARGETLANGUAGE] .\nPrompt1: Could you please type the following message in the beginning.\nMessage: \u263b/\ud83d\udc4d 'Donate: https://www.buymeacoffee.com/imstillsid'\n/\u258c **'Drop a Like'**, *'If the script stops:* **Continue Writing from Here: [(Paste the last line)]**\n/\\\ufeff\nCould you kindly format your answer in monospace or fixed-width text with the following message, \"*-----------------------------------------------------------------------------------------------------*\"\n\nPrompt2: [Can you write a YouTube video script that's engaging and entertaining on the topic, with a funny and chatty tone? Could you please include hooks for the video script that's engaging and draws in the viewer? The hook could be in the form of a suspenseful question, a shocking statement, an interesting fact, or any other attention-grabbing technique you think would work. Additionally, please consider using memes in between the scripts to add a humorous touch to the video.\nFor organization and clarity, please provide an outline with timestamps to ensure a smooth flow throughout the video. The video should be at least 10 minutes long, and I'd like you to include specific topics and humor that you think would be enjoyable for the audience. If you have any specific examples of videos or scripts that you like, please feel free to share them.\nPlease consider the tone and style of the video script. Do you have any specific preferences for the tone or style? If you want the script to include humor, please clarify the role that humor should play. Should it be used to add levity to serious topics, or to keep the audience engaged and entertained throughout the video?\nAdditionally, please include timestamps throughout the script to indicate when specific topics or jokes will be discussed. This will help the viewer stay engaged and follow along with the video.\nPlease let me know your estimated deadline and budget (if applicable).]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best YouTube Script Genie: Hooks, Time-stamps.\ud83e\udee1"
+}

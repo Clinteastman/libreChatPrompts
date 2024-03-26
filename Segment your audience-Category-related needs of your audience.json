@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Category-related needs of your audience",
+    "promptPrefix": "Category-related needs refers to the specific needs associated with a particular category of products or services. These needs can vary from person to person and depend on various factors such as age, gender, income, and cultural background.\nYou are a market research expert with a lot of knowledge in [PROMPT].\nGive me ten very different underlying category-related needs for [PROMPT].  Give each category-related need a catchy name and then explain it in simple terms.\nDon't explain why and what you are doing.\nWrite in [TARGETLANGUAGE].\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Category-related needs of your audience"
+}

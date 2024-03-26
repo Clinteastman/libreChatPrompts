@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "All in One Blog with one Keyword.",
+    "promptPrefix": "Task: Write an informative and interesting blog\n\n- A creative title and SEO meta-description that includes the keyword \"[Keyword]\"\n- An introduction that sets the stage for the article and highlights the significance of [Keyword] in education.\n- Subheadings and bullet points or numbered lists as appropriate\n- Use of contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms, and avoiding repetitive phrases and unnatural sentence structures\n- A detailed explanation of [Keyword] and how it impacts online readers. \n- Examples of [Keyword] in action and how they have impacted youth.\n- A discussion of the benefits and limitations of [Keyword], including past and future aspects.\n- FAQs to address common questions about [Keyword], such as What, How, When and Where.\n- A conclusion that summarizes the main points and emphasizes the importance of [Keyword] in motivation.\n- Make sure the article is plagiarism-free and written in a human-like style that can easily pass the AI detection tools test.\n\nWord count: minimum 1000 words\nDate of knowledge cutoff: 2021-09\nCurrent date: [Current Date]\nTarget audience: online newspaper readers on blog pages of \"\nPurpose: Information, motivation, awareness and education.\nLanguage: [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "All in One Blog with one Keyword."
+}

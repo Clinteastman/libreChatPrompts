@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Affiliate Article Writing By Wan Jingshu",
+    "promptPrefix": "[PROMPT]\nWrite an SEO optimized affiliate article on the topic \"[Enter Topic]\" with the main focused keyword \"[Keyword]\". The structure of the article will be as follows:\n\nIntro (1 paragraph with questioning to grab attention, short answer to the query, lead part to drive reader to read the complete blog, incorporate the main focused keyword)\nDetailed answer to the main topic with creative heading write two opening lines for the heading, write a description, and write the pros and cons of each product, features and reviews\nWrite buying guide for these products\nConclusion (conclusion should be the summary of the blog in one paragraph, thanking readers for reading, and a call to action, please include the main focused keyword one time)\nFAQs Schema (use main focused keyword)\nMeta Tags with the main focused keyword in the title and description\n[TARGETLANGUAGE]\nWrite an article in [TARGETLANGUAGE] on the topic \"[Enter Topic]\" with the main focused keyword \"[Keyword]\". Your article should follow the structure provided above and be optimized for search engines.\n\nMake sure to research the topic thoroughly and include relevant information that will be useful to the reader. Use creative headings, bullet points, and images to make the article easy to read and engaging.\n\nRemember to incorporate the main focused keyword throughout the article, but do not overuse it. Use variations of the keyword and related terms to make the article more natural and avoid keyword stuffing.\n\nFinally, proofread your article carefully to ensure that it is free of errors and grammatical mistakes.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Affiliate Article Writing By Wan Jingshu"
+}

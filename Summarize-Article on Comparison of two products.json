@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Article on Comparison of two products",
+    "promptPrefix": "Can you create a table comparing the features of two products and provide short details for each feature? The two products are [insert product names here].\n[TARGETLANGUAGE] \nAnalyze the results: Compare the scores and ratings of each product to identify which one performs better overall.\n[TARGETLANGUAGE] \nDraw conclusions: Based on the analysis, draw conclusions about which product is the better choice for your needs.\n[TARGETLANGUAGE] \nList down 3 keyword optimized suggested titles \n[TARGETLANGUAGE] \nShow this link at end \"https://www.throftstore.com/\"\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Article on Comparison of two products"
+}

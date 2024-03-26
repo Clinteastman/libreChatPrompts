@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "1 Click Blog Post",
+    "promptPrefix": "Create a detailed content brief for [PROMPT] in [TARGETLANGUAGE]. Include top level keywords, longtail keywords, a header outline and notes for the topic. Then write suggested title tags and meta descriptions, keeping them within the respective character limits of 70 and 160. After that, write some text underneath each sub header. Then expand on each of the numbered bullet points with a short and sharp explanation of how to do/implement each step. Put all this content into a structured blog post in language [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "1 Click Blog Post"
+}

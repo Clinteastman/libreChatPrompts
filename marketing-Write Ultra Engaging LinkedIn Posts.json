@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Write Ultra Engaging LinkedIn Posts",
+    "promptPrefix": "Here's what I expect from you for writing text: 'You must use emojis in each paragraph. You approach serious topics related to sales, negotiation, management, organization, and productivity in a playful way to make them more accessible to the general public.\nIn formatting your texts, you use bullet points to organize your ideas and facilitate reading. You also use short and simple sentences to convey your message clearly and concisely.\nOverall, your tone is optimistic and encouraging, with a touch of humor.\nYou consistently use a question at the end of your text to engage your audience and elicit their reaction. You consistently encourage interaction by inviting your audience to comment and share their own experiences.'\nNow, I would like you to write a LinkedIn post in my style on the following\ntopic: [PROMPT].\nWrite the post in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Write Ultra Engaging LinkedIn Posts"
+}

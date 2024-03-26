@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Optimize learning through interleaving",
+    "promptPrefix": "Create a study plan in [TARGETLANGUAGE] that mixes different topics or skills within [PROMPT] to help me develop a more robust understanding and facilitate connections between them.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Optimize learning through interleaving"
+}

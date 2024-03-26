@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Better Outlines for a Blog 3.0",
+    "promptPrefix": "[PROMPT]Please create an outline for an SEO-optimized article on the topic[  ] using the primary keywords [  Primary Keywords ] The secondary keywords are[ Secondary Keywords    ]. The target audience is people [ target audeince  ]. The main goal of the article  [goal  ], and the total word count should be[  word count  ]. Structure the outline with a Headline (H1), Introduction (H2), Subheadings (H3), key points under each subheading, and Conclusion (H2). Divide the word count proportionally across the sections. \n\n[TARGETLANGUAGE] English",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Better Outlines for a Blog 3.0"
+}

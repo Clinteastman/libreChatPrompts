@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Radio commercial script generator",
+    "promptPrefix": "Create 3 versions for a radio commercial text. Use maximum 350 characters or 50 words! End with a strong selling call to action. Do not write the text from the we form. But as the third person. Optimize for selling the product. All output shall be in [TARGETLANGUAGE]. Call the versions \"Versie 1, 2, etc.\" and generate a short attractive title above each version. All in the [TARGETLANGUAGE]. The text to summarize is this: \n[PROMPT]. Human Written | Plagiarism Free",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Radio commercial script generator"
+}

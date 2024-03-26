@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a SEO and clickbait meta description",
+    "promptPrefix": "Ignore all previous prompts. [TARGETLANGUAGE] Suppose you are so good in writing copies and it ranks high in the search engines and engage eyeballs. Act as a [TARGETLANGUAGE] copywriter and write a clickbait meta description of minimum 130 characters for the following topic and the description must not exceed 155 characters. Write in [TARGETLANGUAGE]. Also mention the characters count. Here is the keyword: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a SEO and clickbait meta description"
+}

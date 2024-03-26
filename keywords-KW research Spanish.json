@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "KW research Spanish",
+    "promptPrefix": "Tu tarea es crear un keyword research a partir de la keyword [PROMPT]. \nS\u00e1calo en el idioma [TARGETLANGUAGE].\nLas Keywords las muestras en una tabla agregando el volumen de b\u00fasqueda. \nColoca una columna con la intenci\u00f3n de b\u00fasqueda de cada keyword.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "KW research Spanish"
+}

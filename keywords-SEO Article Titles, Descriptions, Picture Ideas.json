@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Article Titles, Descriptions, Picture Ideas",
+    "promptPrefix": "Provide 30 article titles, keywords to be used, and meta descriptions for [PROMPT]. Make the article titles interesting and good for click bait. Make the article titles clickable, sharable, and interesting. Include [PROMPT] in the title, picture ideas and meta description for SEO. Use a grid, organized left to right showing Keywords, Article Title, Meta Description, Picture Inspiration. Write in [TARGETLANGUAGE]. Have everything in the same chart. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Article Titles, Descriptions, Picture Ideas"
+}

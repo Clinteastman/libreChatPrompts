@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Model of Powers and Demand",
+    "promptPrefix": "Com base no C\u00d3DIGO DE NORMAS E PROCEDIMENTOS DOS SERVI\u00c7OS NOTARIAIS E DE REGISTRO DO ESTADO DO PIAU\u00cd, quero somente os poderes, desconsiderando o cabe\u00e7alho e o rodap\u00e9 e n\u00e3o escreva nem uma explica\u00e7\u00e3o, quero [PROMPT]. Textos escritos em tom formal, estilo de escrita t\u00e9cnico e na l\u00edngua portuguesa.\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Model of Powers and Demand"
+}

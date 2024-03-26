@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "KGR Keyword Research",
+    "promptPrefix": "Perform comprehensive keyword research using KGR (Keyword Golden Ratio) in [TARGETLANGUAGE]to identify untapped opportunities and high-potential keywords in your niche. Explore the power of KGR to discover low-competition keywords with a high search volume that can help boost your website's organic traffic and rankings. Develop a detailed report showcasing the top KGR keywords, their search volume, competition level, and potential for driving targeted traffic to your website. Use this valuable keyword research to optimize your content strategy, improve SEO efforts, and dominate your niche.:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "KGR Keyword Research"
+}

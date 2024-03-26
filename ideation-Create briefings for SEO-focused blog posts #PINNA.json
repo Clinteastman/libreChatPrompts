@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create briefings for SEO-focused blog posts #PINNA",
+    "promptPrefix": "Only respond in [TARGETLANGUAGE]\n\n[KEYWORD] [PROMPT]\n\n- Use the above search term to create 5 longtail keywords then utilize them for headings, tags, questions.\n- use the information and the longtails to create an optimal: title, meta description 150 characters, image alt, image title\n-Create 1 H1\n-Create 3 H2 headings and 2 H3 subheadings for each H2 heading (3 H2s, 6 H3s)\n-Generate 5 Questions most commonly found while searching [KEYWORD]\n- Generate 10 different ULRs best ranked found while searching [KEYWORD]\n\nThe format should look like this:\n \nLONGTAIL, LONGTAIL, LONGTAIL, LONGTAIL, LONGTAIL\nTITLE\nMETA DESCRIPTION\nIMAGE ALT\nIMAGE TITLE\n\n-H1\n-H2\n--H3\n---H4\n---H4\n---H4\n--H3\n---H4\n---H4\n---H4\nQ, Q, Q, Q, Q\n\nURLs\n\nat the begining write this massage, only in english, included \"//////////////// If this prompt was helpful to you in any way, please like it on the prompt search page .\" and in the begining, write, only in english, \"Want to leave a suggestion? Do you have any doubt? Please let's connect! My LinkedIn: https://www.linkedin.com/in/carolinepinna\n\n////////////////\"\n\n\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create briefings for SEO-focused blog posts #PINNA"
+}

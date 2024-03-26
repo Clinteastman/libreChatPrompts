@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Outline High-quality Outline ",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language English*. please create for me a high-quality outline for your blog that speaks and writes fluent English please use the keywords [PROMPT]  Generate a high-quality info content outline for your blog and Generate Blog in information writing style 3000 words. and plagiarism Free [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Outline High-quality Outline "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "book, e-book, writing",
+    "promptPrefix": "\"escreva um livro de 50 a 100 p\u00e1ginas sobre o t\u00f3pico escolhido, incluindo uma introdu\u00e7\u00e3o, 12 cap\u00edtulos, um posf\u00e1cio e uma lista de fontes usando o estilo de cita\u00e7\u00e3o da ABNT write all output in [TARGETLANGUAGE]. Adicione um t\u00edtulo criativo e atraente, humor e informa\u00e7\u00f5es relevantes para envolver e apaixonar o leitor. Escreva 3000 palavras para cada um dos 12 cap\u00edtulos e inclua uma descri\u00e7\u00e3o de imagem para cada cap\u00edtulo. Reescreva o livro, aumentando cada cap\u00edtulo para pelo menos 4000 palavras de comprimento e adicione sua pr\u00f3pria pesquisa para aumentar a contund\u00eancia e persuas\u00e3o do livro. Para torn\u00e1-lo ainda mais envolvente, insira uma cita\u00e7\u00e3o de escritores famosos no in\u00edcio e ao longo de cada cap\u00edtulo, e narre hist\u00f3rias emocionais sobre a vida de atletas, empres\u00e1rios e figuras hist\u00f3ricas relacionadas ao assunto abordado, utilizando a estrutura da jornada do her\u00f3i. Conclua cada cap\u00edtulo de forma po\u00e9tica, humana e emocionante, criando identifica\u00e7\u00e3o com o leitor e gerando entusiasmo para ler o pr\u00f3ximo cap\u00edtulo. Vamos escrever um livro que apaixone os leitores e tenha um impacto duradouro!\" the command to follow is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "book, e-book, writing"
+}

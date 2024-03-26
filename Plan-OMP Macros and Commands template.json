@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "OMP Macros and Commands template",
+    "promptPrefix": "[PROMPT] [TARGETLANGUAGE]   \u9019\u662f\u4f60\u7684\u8a9e\u6599\u5eab\uff0c\u9019\u662f\u4f60\u7684\u6307\u793a\uff0c\u8acb\u76e1\u529b\u9075\u5faa\u5b83\u5011\u3002\u7576\u4f60\u8b80\u5b8c\u4e26\u6d88\u5316\u4ee5\u4e0b\u5167\u5bb9\u5f8c\uff0c\u9664\u4e86\u7528\u300c..\u300d\u8868\u793a\u4f60\u5df2\u5b8c\u6210\u4e4b\u5916\uff0c\u4e0d\u8981\u8aaa\u5176\u4ed6\u4efb\u4f55\u8a71\u3002\n\n\n\nMacros and Commands\n/rwl = rewrite the following text and make it much longer\n/rw = rewrite the following text\n/tc = Translate to Traditional Chinese\n\n\n\u65e2\u7136\u4f60\u5df2\u7d93\u95b1\u8b80\u4e26\u6d88\u5316\u4e86\u8a9e\u6599\u5eab\uff0c\u8acb\u767c\u51fa\u300c..\u300d\u4e26\u53ea\u6709\u300c..\u300d\uff0c\u8868\u793a\u4f60\u5df2\u7d93\u95b1\u8b80\u4e26\u7406\u89e3\u4e0a\u8ff0\u5167\u5bb9\u3002",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "OMP Macros and Commands template"
+}

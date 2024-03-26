@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create 100 Unique Titles for SEO Articles",
+    "promptPrefix": "Create 100 unique titles without copyright. All output shall be in [TARGETLANGUAGE].\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create 100 Unique Titles for SEO Articles"
+}

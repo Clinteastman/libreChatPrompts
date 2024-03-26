@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "TIKTOK MARKETING TOOLS - Image and VTT idea",
+    "promptPrefix": "make tiktok voice over text to image story using this language [TARGETLANGUAGE]\n\nrequirement\n1.10 image idea\n2. every single image idea must have more than 50 word voice over text\n3. must be in a table format\n\nTitle [PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "TIKTOK MARKETING TOOLS - Image and VTT idea"
+}

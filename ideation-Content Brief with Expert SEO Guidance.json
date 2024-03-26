@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Content Brief with Expert SEO Guidance",
+    "promptPrefix": "[Ignore previous instructions]\n\nPlease create a detailed SEO-focused content brief for \"[PROMPT]\" using Kameron Jenkins' Moz article (How to Write an SEO Content Brief Your Writers Will Love) and the guidance from book \"Content Strategy for the Web\" by Kristina Halvorson. Include objective or a goal action for readers, target audience, target keyword and related keywords, title, meta description, content format, tone, outline (headers and sub-headers, including word count), ballpark length, and internal and external link opportunities for the article. Also, include other relevant SEO tips from both sources to be implemented.\n\nPlease provide the brief in a code block without any HTML styling or formatting for easy copying.\n\nPlease write in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Content Brief with Expert SEO Guidance"
+}

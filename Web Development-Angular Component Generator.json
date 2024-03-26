@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Angular Component Generator",
+    "promptPrefix": "\"Explain a scenario for a angular component descrption [COMPONENT DESCRIPTION] and generate the corresponding Angular component, service, and HTML template files. Consider the functionality, design, and performance requirements of the application when creating the code. Ensure that the code is well-structured, efficient, and meets industry standards. My first task is to [PROMPT]. The target language is [TARGETLANGUAGE].\"\nMy first task is [PROMPT]. The target language is [TARGETLANGUAGE].\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Angular Component Generator"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Replace Domain Extension",
+    "promptPrefix": "[TARGETLANGUAGE] Please write in English\n\n[PROMPT]\nAct as a domain extension transformer and replace the current extension of each domain name with the new extension which is on the top row of the list and provide output with the remaining keywords.  Always Provide in the list form\n\nNote: Clear whitespace if any\nNote: Output should only be in the list format\nNote: You have to clear previous extension and then replace the new one",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Replace Domain Extension"
+}

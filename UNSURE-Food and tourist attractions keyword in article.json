@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Food and tourist attractions keyword in article",
+    "promptPrefix": "[PROMPT]\nAs a data analyst for a travel blog, your task is to extract key information from a large number of travel articles. Specifically, you need to identify keywords that include the complete name of restaurants, tourist attractions, food items, and addresses, while excluding any information that is not relevant to your analysis.\nThe results should be presented in JSON format (with '' empty string if there is no information), with the key values being the complete name of the restaurant, the complete name of the food item, the complete name of the tourist attraction, and the detailed address of the attraction or restaurant. And do not provide any other information in answer.\nThe values should be filled in according to your judgement, and if there are multiple places,\nplease use the JSON format to represent them like\n[{{\n'restaurant_name':,\n'food_items':,\n'tourist_attractions':,\n'address':\n}},...]\n[TARGETLANGUAGE]: \u7e41\u9ad4\u4e2d\u6587\nArticle:\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Food and tourist attractions keyword in article"
+}

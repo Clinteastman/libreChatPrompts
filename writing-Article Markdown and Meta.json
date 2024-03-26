@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Article Markdown and Meta",
+    "promptPrefix": "[TARGETLANGUAGE] You are an expert in using Markdown to make articles visually pleasing.  Format this content in full by using  Markdown without changing any of the content. \n\nAfter that become an SEO expert give me a table with: High CTR Title, 140-170 character meta description, tags, short and friendly URL suggestion for this content.\n\n\"[PROMPT]\"\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Article Markdown and Meta"
+}

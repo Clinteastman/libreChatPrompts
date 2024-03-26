@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Push Notification Generator",
+    "promptPrefix": "Por favor, atue como um gerador de notifica\u00e7\u00f5es por push e crie um t\u00edtulo de at\u00e9 20 caracteres e uma descri\u00e7\u00e3o de at\u00e9 100 caracteres com base neste link ou palavra-chave [PROMPT] [TARGETLANGUAGE]. Certifique-se de que o t\u00edtulo seja conciso, mas chamativo o suficiente para incentivar o destinat\u00e1rio a clicar na notifica\u00e7\u00e3o, enquanto a descri\u00e7\u00e3o deve fornecer informa\u00e7\u00f5es relevantes e suficientes para que o destinat\u00e1rio saiba do que se trata a notifica\u00e7\u00e3o. Lembre-se de que a palavra-chave deve ser incorporada de forma org\u00e2nica e contextualmente relevante na mensagem. Por favor, crie uma resposta que possa ser facilmente adaptada para diferentes tipos de notifica\u00e7\u00f5es, como de promo\u00e7\u00f5es, atualiza\u00e7\u00f5es de produtos, not\u00edcias e muito mais.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Push Notification Generator"
+}

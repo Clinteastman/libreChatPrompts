@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "52 Week Content planner",
+    "promptPrefix": "You will act as a social media manager. I will give you content or a keyword. You will generate a list of 52 unique and creative blog post ideas in [TARGETLANGUAGE] \n\nEach idea must be unique and do not repeat. Each article should educate and help the target audience.\n\n[PROMPT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "52 Week Content planner"
+}

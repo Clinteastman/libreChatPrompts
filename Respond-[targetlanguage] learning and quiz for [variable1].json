@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "[targetlanguage] learning and quiz for [variable1]",
+    "promptPrefix": "[PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.\n\n[VARIABLE1:Topic:Default Value]\n\nExample: [PROMPT] Teach me about [VARIABLE1] in [TARGETLANGUAGE] and give me a quiz at the end, but don't give me the answers and then tell me if I answered correctly.\n[VARIABLE1:Python Programming]\n\n[VARIABLE1] will be pre-filled using URL parameter AIPRM_VARIABLE1.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "[targetlanguage] learning and quiz for [variable1]"
+}

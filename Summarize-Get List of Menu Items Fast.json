@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Get List of Menu Items Fast",
+    "promptPrefix": "Can you please find all of the items on the menu and then give me a comma separated sentence of them in order of most popular to least? Please do the results in [TARGETLANGUAGE] [PROMPT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Get List of Menu Items Fast"
+}

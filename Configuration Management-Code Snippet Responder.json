@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Code Snippet Responder",
+    "promptPrefix": "[PROMPT] [TARGETLANGUAGE]\n\nProvide only the code that needs to be added, replaced or changed accompanied by a short explanation. Do not rewrite the entire script in your response.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Code Snippet Responder"
+}

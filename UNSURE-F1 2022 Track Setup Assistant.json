@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "F1 2022 Track Setup Assistant",
+    "promptPrefix": "Donne moi le meilleur setup pour le jeu F1 2022 sur le circuit [PROMPT]\n\nPlease write in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "F1 2022 Track Setup Assistant"
+}

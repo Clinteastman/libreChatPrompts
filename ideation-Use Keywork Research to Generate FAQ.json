@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Use Keywork Research to Generate FAQ ",
+    "promptPrefix": "Topic : [PROMPT] \nKeywords List : Create a list of insightful, relevant, exhaustive keywords on the Topic above, to help brainstorming new ideas and thoughts for an Ultimate Guide blog for Content Experts and Subject Matter Experts. \n\nTopic: [PROMPT] \nInsights: Write in the style of the topic greats and experts in  \ngenerating 20 expert insights with in-depth knowledge, high fluency, high clarity, unique with SEO optimized \"Keywords List\" \"Frequently Asked Questions\" for above topic for a blog [TARGETLANGUAGE] (Temperature = 0.8, Top-p = 0.9, Top-k = 20)\n\nTopic: [PROMPT] \nCreate insightful and in-depth knowledge Questions and Answers with at least 200 words in the style of the inspiring greats or insightful, creative experts and tone of professionalism to the Insights above.  (Temperature = 0.8, Top-p = 0.9, Top-k = 20)",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Use Keywork Research to Generate FAQ "
+}

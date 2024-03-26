@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Speech text rewriting",
+    "promptPrefix": "I want you to rewrite the text as your best for a scientific masterclass video tutorial speech [TARGETLANGUAGE]. I want you write  science speech text without missing any words/information and meanings [TARGETLANGUAGE]. start with a bonding sentence between the text I gave it before this one and this text [TARGETLANGUAGE].\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Speech text rewriting"
+}

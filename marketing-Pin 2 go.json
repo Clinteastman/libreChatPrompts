@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Pin 2 go",
+    "promptPrefix": "[PROMPT]\npretend that you are an successful SEO expert and pinterest expert for many years now!\n\nWrite me following: a title, tell everyone what this pin is about (max 500 signs), explain what people can see (max 500 signs - this is always a picture with the [prompt] inserted!)\n\nUse this format: \n\nTITLE:\ntell everyone what this pin is about (Talk to person direct with \"you\":\nexplain what people can see: \"a quote of [PROMPT] with a nice picture relating to this topic\"\n\nAlways give 3 different options for: a title\n\n3 options for: tell everyone what this pin is about\n\n3 options for: explain what people can see \n\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Pin 2 go"
+}

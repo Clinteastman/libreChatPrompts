@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fiverr + Upwork Summarize Feedback+ Revisions",
+    "promptPrefix": "[PROMPT] Please read the client's feedback carefully and use the following format to break down and analyze the feedback into specific categories. This will help ensure that you understand the client's needs and have clear steps for your revisions.\n\nFormat:\n\nItem Number & Name (If the client has specifically named the item, use this name. If not, use a brief description of the item).\nSpecific Feedback: Summarize what the client has said about this item. What do they like? What do they dislike?\n\nAction Required: Based on the client's feedback, what changes do you need to make? What actions will address the client's concerns?\n\nExample:\n\nItem 1: Logo Design\nSpecific Feedback: The client feels that the logo design lacks vibrancy and does not represent their brand's lively and youthful energy.\n\nAction Required: Re-design the logo incorporating more vibrant colors and elements that reflect youthful energy. Consider presenting multiple design options for the client to choose from.\n\nRemember, clear and specific actions based on each point of feedback will help streamline your revision process and ensure that your work aligns with the client's vision. Always seek to address each point of feedback in your revisions, and don't hesitate to ask for clarification if any part of the feedback is unclear. Write in [TARGETLANGUAGE]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fiverr + Upwork Summarize Feedback+ Revisions"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Optimized Blog Topics v.2",
+    "promptPrefix": "Your task is to create 5 blog topics based on the criteria I provide to you. These titles need to be original, attention grabbing, and optimized for SEO. I will be providing you a business name, location, and industry in the [PROMPT]. All outputs are to be in [TARGETLANGUAGE]\n\nThe title for each blog should be either informative, or in the form of a relevant question we can answer in the blog iteself. \n\nIn addition to each blog topic, please provide 2 relevant informational and transactional keywords that are relevant to the business/industry. \n\nPlease also create a 2-3 sentence guide outlining how each topic should be written. \n\nThese blogs will be limited to 1000 characters, so please choose topics accordingly. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Optimized Blog Topics v.2"
+}

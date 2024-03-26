@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Instagram Caption and Hastag",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient SEO and high end copy writer that speaks and writes fluent [TARGETLANGUAGE]. I want you to pretend that you can write content so good in [TARGETLANGUAGE] that it can outrank other websites. Your task is to summarize the text I give you in 20 words or maximum 130 characters. All output shall be in [TARGETLANGUAGE]. The text to summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Instagram Caption and Hastag"
+}

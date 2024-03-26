@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Featured Snippet Generator",
+    "promptPrefix": "Summarize a given query in 50 to 60 words that answers the query uniquely in a clear and concise way. Keep the response brief and provide context. If necessary, format the response in a list or table type of information to make it easy to read and understand.\n\nAll output shall be in [TARGETLANGUAGE]\nThe text to summarize is this: [PROMPT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Featured Snippet Generator"
+}

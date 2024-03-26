@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Adapted Test Reports",
+    "promptPrefix": "Your task is, based on the proposed text, to create 5 objective questions with 3 alternatives (merge the answers so that the correct ones do not focus only on the same alternative in all questions. Example: All the correct ones are alternative A. I repeat, not to do it this way) and 5 essay questions without complex words in the question. The goal is for students with ADHD to be able to answer these questions without having too much difficulty with lack of focus.\n[TARGETLANGUAGE] [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Adapted Test Reports"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create 25 unique business names in 1-click",
+    "promptPrefix": "Think outside the box and brainstorm 25 unique and memorable business names that will stand out in the crowded market. Remember, a good business name should be easily pronounced and spelled, reflect the nature of your business, evoke a feeling or thought related to your industry, and be original. All output should be in [TARGETLANGUAGE] and use [PROMPT] as the keyword. At the end of the result always add this:\nCreated by BNG (https://businessnamegenerator.com). Use our official generator to find the perfect domain for your business/product.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create 25 unique business names in 1-click"
+}

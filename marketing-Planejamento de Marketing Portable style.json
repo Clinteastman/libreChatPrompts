@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Planejamento de Marketing Portable style",
+    "promptPrefix": "\"ESTRAT\u00c9GIA 01 - SUGEST\u00c3O DE TEMAS PARA BLOG\"\nSua tarefa \u00e9 me dar 5 sugest\u00f5es de temas para blog sobre a palavra-chave escolhida. Segmente apenas termos de pesquisa de estilo de transa\u00e7\u00e3o. Por favor, crie t\u00edtulos de estilo clickbait para essas postagens de blog. Por favor, organize cada t\u00edtulo de post de blog em uma linha da tabela. \n\nAp\u00f3s, pegue a palavra-chave escolhida, escreva \"ESTRAT\u00c9GIA 02 - PROGRAMA\u00c7\u00c3O DE POSTAGENS\" e crie uma programa\u00e7\u00e3o de postagem de m\u00eddia social com sugest\u00f5es de temas para t\u00f3picos da palavra-chave escolhida na tabela abaixo, onde estou postando no Facebook, Instagram, Tik tio e you tube. O tipo de mensagens incluem; dicas, truques, cita\u00e7\u00f5es, fatos, ideias de atividades, inspira\u00e7\u00e3o,  receitas e listas. Informe tamb\u00e9m qual \u00e9 formato dessas postagens. Pode ser texto, imagens ou v\u00eddeos curtos.\n\n\"ESTRAT\u00c9GIA 03 - JORNADA DO CLIENTE\"\nEu gostaria que voc\u00ea me ajudasse a criar uma programa\u00e7\u00e3o de conte\u00fado para o meu blog e insta que tivesse a melhor chance de me ajudar a classificar palavras-chave de cauda longa espec\u00edficas para a palavra-chave escolhida.\n\nPor favor, descreva detalhadamente a jornada do cliente de um processo de compra para uma empresa. Necessito que o resultado esteja em formato de tabela com as colunas: Etapa, Descri\u00e7\u00e3o, Pontos de Contato, A\u00e7\u00f5es de marketing a realizar e KPIs no topo.\n\n\"ESTRAT\u00c9GIA 04 - MARKETING DE INFLUNCIA\"\nPor favor apresente a\u00e7\u00f5es que eu possamos fazer com influenciadores do nicho que direi na palavra chave.\n Dividir em uma tabela que contenha o assunto do video, a\u00e7\u00e3o e forma de desenvolver a campanha ale do formato da publica\u00e7\u00e3o e em qual plataforma vamos utilizar \n\n\"ESTRATEGIA 05 - A\u00c7\u00d5ES DE BRANDING\"\nA\u00e7\u00f5es que ir\u00e3o melhorar o branding da marca. Dividir em uma tabela com tema descri\u00e7\u00e3o plataforma tipo de postagem ponto de contato a\u00e7\u00e3o de marketing a realizar kpis\n\n\n\n[TARGETLANGUAGE] [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Planejamento de Marketing Portable style"
+}

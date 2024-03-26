@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Storybrand:  2. The Hero has a problem ",
+    "promptPrefix": "Set the [TARGETLANGUAGE] for output.  In relation to Story Brand Scripting by Donald Miller if my product or service is,  [PROMPT]\nIn relation to our customers or the hero: \nTitle: Internal problem\n1. What is an internal problem, how is this villain making our customers feel? and \nTitle: External problem\n2. What is a external problem EXTERNAL our customers deal with\nas it relates to our product or service?\n\nBeing philosophical in thought. \nTitle: philosophical thinking\n3. Why is it \"just plain wrong\" for our  customers to be burdened by the internal and external problems mentioned?",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Storybrand:  2. The Hero has a problem "
+}

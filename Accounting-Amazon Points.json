@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Amazon Points",
+    "promptPrefix": "Can you write 5 Amazon Bullet Points, each Bullet Points should be of 150 Characters and each should also have 2 or 3 Word header. Ensure it doesn\u2019t include any surety words like 100%, perfect, unique, perfect, best, High quality \u2013 This is very important\nBy using the following information \n[PROMPT]\nwrite all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Amazon Points"
+}

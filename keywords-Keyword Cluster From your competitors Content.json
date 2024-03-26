@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword Cluster From your competitors Content",
+    "promptPrefix": "Your task is create Keyword Cluster From this content. Give me a list of keyword cluster from this content with a outline. All output shall be in [TARGETLANGUAGE]. The text to keyword cluster in this:\n\n[PROMPT]\n\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword Cluster From your competitors Content"
+}

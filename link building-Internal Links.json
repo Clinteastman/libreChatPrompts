@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Internal Links",
+    "promptPrefix": "Write in [TARGETLANGUAGE].\n\nI want you to analyze the semantics of this article:\n[PROMPT]\n\nAfter that, I want you to suggest \"5-10 best URLs\" that could be linked back to the article based on semantic and topical relevancy based ONLY on the list of URLs below:\n[VARIABLE1]\n\nNow, I want you to rewrite the article I provided in the beginning by including the \"5-10 best URLs\" you just picked from my list. Use markdown hyperlink keywords, with keyword-rich anchor text. Only use one link once.\n\n[VARIABLE1:Your Website's Links]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Internal Links"
+}

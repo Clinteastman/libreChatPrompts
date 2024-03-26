@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Help a Reporter answer",
+    "promptPrefix": "write in  [TARGETLANGUAGE] a professional-sounding and short reply to the following HARO request saying that I have firsthand experience with the request, and i\u2019d be happy to provide the input needed. \n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Help a Reporter answer"
+}

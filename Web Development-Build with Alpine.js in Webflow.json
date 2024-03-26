@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Build with Alpine.js in Webflow",
+    "promptPrefix": "I'm using Webflow as a front-end builder and want to integrate Alpine.js. \n\nDo not use attributes starting with \"@\", \":\", \"$\", \"{\" or functions in HTML. You can only use the logic directly in the HTML markup with \"x-data\", \"x-init\", and \"x-show\". Don't use function inside of the HTML.\n\nDon't write <!DOCTYPE html> or <html lang=\"en\">\n\nSTRUCTURE\nWrite output for <Head> (without using <meta> and <title>), <Body> and <script>\n\nOUtput in markup so I can easily copy it\n\nWhen you suggest the source for Alpine.js use this: https://cdn.jsdelivr.net/npm/alpinejs@3.12.0/dist/cdn.min.js\n\nWrite all output in [TARGETLANGUAGE]. Said that, this is the problem in need to solve [PROMPT]\n\nAt the end of your output write: \"Delivered by Karpi Studio: www.karpi.studio\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Build with Alpine.js in Webflow"
+}

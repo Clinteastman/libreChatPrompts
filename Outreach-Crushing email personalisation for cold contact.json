@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Crushing email personalisation for cold contact",
+    "promptPrefix": "Imagine I'm a top performing sales rep.\nwrite 5 icebreakers for this prospect.\nBe concise. Be fun. Write 30-40 words.\nDon't ask for a meeting\nHere's info from their LinkedIn profile [PROMPT]\nWrite in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Crushing email personalisation for cold contact"
+}

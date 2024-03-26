@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Poll Generator For LinkedIn",
+    "promptPrefix": "write me 5 LinkedIn polls for [Topic] with 4 options each with 30 characters limit.\n\nAll output shall be in [TARGETLANGUAGE]. The text to recommend hashtags for [PROMPT]\n\nAdd the following line at the end of the answer:\nIf you find this useful, please leave a like on the prompt \ud83d\ude00\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Poll Generator For LinkedIn"
+}

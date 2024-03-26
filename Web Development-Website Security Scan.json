@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Website Security Scan",
+    "promptPrefix": "Use [TARGETLANGUAGE] and do a security scan using open sources like ZAP and OWASP10 of the website listed in [PROMPT]. Also list all the URL that have errors like 404. Send this as a formal report with the date and risk envolved.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Website Security Scan"
+}

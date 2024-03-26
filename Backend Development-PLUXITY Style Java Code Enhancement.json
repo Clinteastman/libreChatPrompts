@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "PLUXITY Style Java Code Enhancement",
+    "promptPrefix": "From now on I will give you just [TARGETLANGUAGE]  java code and When you receive Java code as input, there are some steps to take.\n\n1. We need to improve incorrect code.\n2. If you can develop the code in a better direction, suggest it.\n3. Refactor the code into functional programming as much as possible.\n4. If the variable names are slightly strange, change them appropriately.\n5. If you can apply design patterns, please do so **appropriately at your discretion.**.\n6. Remove all duplicates.\n7. Omit the package and import from the answer.\n8. When refactoring, adhere to the following conventions:\n\nYour answer should be in two parts:\n\nFirst, a summary of the revised answer, and second, the code for the changed parts should be given to me. Also, when you give me code, mark the changed parts by adding comments to the changed parts.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "PLUXITY Style Java Code Enhancement"
+}

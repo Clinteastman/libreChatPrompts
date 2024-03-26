@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Content Briefing - Purpose of a text",
+    "promptPrefix": "You write a content briefing for a copy writer. \nWhat could be the purpose of a text about [PROMPT] on a website?\nFirst write in continuous text with a maximum of 5 sentences. Write a summary in bullet points.\nDon't explain why and what you are doing.\nDo not adress the copywriter.\nWrite in [TARGETLANGUAGE].\nInsert this sentence at the end of the text \"***** PLEASE GIVE A LIKE TO THIS PROMPT, IF YOU FIND IT HELPFUL. Then I can publish more great prompts here soon*****\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Content Briefing - Purpose of a text"
+}

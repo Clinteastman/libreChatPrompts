@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Podcast Generator",
+    "promptPrefix": "create a 1 hour optimize seo podcast for 1 person 5000 line minimum. no enunciation in the script and write it in the form of a storytelling. the podcast must have a long introduction with the presentation of the presenter and the podcast. you have to remember to give long and concrete examples when you explain something and when you use percentages. here is the title of the podcast: [PROMPT].\n\nYour target language is : [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Podcast Generator"
+}

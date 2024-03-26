@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fiverr gig description",
+    "promptPrefix": "I want you to write a Fiverr Gig description using the title and information provided in the command.\nMake sure to write in a humorous tone.\nMake sure to engage the reader with crispy and creative sentences.\nMake sure not to use cliche words like greetings, my dear, my friend, hola, etc\nBe as creative as you can\nMake sure to write less than 200 words and 1200 characters\nUse keywords relevant to the title\nUse unique Guarantees\nMake sure to add this message in the bottom of the description { here you'll find how to creat a catchy gig image: https://bit.ly/how-create-GIG-IMAGE }\n[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fiverr gig description"
+}

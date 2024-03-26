@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "LinkedIn Career/Education History cleaner v1.25",
+    "promptPrefix": "Firstly, Write in [TARGETLANGUAGE]. only reply to me in a markup box. I\u2019d like you to write only in this format: Job title - company name - year from - year to\n\nIf it is education history, please use this format: Degree - University or establishment - year from - year to\n\nTo get the Job titles, company names and years worked, I will paste in some data. Please do your best to clean the data, and only include the data I asked for in the format above. Do not include any bullet points or \u201c-\u201c when you start a new line for a new job role. The data is: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "LinkedIn Career/Education History cleaner v1.25"
+}

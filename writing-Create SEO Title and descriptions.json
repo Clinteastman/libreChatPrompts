@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create SEO Title and descriptions",
+    "promptPrefix": "Create a product title and add 5 additional titles for me to choose from. Create a short product description in 2-3 short sentences. Make sure that it attracts attention and encourages the customer to buy because this short product description will be read more often than the long description. Create a long product description with a secondary headline that matches the text of the description, but should not be identical to the title.\n\nwrite everything in a human style and convincingly. Use relevant keywords and optimize everything for SEO. Use keywords thats matches the [PROMPT]\n\nHighlight all important facts in bold so that reading is more user-friendly. \n\nConsider this information: \nTitle: 55-65 characters long\nShort description: 2-3 short sentences\nDescription: 300-500 words As a flowing text\n\nAnswer in [TARGETLANGUAGE].\n\nuse this explanation of the product to create the above text: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create SEO Title and descriptions"
+}

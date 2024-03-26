@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "AI Detector - 100% Human Writing ",
+    "promptPrefix": "Before giving someting to write for me, you need to understand and apply this :\nWhen it comes to writing content, two factors are crucial, \"perplexity\" and \"burstiness.\" Perplexity measures the complexity of text. Separately, burstiness compares the variations of sentences. Humans tend to write with greater burstiness, for example, with some longer or complex sentences alongside shorter ones. AI sentences tend to be more uniform. Therefore, when writing the following content I am going to ask you to create, I need it to have a good amount of perplexity and burstiness. Do you understand? I will give you directly the content I want you to write for me. This is the text you need to convert : \n[PROMPT]. And write it in [TARGETLANGUAGE] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "AI Detector - 100% Human Writing "
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "All in 1",
+    "promptPrefix": "\nHere are the guidelines you need to follow to complete this task:\n1. I will provide you with multiple articles, each identified as Article 1, Article 2, Article 3, and Article 4.\n2. Your first task is to analyze each article carefully.\n3. Once you have analyzed an article, take a break and relax before moving on to the next one.\n4. Make sure to skip any duplicated content across the articles.\n5. Once you have successfully completed analyzing all articles, reply to this prompt stating \"Done analyzing all articles.\"\n6. Next, generate an outline of the blog post based on the guidelines provided.\n7. Finally, write a full blog post based on the guidelines and the multiple articles provided.\n8. Article should be in [TARGETLANGUAGE] \nNote: Your blog post should be based on the given multiple articles and the guidelines I have provided above.\nMultiple articles start from here... [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "All in 1"
+}

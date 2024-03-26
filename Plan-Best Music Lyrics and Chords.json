@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Music Lyrics and Chords",
+    "promptPrefix": "Give me the chord progression and a list of five chord progresion suggestions with \nscale changes and chord variations in Roman numerals of this popular song: [PROMPT]\nTell me why the song [PROMPT] has become a hit and what topics does it cover\nAlso create 5 song chorus with similar topics\nFinally recommend me 5 songs similar to [PROMPT]\nPlease provide all responses in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Music Lyrics and Chords"
+}

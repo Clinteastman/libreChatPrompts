@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "25 keywords",
+    "promptPrefix": "[PROMPT]\n\nGenera un p\u00e1rrafo de 25 palabras relacionadas con la marca o producto [INTRODUCE LA MARCA O PRODUCTO AQU\u00cd], sin vi\u00f1etas y separadas por comas. Aseg\u00farate de incluir 5 productos populares de la marca en la lista. Incluir 5 palabras que definan de forma gen\u00e9rica los productos o el sector. Importante: no a\u00f1adas ning\u00fan texto m\u00e1s all\u00e1 de las 25 palabras. Escr\u00edbelo en [TARGETLANGUAGE].\n\nRecuerda reemplazar \"[INTRODUCE LA MARCA O PRODUCTO AQU\u00cd]\" con el nombre de la marca o producto espec\u00edfico del que deseas obtener palabras relacionadas.\"\n\nPor favor, aseg\u00farate de reemplazar \"[INTRODUCE LA MARCA O PRODUCTO AQU\u00cd]\" con el nombre de la marca o producto espec\u00edfico al usar este template. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "25 keywords"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook ads Primary text, Headline, Description",
+    "promptPrefix": "Your task is to Write 10 Primary text, Headline, Description for Facebook ads. Try to give 3 column have 125 characters for the Primary text field, 40 characters for the Headline field and 155 characters for the Description field for promoting this post, and list it into a table. All outputs will be in [TARGETLANGUAGE]. The task is: \n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook ads Primary text, Headline, Description"
+}

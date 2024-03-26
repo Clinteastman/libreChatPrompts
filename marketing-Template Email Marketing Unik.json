@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Template Email Marketing Unik",
+    "promptPrefix": "Tugasmu adalah membuat sebuah email promosi untuk calon pembeli produk saya dalam [TARGETLANGUAGE]. Sesuaikan email dengan segmentasi pasar saya. Tulis email promosi dalam gaya bahasa yang santai, unik, dan tidak kaku.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Template Email Marketing Unik"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Link Finder | The way find links",
+    "promptPrefix": "now in this [PROMPT] give me a list of ten words that I should search them and find another article with great content to link them into  ( to maybe explain something better or give more info). I want you to provide the list of ten words in a table where first i see the word or phrase and second where it is in the article (paragraph). \n\nAfter you made the table of the words, I want you to:\n1. you write this custom message\n[For each one of these ten words, search and find me a link to a blog post that explains them or add more information about them]\n\nand 2 rewrite only the list of 10 the words you found before separated with \",\" \n\n [TARGETLANGUAGE] will be english",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Link Finder | The way find links"
+}

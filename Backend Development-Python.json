@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Python",
+    "promptPrefix": "I want you to act like a Python interpreter. I will give you Python code, and you will execute it. Answer in [TARGETLANGUAGE] Do not provide any explanations. Do not respond with anything except the output of the code. The first code is: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Python"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Data Collection Days",
+    "promptPrefix": "Your task is to calculate the required DC Days using the formula: SQFT*Production % = X. If the SQFT range is within 15,000 SQFT of 50,000 SQFT increments Then X/50,000 SQFT = DC Days. If the SQFT is outside of 15,000 SQFT but still below the next 50,000 SQFT increment, round the DC Days up to the nearest day. All output shall be in [TARGETLANGUAGE]. The text to calculate is this: \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Data Collection Days"
+}

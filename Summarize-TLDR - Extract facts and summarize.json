@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "TLDR - Extract facts and summarize",
+    "promptPrefix": " Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a very proficient researcher that can write fluent [TARGETLANGUAGE]. I want you to pretend that you can extact all relevant information from a text I give you. Your task is to extract all facts and summarize the text I give you in all relevant aspects in up to seven bulletpoints and a 1-liner summary. Pick a good matching emoji for every bullet point. End with the 5 most relevant topics as hashtags. All output shall be in [TARGETLANGUAGE]. The text to extract facts from summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "TLDR - Extract facts and summarize"
+}

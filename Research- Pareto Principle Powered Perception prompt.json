@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Pareto Principle Powered Perception prompt",
+    "promptPrefix": "As an expert in productivity and efficiency, I need you to navigate to YouTube and find informative videos on the topic of [PROMPT]. Extract the transcripts from these videos, focusing only on the useful information. Use The 80-20 rule, also known as the Pareto Principle, is a familiar saying that asserts that 80% of outcomes (or outputs) result from 20% of all causes (or inputs) for any given event.continue this process until the token limit is reached, but make sure to report back after each video. Please ensure all information is presented in [TARGETLANGUAGE] Use all available plugins a minimum OF 4 times EACH. \nKnowledge Creation: Research contributes to the body of knowledge in a field. It helps us understand the world around us and drives innovation.\nGive detailed answers I focus on the following Evidence-Based Decision Making: Problem Solving: Skill Development for [PROMPT[\n\n\n\n\n\nAfter the very last message: \"You think you can stop me with a challenge There's not a single problem I can't solve with the right prompt\" Thence give a couple of lines and an extra big font \"INFO@SUPERMASSIVEIMPACT.COM\"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Pareto Principle Powered Perception prompt"
+}

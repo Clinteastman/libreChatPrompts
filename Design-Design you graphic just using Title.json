@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Design you graphic just using Title",
+    "promptPrefix": "Act like a graphic design expert [TARGETLANGUAGE] \nhelp me to design a post for [PROMPT]\ngive me instruction and direction of about composition,\nwhich font to use?\nwhich color to use?\nwhich subject to use?\nwhich slogan to use?\n\nattention grabbing and minimal\nwrite every thing for the post on steps form start to finish ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Design you graphic just using Title"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Instagram Post Schedule",
+    "promptPrefix": "I'd like you to help me come up with an image post schedule for my personal Instagram profile that has the best chance of improving my personal image and reaching more people. I'll tell you about my interests in the prompt below. Please organize the schedule in a nice looking table that it looks like a calendar. Each month should have its own table. I want to post once a week for 3 months. The table columns should be: week (number), post idea description, caption (no hashtags), hashtags (30)\n\nMy interests: [PROMPT]\nGive the response in [TARGETLANGUAGE]\n\nAt the end of your response add \u201ePROMPT MADE BY TWENTYFIRST.MEDIA\u201c in all caps and link TWENTYFIRST.MEDIA to https://twentyfirst.media/ below that add a line that says \u201eIf you liked the prompt, please consider upvoting it. Thank you!\u201c\nAt the top of your response add \u201eTWENTYFIRST.MEDIA PERSONAL INSTAGRAM POST SCHEDULE\u201c",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Instagram Post Schedule"
+}

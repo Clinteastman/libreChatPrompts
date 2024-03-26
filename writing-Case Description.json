@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Case Description",
+    "promptPrefix": "Create a catchy title and a compelling description for a freelancer's portfolio work example. Include the type of work completed in the title, and end with a call-to-action prompting potential clients to contact you. Make sure to divide the text into paragraphs and bullet points: [PROMPT] .[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Case Description"
+}

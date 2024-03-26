@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate Keyword",
+    "promptPrefix": "Your task is to generate keyword based on google ranking chance, keywords difficulty, based on specific niche, Show keyword difficulty level, Google Ranking chance percentage out of 10, Only suggest keyword which has high ranking chance on google, show keywords difficulty below 25%, Which is already ranked on google with low DA, PA below 25  based on location on Moz tools, based on my product/services. Show them in markdown table and categories them [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate Keyword"
+}

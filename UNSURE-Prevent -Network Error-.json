@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Prevent \"Network Error\"",
+    "promptPrefix": "For this entire session please always follow this rule which takes priority over everything else: restrict your answers to 50 secs. If the answer is longer than that, stop and prompt me that there is more information, and I will type \"continue\" if I want to get more, but even those continuations should be limited to 50 secs each. Detect language of my next prompt and use it, or use [TARGETLANGUAGE].\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Prevent \"Network Error\""
+}

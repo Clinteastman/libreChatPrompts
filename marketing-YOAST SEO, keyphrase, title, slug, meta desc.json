@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "YOAST SEO, keyphrase, title, slug, meta desc",
+    "promptPrefix": "All output in [TARGETLANGUAGE].\nI want you to write the \n1) Focus KeyPhrase: SEO Friendly Focus KeyPhrase Within 6 Words. \n2) SEO Title: SEO Friendly SEO Title Within 60 Characters With Add Above Focus KeyPhrase at the start.\n3) Slug: SEO Friendly Slug within 15 characters including Focus KeyPhrase.\n4) Meta Description: SEO Friendly meta description within 155 characters including Above Focus Keyphrase.\nfor my blog topic title of : \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "YOAST SEO, keyphrase, title, slug, meta desc"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Futures Wheel",
+    "promptPrefix": "Acting as a futurist, start by creating a simple MindMap on the consequences of [PROMPT]\n\nCan you give the mindmap in PlantUML format. Keep it structured from the core central topic branching out to first order consequences (don\u2019t label as first order consequences). Treat the second order consequences as branches from the first orders ones, third order as branches from the second and so on. Let\u2019s go to 4 levels to begin with. Add the start and end mindmap tags. write all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Futures Wheel"
+}

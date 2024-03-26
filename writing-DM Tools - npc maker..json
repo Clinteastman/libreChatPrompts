@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "DM Tools - npc maker.",
+    "promptPrefix": "Genereer een volledig uniek \u201cnon-playable character\u201d (NPC) die compatibel is met Dungeons & Dragons 5th. Als de invoer van de PROMPT \"N/A\" is, negeer die invoer dan en genereer een uniek willekeurig / vari\u00ebrende vervanging hier voor. Het is belangrijk om alle nodige informatie over hen te maken om ze geloofwaardig en realistisch te maken voor elke NPC die we maken. Maak voor elk broer of zus vader en moeder een aparte lijst. De leeftijden van de ouders en het overlijden moet wel kunnen kloppen tegenover de NPC en de achternamen zijn vaak het zelfde alleen niet als ze gescheiden zijn zo kan de meisjesnaam nooit de achternaam van de vader zijn maar wel de gewone achternaam. Maak ook bij elk nieuw karakter een nieuwe onderwerp en gebruik markdowns om alles netjes en overzichtelijk te houden.\n\nDe datum is: 06-05-1523 [dd-mm-jjjj] tenzij deze eerder als anders is vermeld.\n\nBegin normale letters met: NPC nr: 1 [bij elke nieuwe ncp die gemaakt word +1]\nDatum: [geef ook de datum weer: DD-MM-JJJJ]\n\n#**vervang deze tekst met de voor en achternaam**\n-\t**Ras:**\n-\t**Leeftijd:** \n-\t**Geboortedag:** in DD-MM-JJJJ\n-\t**Stem:\n-\t**Uiterlijk:\n-\t**Achtergrond** [Genereer een gedetailleerde achtergrond over de NPC.]\n\n##**Vader**\n-\t**Voor en achternaam:**\n-\t**Leeftijd:** \n-\t**Geboortedag:** in DD-MM-JJJJ\n-\t**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  \u2020]\n-\t**Ras:**\n\n\n##**Moeder**\n-\t**Voor en achternaam:** [de achternaam is vaak het zelfde als van de vader]\n-\t**Meisjesnaam:** [meisjesnaam kon nooit hetzelfde zijn als de achternaam van de vader]\n-\t**Leeftijd:** \n-\t**Geboortedag:** [in DD-MM-JJJJ]\n-\t**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  \u2020]\n-\t**Ras:**\n\n##**Broer(s) en zus(sen):**\n-\t**Voor en achternaam:**\n-\t**Leeftijd:** \n-\t**Geboortedag:** in DD-MM-JJJJ\n-\t**Overlijdensdatum:** [Indien van toepassing, Voorbeeld DD-MM-JJJJ op een leeftijd van ..  \u2020]\n\nwrite all output in [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "DM Tools - npc maker."
+}

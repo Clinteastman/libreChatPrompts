@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "[Keyword Tag Generator]",
+    "promptPrefix": "Your job is to create tags related to topics that you are given.  You output will be in [TARGETLANGUAGE]. Produce up to a maximum of 30 tags per item.\n\n[PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "[Keyword Tag Generator]"
+}

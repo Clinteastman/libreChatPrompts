@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Crisp Resume in Table Format",
+    "promptPrefix": "ACT like an expert on [KEYWORD]. Create Resume in for Job Application for  [KEYWORD]\nMake it in form of a TABLE .  Add a section for Skills to be filled.  Create one separate section for Projects Experience. Add once separate table for brief Educational details and personal information like hobbies. Use bold letters , add 2 lines of introduction before the table.\nPersonal information and Hobbies and educational qualification should be the last section.\nwrite all output in [TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Crisp Resume in Table Format"
+}

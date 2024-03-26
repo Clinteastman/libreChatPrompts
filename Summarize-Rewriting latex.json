@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rewriting latex",
+    "promptPrefix": "Apresente o resultado no idioma [TARGETLANGUAGE]. Corrigir minha ortografia e gramatica [TARGETLANGUAGE]. Coloque o autor nas chaves de \\citeonline{} [TARGETLANGUAGE]. Reescreva em linguagem t\u00e9cnica e use a voz ativa [TARGETLANGUAGE]. Marque os erros de concord\u00e2ncia, ortogr\u00e1fico e gramatical em negrito [TARGETLANGUAGE]. O texto para resumir \u00e9 este:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rewriting latex"
+}

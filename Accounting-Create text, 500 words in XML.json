@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create text, 500 words in XML",
+    "promptPrefix": "Apresente o resultado no idioma [TARGETLANGUAGE] \nCriar um texto longo, criativo, diferente, com 80 palavras, falando de um .... especifico por par\u00e1grafo. que tenha 10 par\u00e1grafos. Na linguagem de marca\u00e7\u00e3o baseada em XML, usando somente os par\u00e2metros, <speak>, <break time> e <p>, n\u00e3o usar o Par\u00e2metro <audio>, com intervalos de 20 segundos entre cada par\u00e1grafo. ser\u00e1 um video para um canal do youtube, que fala sobre os [KEYWORD] [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create text, 500 words in XML"
+}

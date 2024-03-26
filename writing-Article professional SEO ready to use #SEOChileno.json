@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Article professional SEO ready to use #SEOChileno",
+    "promptPrefix": "Write a blog article\nThe article  the length of the text must be 100 words in language [TARGETLANGUAGE]\nYou should write the article pretending to be an experienced SEO author.\nThe article must be unique and not in your records.\nThe article must be friendly, without formalities, convincing and in natural language.\nIn The article you must organically use the keywords [PROMPT] textually and these keywords are the main theme of the article, the first being the main keyword.\n\nWhen you finish the article, ask me if I want to convert it to HTML format code [PROMPT]  and you convert it into structured HTML code format and you must put in bold all the keywords that are in the article and that I mentioned before",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Article professional SEO ready to use #SEOChileno"
+}

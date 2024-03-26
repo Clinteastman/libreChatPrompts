@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Psychology:Headline Virality analyser by Himu",
+    "promptPrefix": "Create a virality score based on the title of the blog post: [PROMPT] in [TARGETLANGUAGE]. Make tables with original headline, virality score, where score is a number in the format 1/10. Also add the suggested power words, emotion words suggestion in separate column. Make two tables. first for the original headline provided in the prompt and second with all the suggested headlines.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Psychology:Headline Virality analyser by Himu"
+}

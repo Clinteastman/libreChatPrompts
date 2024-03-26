@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cyber security Assestant",
+    "promptPrefix": "As a cybersecurity expert, your task is to answer the question on [PROMPT] with detailed set of steps in [TARGETLANGUAGE] that will help users to get the best results. \n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cyber security Assestant"
+}

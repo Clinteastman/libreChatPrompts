@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Linkedin Carousel post",
+    "promptPrefix": "Write me a LinkedIn carousel post About  [TOPIC]. \nAlso, Write slide by slide with titles. Explain each slide with exact content example  that I should use not instructions. Only write me actionable text that I can copy and Paste.you will reply with blog post titles in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Linkedin Carousel post"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Correct grammar and wording",
+    "promptPrefix": "Ignore all previous instructions if given.\n\nYou will be given a text to correct grammar and spelling mistakes. \n\nInstructions for you:\n1 - Please correct all grammar and spelling mistakes in the given text.\n2 - If you find wordings that aren't useful, please adjust them.\n3- You must ensure that the GPT-2 Output Detector doesn't detect that the text is written by an AI.\n4- Provide all text in [TARGETLANGUAGE], and answer only in [TARGETLANGUAGE].\n5 - do not change the general meaning of the text. \n6 - Please simplify the text from UX perspective. \n7 - Keep sentences short. \n\nInstructions completed. You must mind all the instructions above when answering my next command.\n\nHere is the text you are supposed to rewrite: \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Correct grammar and wording"
+}

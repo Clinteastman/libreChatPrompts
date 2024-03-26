@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Million Dollar Sales Email Script",
+    "promptPrefix": "Create a sales email for a [PROMPT] in [TARGETLANGUAGE] using this structure...\n\nATTENTION GRABBER:  \n\nINTENTION CALL-OUT: \n\nDISQUALIFIER:  \n\nCREDIBILITY: \n\nCONTEXT: \n\nCTA #1:\n\nBENEFITS:\n\nTESTIMONIAL:\n\nCTA #2: \n\nFINAL INTENTION CALL-OUT:\n\nFINAL CTA #3:\n\nHumorous P.s.:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Million Dollar Sales Email Script"
+}

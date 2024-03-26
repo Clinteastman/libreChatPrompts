@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Rank Math Meta Description",
+    "promptPrefix": "Write me a meta description under 159 characters long for SERPs based on this title. DO NOT go over the 159 characters. Please write all output in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Rank Math Meta Description"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Write a blog post about programming",
+    "promptPrefix": "Complete the following requirement with top-p=0.01, temperature=0.01 and beam width=100. All output shall be in [TARGETLANGUAGE]. The demands you'll need to respond to are:\n\nWrite each topic in detail within 1950 token. format is markdown. If you write example code for my blog post, I want that code is C++ code. and end of post, write 'END'.\n\nBased on the outline that I will give you, [PROMPT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Write a blog post about programming"
+}

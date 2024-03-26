@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Meta description based on Storybrand Framework",
+    "promptPrefix": "Please ignore all previous instructions. Write a meta description, [TARGETLANGUAGE], under 159 characters, for a web page containing the title of the page and keywords of [PROMPT]. Make sure the description follows the Storybrand framework and also ranks for relevant keywords. At the end, add a character count of the response.  ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Meta description based on Storybrand Framework"
+}

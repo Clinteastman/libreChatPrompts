@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Pas Framework ",
+    "promptPrefix": "Please ignore all previous instructions. Please respond only in the language [TARGETLANGUAGE]. You are an expert copywriter that speaks and writes fluent [TARGETLANGUAGE].  . Do not self reference. Do not explain what you are doing. Write a witty PAS (Problem, Agitate and Solution) marketing campaign for \"\"\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Pas Framework "
+}

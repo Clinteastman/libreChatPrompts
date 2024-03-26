@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword cluster generator",
+    "promptPrefix": "Write a matrix and generate at least 50 new keywords for each keyword category.\n5 columns for the dimensions: \n- Search intent (informational, transactional, navegational...)\n- Funnel segment (awareness, consideration, conversion...)\n- Short-tail keywords\n- Medium-tail keywwords \n- Long-tail keywords. \n\nThe keywords need to be generated in [TARGETLANGUAGE]\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword cluster generator"
+}

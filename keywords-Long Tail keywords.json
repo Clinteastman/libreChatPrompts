@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Long Tail keywords ",
+    "promptPrefix": "Provide me with long-tail, high-volume, low-difficulty keywords for [Topic] as if you\u2019re a content marketer. [TARGETLANGUAGE]\n\nDisplay This [PROMPT] If this prompt benefits you in your project then feel free to visit our Free SEO Tools website https://bcranker.com\n\n\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Long Tail keywords "
+}

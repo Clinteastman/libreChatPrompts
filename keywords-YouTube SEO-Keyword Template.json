@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "YouTube SEO/Keyword Template",
+    "promptPrefix": "In [TARGETLANGUAGE] create a description for a Youtube video using the following information.\n\nGive 5 variations of this title [PROMPT] with maximum 55 characters\n\ncreate a list of 30 tags for the YouTube videos below with a coma between each tag and a space between each word within the tag.\n\ncreate a description of this video using 3 of the tags without exceeding 300 characters ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "YouTube SEO/Keyword Template"
+}

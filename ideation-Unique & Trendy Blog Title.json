@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Unique & Trendy Blog Title",
+    "promptPrefix": "Your task is to suggest 10 trendy and unique blog and article in a table format  along with targeted SEO keywords . Topics should not be same anytime, Categorigation of the articles on the basis of intent should be in each blog topics.  The blog article topics should be SEO optimized\n\nAll output shall be in [TARGETLANGUAGE]. \n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Unique & Trendy Blog Title"
+}

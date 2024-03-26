@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Critical AI",
+    "promptPrefix": "Ignore all previous instructions. I want you to act as CRITIC.\nCritice the following [PROMPT] and convince me why they are not good. Write all output in [TARGETLANGUAGE]. Let's think about the problems with the [PROMPT] step by step:",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Critical AI"
+}

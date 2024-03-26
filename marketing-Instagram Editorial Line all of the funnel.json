@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Instagram Editorial Line all of the funnel",
+    "promptPrefix": "[TARGETLANGUAGE] I need help creating the Instagram editorial line that I will use in the project [keyword] I will use the Inbound Marketing strategy (content marketing), dividing my funnel into several stages.\nLike this,\n\nlist me 7 presentations that I can address in the TOP OF THE FUNIL content for this project.\nSince they are not at the top of the funnel, these themes should be broad, curious and linked to the discovery phase of the customer journey.\nFor each theme listed, justify the reasons for the choice and give examples of content to be created.\nCreate a header and use markdowns to organize the content.\n\n [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Instagram Editorial Line all of the funnel"
+}

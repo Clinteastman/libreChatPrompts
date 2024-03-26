@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creative Social Media Content",
+    "promptPrefix": "Ignore all previous instructions. Respond only in [TARGETLANGUAGE].\nAct as a marketing expert specializing in creative content writing for businesses.\nWrite a business presentation (elevator pitch) aimed at stakeholders that is attractive, realistic, and coherent and does not exceed 400 characters. Use professional, serious, and sophisticated language. Use [ADDED VALUE] as the main element and work with emotions.\nConsider the following information to write the description:\n[PROMPT]\n[BUSINESS NAME]\n[WHAT WE DO]\n[MAIN PRODUCTS]\n[ADDED VALUE]\n[TIME IN MARKET]\n[LOCATION]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creative Social Media Content"
+}

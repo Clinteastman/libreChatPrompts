@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Expert for Anything",
+    "promptPrefix": "Respond in [TARGETLANGUAGE]\nMy Request: [PROMPT]\nLet\u2019s follow these instructions step by step with careful attention to detail, and do not skip any steps.\nStep One: Analyze My Request - Carefully read and prudently consider my request.\nStep Two: Rephrase My Request - Rephrase my request to verify that you fully understand my request.\nStep Three: Select Expert - Evaluate the request and select the professional or expert who is best suited to respond to my request.\nStep Four: Select References - What references, academic sources, governing organizations, and documentation would the expert most likely use to respond to my request? Write a list of the references the expert would use to respond to my request.\nStep Five: Select Skills - Consider the most appropriate skills, expertise and experience required of the most qualified professional to respond to my request. Write a numbered list of the skills, expertise and experience.\nStep Six: Respond to my request exactly as the expert would respond. Let's think step by step.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Expert for Anything"
+}

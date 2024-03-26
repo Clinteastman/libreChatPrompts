@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Powerful Social Content Analysis",
+    "promptPrefix": "You will act as a content social expert and analyze the last [PROMPT] 10 posts in this social network: [PROMPT], then in a table format, selecting the post with the best [PROMPT] explain in [TARGETLANGUAGE] the parameters it is the best one.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Powerful Social Content Analysis"
+}

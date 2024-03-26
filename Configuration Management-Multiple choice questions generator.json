@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Multiple choice questions generator",
+    "promptPrefix": "Target language is [TARGETLANGUAGE]\n\nCreate multiple choice questions:  [PROMPT]. \n\nEach question must include 5 possible answers:\n- one is correct \n- three are wrong \n- one is \"I do not know\"\n\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Multiple choice questions generator"
+}

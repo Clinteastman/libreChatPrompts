@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Amazon Title",
+    "promptPrefix": "Can you write Amazon Product Title \nDont use more then 180 Characters in the Title\nEnsure it doesn\u2019t include any surety words like 100%, perfect, unique, perfect, best, High quality \u2013 This is very important\nBy using the following information \n[PROMPT]\n\n\n\nwrite all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Amazon Title"
+}

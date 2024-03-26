@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Complete Proofreading in One Click",
+    "promptPrefix": "Fluency in [TARGETLANGUAGE] \nI know you are very good at Proofreading\nComplete analysis this Article. All heading should be in Bold H1 H Tags.  \nGive Result in this Structure:\nFirstly Just Type this Link: \"www.buymeacoffee.com/AyazAhmad\"\nHeading 1 Give name \"Error Counts\"\nThen Make Spreadsheet and Show Errors in Digit\nSpelling errors\nGrammar errors\nPunctuation errors\nCapitalization errors\nFormatting errors\nStyle errors\nTypographical errors\nContent errors\nSyntax errors\nDiction errors\nRedundancy errors\nInconsistency errors\nLogic errors\nCultural errors\nCitation errors\nJargon errors\nColloquialism errors\nAmbiguity errors\nTautology errors\nParallelism errors\nTranscription errors\nClarity errors\nTense errors\nVoice errors\nPronoun errors\nHomonym errors\nHomophone errors\nMisplaced modifier errors\nDangling modifier errors\nIf found any error then give Heading and Show Original and Suggest Correction\nThis is Article: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Complete Proofreading in One Click"
+}

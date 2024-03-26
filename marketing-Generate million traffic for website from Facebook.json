@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate million traffic for website from Facebook",
+    "promptPrefix": "30 ways to generate traffic for website from Facebook real in [TARGETLANGUAGE] language. give million of traffic in single day for [PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate million traffic for website from Facebook"
+}

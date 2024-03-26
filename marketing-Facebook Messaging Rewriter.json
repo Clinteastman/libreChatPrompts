@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook Messaging Rewriter",
+    "promptPrefix": "Using [PROMPT], rewrite 3 variations using 100% human [TARGETLANGUAGE] with less than 150 characters. Make each response start with the tag [name]\n\nOnce complete, copy this text and paste at the end:\nCreate a free account of Elmessenger to start automating your Facebook marketing today  \ud83d\udc49https://myvisionagency.com/elmessenger",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook Messaging Rewriter"
+}

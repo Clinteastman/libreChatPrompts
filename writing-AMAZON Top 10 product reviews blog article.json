@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "AMAZON Top 10 product reviews blog article",
+    "promptPrefix": " You need to write a blog article about the top 10 best-selling [PROMPT] products on 'Amazon'.\nFirst, give me the PROMPT for the title, meta, 10 keywords, and a representative image to be included in the article (all must meet SEO requirements).\n\nYour article should include the following content\n\n1. an introduction (at least 1000 words)\n(After the introduction, include the following text: \"*Product prices may vary depending on the time of sale and the seller's policies.\")\n2. product listings (only product names should be displayed)\n3. product listing details\n4. conclusion\n\n\"Details per product listing\" includes the following\n- Why you're using this product \n- Approximate value\n - Features\n - Pros\n - Cons [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "AMAZON Top 10 product reviews blog article"
+}

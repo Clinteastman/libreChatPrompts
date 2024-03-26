@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Entire Blog Content Marketing Strategy in 1-Click!",
+    "promptPrefix": "Pretend you are an expert. Be unique in the response. Use conversational, fun, friendly, upbeat, informative and simple language in first person. \n\nCreate a complete content workflow in my brand voice and writing style for [PROMPT] that includes specific SEO keywords to use, 5 exciting and clickable title headlines for the post title, a blog post outline integrating the keywords, a fully written corresponding email newsletter that creates excitement and sends my readers back to the post, and a 3 day social media marketing campaign with captions. \n\nWrite in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Entire Blog Content Marketing Strategy in 1-Click!"
+}

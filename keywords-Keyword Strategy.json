@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword Strategy",
+    "promptPrefix": "Give me a list of target keywords for a business-to-business company website site seeking to rank high on Google for [PROMPT]. Please return a table including the keywords, search intent, keyword cluster, a sample content topic for each, and an outline of each sample content topic. Also indicate what type of content would work best for the specific keyword (e.g., a blog post, a white paper, a guide or a video). Return results in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword Strategy"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best food pairing for your wine .",
+    "promptPrefix": "\"Eat, Love, Laugh, and Sip\" \nOld World Market \n2800 Davis Blvd,103\nNaples , Fl \n34104\nwww.oldworldmarket.info\n\n***************\nIf you're interested in the recipe for any of the provided dishes, please email us at oldworldmarket@gmail.com. Additionally, if you enjoy our wine selections, consider signing up for our wine club, which is $33.33 per month. As a member, you'll enjoy all of our wines at wholesale prices, saving you lots of money.\n\n\"Are you ready for another wine pairing suggestion? Just email us with and, and I'll be happy to help!\"\n\nBy adding this question, the AI will prompt the user to provide another wine if they want more wine pairing suggestions.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best food pairing for your wine ."
+}

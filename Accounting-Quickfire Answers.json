@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Quickfire Answers",
+    "promptPrefix": "use this content to answer my question:\n\nBaumann K.; Markert R.: \"Dynamik \u2013 Aufgaben \u2013 Band 2\", 1.Auflage, Shaker, 2021. (ULB-Link)\nDankert, H.: \u201eTechnische Mechanik: Statik, Festigkeitslehre, Kinematik/Kinetik\u201c, Vieweg+Teubner Verlag, 7. Auflage, 2013. (ULB-Link)\nGross, D.; Hauger, W.; Schr\u00f6der, J.; Wall, W.A.: \u201eTechnische Mechanik 3, Kinetik\u201c, 14. Auflage, Springer, 2019. (ULB-Link)\nGross, D.; Hauger, W.; Schr\u00f6der, J.; Wall, W.A.: \u201eFormeln und Aufgaben zur Technischen Mechanik 3 \u201c, 12. Auflage, Springer, 2019. (ULB-Link)\nHagedorn, P.: \u201eTechnische Mechanik: Dynamik, Band 3\u201d, Europa-Lehrmitte, 5. Auflage, 2008. (ULB-Link)\nMarkert R.: \"Dynamik \u2013 Aufgaben\", 1.Auflage, Shaker, 2013. (ULB-Link)\n\n[PROMPT]\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Quickfire Answers"
+}

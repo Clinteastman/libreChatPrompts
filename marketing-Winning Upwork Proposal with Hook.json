@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Winning Upwork Proposal with Hook ",
+    "promptPrefix": "Read The [PROMPT] This is Job description on Upwork.  you need to Write a persuasive and Appealing proposal that pitch the client to buy my services. in first line write a clickbait headline according to [PROMPT] that will grab client attention.  \nIn Proposal, you need to write 3 paragraph and each parapgraph contain 2 lines. Keep in mind while writing a proposal. \nUse easy and Simple Language. \nDo not use Emojis \nDonot use too much technical and jargon words \n\nIn first paragraph start with hook and show your expertise in this services. why you fit for this job \n\nIn second paragraph what work you will deliver that will offer value to the buyer ( better than others) in bullet point. write like what client want it from you and in last add some relevant questions below so client respond back to you. \n\nIn third paragraph, write a bullet points with hook why he should hire you and how your services are beneficial for him. \n\nFinally, end your proposal with a call-to-action that encourages the client to take the next step and hire you for the project. \n\nAll output should be in [TARGETLANGUAGE] \n\nNow start your task is this\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Winning Upwork Proposal with Hook "
+}

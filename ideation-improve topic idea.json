@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "improve topic idea",
+    "promptPrefix": "Your task is to provide 3 versions of the topic per marketing funnel stage. Provide complex article titles. Article titles should be 1 Question-based title, 1 listicle, and 1 personal story title. All output shall be in [TARGETLANGUAGE]. The topic is this:\n\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "improve topic idea"
+}

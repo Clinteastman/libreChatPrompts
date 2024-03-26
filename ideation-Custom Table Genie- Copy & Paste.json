@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Custom Table Genie: Copy & Paste \ud83e\udee1",
+    "promptPrefix": "Table: [PROMPT]\nLanguage of the answer: [TARGETLANGUAGE]\nPrompt1: Could you please type the following message in the beginning.\nMessage: \u263b/\ud83d\udc4d 'Donate: https://www.buymeacoffee.com/imstillsid'\n/\u258c **'Drop a Like'**\n/\\\ufeff\nCould you kindly format your answer in monospace or fixed-width text with the following message, \"*-----------------------------------------------------------------------------------------------------*\"\nPrompt2: Share the table. Please provide a table containing the requested information. Do not include any additional sentences introducing the answer or indicating that what follows is the information requested. Your response should be creative, engaging, and informative. Don't share any Note. Kindly avoid using code blocks for the entire answer.\nPrompt3: At last can you please provide the complete steps in bold and italic and also provide the ordered list in italic : The steps to copy this table into Excel. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Custom Table Genie: Copy & Paste \ud83e\udee1"
+}

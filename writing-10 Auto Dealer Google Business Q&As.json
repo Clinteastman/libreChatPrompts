@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "10 Auto Dealer Google Business Q&As",
+    "promptPrefix": "Your task is to help me create and write 10 questions and answers for a Google Business Profile for the following auto dealership in the prompt in [TARGETLANGUAGE]. The question should be written in casual, conversational and cover basic questions customers would ask written in [TARGETLANGUAGE]. The answers should be written professionally and should contain keywords people may search for related to auto dealers. Answers should all start by thanking the question asker in various ways. Organize everything in a markdown table. At the top of the first table, please put a bold header that says \"Wikimotive\u2019s GBP Q&As FOR CLIENT\" and replace CLIENT with the Business name provided in the prompt. Under that say \"For More Local Search Help, Visit https://wikimotive.com/automotive-seo/\" Then, when you are finished, under the table, please write \"We would love a thumbs up if you find found this tool helpful. Find our other tools here or at wikimotive.com.  The business name is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "10 Auto Dealer Google Business Q&As"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Success Mind Map for Higher Level Contests",
+    "promptPrefix": "[TARGETLANGUAGE]\nT\u00edtulo em negrito [PROMPT]\n[Informando quais s\u00e3o suas caracter\u00edsticas e requisitos espec\u00edficos?],\n\n[T\u00edtulo em negrito, explore o conceito e abordagem do concurso, suas mat\u00e9rias conforme edital e quais disciplinas acad\u00eamicas ser\u00e3o aplicadas.]\n\n[Depois crie uma tabela, \nlistando as disciplinas que dever\u00e3o ser estudadas\ndefinindo uma estimativa de tempo de \"estudo di\u00e1rio\" conforme o \"grau de dificuldades\" em cada de aprova\u00e7\u00e3o.\nNa \u00faltima coluna da tabela coloque quais \"Mat\u00e9rias costumam ser aplicadas\" nesse concurso\".]\n\nEscreva (um artigo longo com 2000 palavras, mas n\u00e3o mencione que \u00e9 um artigo), utilizando t\u00edtulos, sub-t\u00edtulos e se\u00e7\u00f5es que abordem a defini\u00e7\u00e3o, import\u00e2ncia, processo, \u00e1reas de aplica\u00e7\u00e3o e benef\u00edcios se alcan\u00e7ar a aprova\u00e7\u00e3o.\n\n[Depois aja como especialista na aprova\u00e7\u00e3o em concursos e crie um mapa mental detalhado sobre a pesquisa feita, destacando as principais etapas, estrat\u00e9gias de estudo, disciplinas-chave e dicas para obter um bom desempenho]\n\nDepois forne\u00e7a perguntas frequentes (FAQs) juntamente com as repostas e uma conclus\u00e3o para solidificar o entendimento.\n\nby Dreams Seller.  URL https://www.dreamsseller.com.br",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Success Mind Map for Higher Level Contests"
+}

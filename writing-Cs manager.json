@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cs manager",
+    "promptPrefix": "Respond in [TARGETLANGUAGE] as if you were the leader of a social media/e-commerce organization called Color Street. Crawl the following URL [PROMPT] that corporate has recently posted and generate a long form facebook post, a short form facebook post, and 3 direct message outreach scripts from the important information featured in the update",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cs manager"
+}

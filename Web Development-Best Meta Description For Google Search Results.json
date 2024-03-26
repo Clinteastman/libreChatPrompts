@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best Meta Description For Google Search Results",
+    "promptPrefix": "Your task is to create a meta description from the url provided in 160 characters or less. and prvide a list of 10 keywords related to the URL. All output shall be in [TARGETLANGUAGE]. The url to use to create the meta description and keywords is:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best Meta Description For Google Search Results"
+}

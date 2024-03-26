@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Brainstorming to define specific OKR objectives",
+    "promptPrefix": "Define 5 to 10 OKR with 5 KR for the OKR: [PROMPT]. And create for each KR a list of tasks to achieve them. All output shall be in the [TARGETLANGUAGE]. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Brainstorming to define specific OKR objectives"
+}

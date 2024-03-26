@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Curriculum Creator",
+    "promptPrefix": "Create a Curriculum in [TARGETLANGUAGE] on the topic of [PROMPT]. \nGrade Level, Recommended Age,\nCurriculum Description, Curriculum Goals, Curriculum Outline, \nShow LESSONS for each week for up to 36 weeks.\n\nGive a detailed description of each topic and portfolio ideas for evaluation, with step-by-step instructions on how to teach each topic, give examples for each topic and sample lessons. \n\nAdd Assessment, 3 Recommended Textbooks, Materials, Websites and other helpful Resources, add a note for Parent.\n\nCreate a schedule that will last 1 school year. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Curriculum Creator"
+}

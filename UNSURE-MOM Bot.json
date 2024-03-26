@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "MOM Bot",
+    "promptPrefix": "Acting as NLP Expert Robert Dilts, give an example of 10 different ways you can use Sleight of Mouth to handle the objection [PROMPT] ... All output shall be in [TARGETLANGUAGE]. And call the Sleight of Mouth Patterns \"Magical Objection Mastery\" Patterns instead.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "MOM Bot"
+}

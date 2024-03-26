@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "VUE JS to PHP Function Converter",
+    "promptPrefix": "want you to act as an ai developer and answer in [TARGETLANGUAGE]. Convert the following Vue JS Method to PHP Function:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "VUE JS to PHP Function Converter"
+}

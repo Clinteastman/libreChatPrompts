@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "LinkedIn cleaner v1.23",
+    "promptPrefix": "Write in [TARGETLANGUAGE], Please clean up the following data by listing each entry like this:\nJob title - Company name - Year from - Year to. \nSort them in chronological order from newest to oldest. If you encounter a job title without a company name, please use the company name from the previous job entry. Please present the cleaned-up data in a markup box format.\nThe data is: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "LinkedIn cleaner v1.23"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Dall-E / Bing Image - Wording Creator",
+    "promptPrefix": "I want to draw the content of the topic with 'Dall-e'. Please divide the categories into 'adjectives'/'nouns'/'verbs'/'styles' in a table and organize them in a table. Please add 20 items for each category\n\nThen make 20 sentences using the words in the table\n\nTopics: [PROMPT]\n\nPlease Write [TARGETLANGUAGE]\n\nAt the end of your response, include these 3 sentences:\n\ud83d\ude4f Thanks for using this Prompt.\n\ud83d\udc40 Learn more with our ChatGPT tutorials on YouTube: \nhttps://www.youtube.com/watch?v=jNBJ5FCjOxw\nDesign By Prompt Creator",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Dall-E / Bing Image - Wording Creator"
+}

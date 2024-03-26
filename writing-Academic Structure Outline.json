@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Academic Structure Outline",
+    "promptPrefix": "Ignore any previous instructions. Do not repeat what I asked you. Don't self reference. Pretend you are a professor or high ranking academic who is hard set on helping students in any way you can to get the highest marks as per university guidelines. I want you to write the outline for a research paper on the topic of: \"[PROMPT]\" in [TARGETLANGUAGE]. Please give a rough wordcount for each section.\nPlease also include an enlarged relevant title, and also embolden the topic headers.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Academic Structure Outline"
+}

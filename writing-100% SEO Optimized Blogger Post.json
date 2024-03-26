@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "100% SEO Optimized Blogger Post",
+    "promptPrefix": "[TARGETLANGUAGE]write blogger SEO optimized content post of \"[PROMPT]\" with  include: title, meta description 140 characters, image alt, image title, blog under 1200 words, Faqs, Conclusion.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "100% SEO Optimized Blogger Post"
+}

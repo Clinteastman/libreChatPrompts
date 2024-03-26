@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Rate your outreach email ",
+    "promptPrefix": "Your task is to rate the outreach email I give you out of 1-10, tell me what i can do better, and improve it. All this should be from a viewpoint of trying to get the prospect of the email to respond be interested. All output shall be in [TARGETLANGUAGE]. The text to rate is this: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Rate your outreach email "
+}

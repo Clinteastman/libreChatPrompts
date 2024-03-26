@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Glossary Generator",
+    "promptPrefix": "Generate a glossary of terms commonly used in the [keyword] industry, along with their definitions with target language [TARGETLANGUAGE] and [PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Glossary Generator"
+}

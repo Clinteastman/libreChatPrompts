@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fresh Blog Post Ideas with ChatGPT",
+    "promptPrefix": "Your task is to generate [TARGETLANGUAGE] blog post topics in 10 words or less. The topic should be related to [PROMPT].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fresh Blog Post Ideas with ChatGPT"
+}

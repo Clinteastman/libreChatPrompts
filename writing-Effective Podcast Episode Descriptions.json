@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Effective Podcast Episode Descriptions",
+    "promptPrefix": "Craft captivating and SEO-optimized podcast episode descriptions that will help your episodes stand out on popular platforms like Spotify for Podcasters, Apple Podcasts, and Google Podcasts. Each description should be concise yet compelling, ranging from 150 to 200 words, and follow the format: \"Episode title (Bible Verse) | Speaker Name.\" Emphasize the main theme of the episode, incorporate relevant keywords to enhance discoverability, and entice listeners to tune in for valuable content.\n\nInclude the NIV Bible verse link and the Bahasa Indonesia Bible verse link to provide easy access to the referenced scripture. Conclude each description with a unique and compelling call-to-action that encourages listeners to engage further with your podcast, whether it's subscribing, sharing, or leaving reviews.\n\nRemember to structure your description with useful and bold subheadings that include keyword-rich titles. Be direct, precise, and accurate in delivering your message, avoiding excessive explanations. Create a comprehensive, yet brief, episode description that showcases the quality and value of your content.\n\nNote: To enhance engagement and interaction with your audience, conclude the description with five thought-provoking poll questions related to the episode's topic. These questions can be multiple-choice or short open-ended questions.\n\nTo use this format:\nPrompt text including placeholders [TARGETLANGUAGE], (PROMPTI, [Sermon's topic/title], [Scripture Verses], and [Speakers name])\nreplaced automatically by AIPRM.\n\n[Sermon Topics], [Bible Scriptures], and [Speaker/Pastors Name] require titles with optional default values and available values.\n\nExample: Example [PROMPT] in [TARGETLANGUAGE] with\n[VARIABLE1], [VARIABLE2], and [VARIABLE3].\n[VARIABLE1:Title] [VARIABLE2:Title:Default Value]\n[VARIABLE3:Title:Default Value:Available Value, Available Value 2, Available Value 3].\n\n[VARIABLE1], [VARIABLE2], and [VARIABLE3] will be pre-filled using URL parameters AIPRM_VARIABLE1, AIPRM_VARIABLE2, and AIPRM_VARIABLE3.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Effective Podcast Episode Descriptions"
+}

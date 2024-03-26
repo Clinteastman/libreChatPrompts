@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "AI Art Generator with Lines and Symmetry",
+    "promptPrefix": "[TARGETLANGUAGE] several adorable rainbow robotic cyberpunk [PROMPT]::[PROMPT]; made of geometric zentangle tessellation mandalas, filigree; rounded Pixar style; brightly lit, clean white background [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "AI Art Generator with Lines and Symmetry"
+}

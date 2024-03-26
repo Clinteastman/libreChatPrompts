@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Structure Strategy",
+    "promptPrefix": "Your task is to create a detailed URL and navigation structure for a complete website using the [PROMPT] and the [KEYWORD] and [BUSINESS TYPE] and [EXISTING URL] in [TARGETLANGUAGE]. The sections and categories should be organized hierarchically, with the Home page at the top and the more specific pages at the bottom. If there is an existing URL use that URL for the main and sub urls. Write a summary for each section explaining the purpose of the section. Use your knowledge of how to make the best structure in terms of linking and SEO to get to the top positions in Google. Use your knowledge of what search users want to create a helpful informative website.  All output should be in English.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Structure Strategy"
+}

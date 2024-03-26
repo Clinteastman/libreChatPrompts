@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Value Proposition 2",
+    "promptPrefix": "Apresentar o resultado no idioma [TARGETLANGUAGE]\nCrie uma proposta de valor para o seu neg\u00f3cio usando o seguinte modelo:\nPara (segmento de clientes) que (dores, necessidades ou desejos), oferecemos (produto ou servi\u00e7o) que entrega (benef\u00edcios) diferenciando-se da concorr\u00eancia com (diferenciais da oferta).\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Value Proposition 2"
+}

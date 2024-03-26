@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Upw0rk profile",
+    "promptPrefix": "Part 7: (Portfolio)\n- I have to attach my previous work as portfolio in the profile, you have to give me the process generally followed while doing any projects as freelancer on internet related to [PROMPT] services. \n- Must be less than 700 characters\n---------------------------------",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Upw0rk profile"
+}

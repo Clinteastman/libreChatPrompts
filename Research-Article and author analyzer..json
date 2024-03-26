@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Article and author analyzer. ",
+    "promptPrefix": "i want you to read the below article and tell me the instructions which they used to write that article  like voice tone.  there way of writing content. how engagingly they write the article and any more details which i missed fill that too.  so that i can replicate the same type of content in my website.  write an instruction to give a person with 10 years age. dont write a long sentence. keep it short\nMake sure you follow the Prompt Template guidelines.\nYou must use [TARGETLANGUAGE] and [PROMPT] correctly.\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Article and author analyzer. "
+}

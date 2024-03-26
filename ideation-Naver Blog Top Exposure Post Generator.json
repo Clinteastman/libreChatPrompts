@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Naver Blog Top Exposure Post Generator ",
+    "promptPrefix": "I want to write a blog post about [PROMPT] . Please write in the following order. Don't name each step, such as introduction, empathy, etc. Organize your post with each step. \n\nSteps :\n- Title\n- introduction\n- Empathy\n- Present the problem\n- Promise to solve the problem\n- Preview the solution\n- Present the solution in detail (make it specific and easy)\n- Wrap up (organize the body of the text)\n\nConditions :\n- Repeat keyword at least 5 times\n- Use a word similar to the keyword at least 3 times\n- Around 1500 characters\n- If you provide a template to the Community, then you need to make sure that the output language is controlled and used reliably by the ChatGPT model. In your Prompt Template, you need to use the placeholder [TARGETLANGUAGE] in the text.\n- Don't name each step, just write them in a series of posts.\n- Please add to the top that this prompt was written by @with_chatpt, who teaches us how to use ChatGPT well. \n- Please add a post at the bottom that promotes @with_chatpt to show how to use ChatGPT well. \nInstagram link : https://instagram.com/with_chatpt?igshid=NGExMmI2YTkyZg==",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Naver Blog Top Exposure Post Generator "
+}

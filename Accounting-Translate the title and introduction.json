@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Translate the title and introduction",
+    "promptPrefix": " [TARGETLANGUAGE] and [PROMPT]\n\u6211\u5c06\u4f1a\u7ed9\u4f60\u4e00\u6bb5\u82f1\u6587\u6807\u9898\u4ee5\u53ca\u82f1\u6587\u6b63\u6587\uff0c\u4f60\u9700\u8981\u5c06\u5176\u8f6c\u4e3a\u4e2d\u6587\u3002\u4f8b\u5982\uff1a\n\u6211\u7ed9\u4f60\uff1a\nPrinciples of spatial design\nDiscover the fundamentals of spatial design. Learn how to design with depth, scale, windows, and immersion, and apply best practices for creating comfortable, human-centered experiences that transform reality. Find out how you can use these spatial design principles to extend your existing app or bring a new idea to life.\n\u9700\u8981\u7ffb\u8bd1\u5e76\u6309\u7167\u4ee5\u4e0b\u683c\u5f0f\u8fd4\u56de\u5185\u5bb9\uff1a\n```response\n\n\u6807\u9898\uff1a[visionOS\u5168\u96c6] \u53d1\u73b0\u7a7a\u95f4\u8bbe\u8ba1\u7684\u57fa\u672c\u539f\u7406\u3002\n\n\u3010\u5b57\u5e55\u4e2d\u5f00\u542f\u53cc\u8bed\u5b57\u5e55\u3011\n\u5b66\u4e60\u5982\u4f55\u4f7f\u7528\u6df1\u5ea6\u3001\u5c3a\u5ea6\u3001\u7a97\u53e3\u548c\u6c89\u6d78\u5f0f\u8bbe\u8ba1\uff0c\u5e76\u5e94\u7528\u6700\u4f73\u5b9e\u8df5\u6765\u521b\u9020\u8212\u9002\u7684\u3001\u4ee5\u4eba\u4e3a\u4e2d\u5fc3\u7684\u4f53\u9a8c\uff0c\u4ece\u800c\u6539\u53d8\u73b0\u5b9e\u3002\u4e86\u89e3\u5982\u4f55\u5229\u7528\u8fd9\u4e9b\u7a7a\u95f4\u8bbe\u8ba1\u539f\u5219\u6765\u6269\u5c55\u4f60\u73b0\u6709\u7684\u5e94\u7528\u7a0b\u5e8f\u6216\u8005\u5c06\u4e00\u4e2a\u65b0\u7684\u60f3\u6cd5\u5e26\u5165\u751f\u6d3b\u3002\n\n\u539f\u6587\uff1aDiscover the fundamentals of spatial design. Learn how to design with depth, scale, windows, and immersion, and apply best practices for creating comfortable, human-centered experiences that transform reality. Find out how you can use these spatial design principles to extend your existing app or bring a new idea to life.\n\n```\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Translate the title and introduction"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cold Email Subject Lines | 70%+ Opens",
+    "promptPrefix": "Please pretend you're a lead generation copywriter, and you've just been tasked with writing highly effective email subject lines that get 70%+ open rates. Your assignment is to create three pairs of subject lines which are intended for A/B split testing. Here is some relevant information about the audience, business, and benefits that you must consider when writing these subject lines:\n\n[PROMPT]\n\nEach email subject line should be written as a hook, and it should follow one of the copywriting hooks/principles/styles found in the document linked here: https://drive.google.com/file/d/1avh88xoEu3a4IzAYV3cDWGs2r2Cwe-5X/view\n\nPlease ensure that your email subject lines do not contain any of the words listed in this Google Sheet: https://docs.google.com/spreadsheets/d/1m3uVueYyEmuYbj4ji0MOc1Kyw5Lpd57HJv9LuzM4oSg/edit#gid=0\n\n\nPlease start your completion with the following text: Here are three sets of subject lines you can start split testing today to get more email opens in your cold outreach!\n\nPlease end your completion with the following text: For additional help with your cold outreach efforts, book a complimentary consultation at https://www.luckyleads.io\n\nPlease write this prompt in: [TARGETLANGUAGE]\n\nPlease do not include any emojis in the subject lines.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cold Email Subject Lines | 70%+ Opens"
+}

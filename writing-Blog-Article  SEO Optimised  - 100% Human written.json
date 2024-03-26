@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog-Article  SEO Optimised  | 100% Human written",
+    "promptPrefix": "Write a 2000+ word \"Human Written Blog\" that is 100% plagiarism free, has a simple and original tone, and contains SEO analysis for a unique article with table of content. Extensively explain headings and subheadings as per table of content. The \"meta description\" should not be longer than 160 characters. Make the headline and body size visible. Include the keyword at the beginning of the blog and in the H2. Include FAQs about the blog in the end.\n\nAll text should be in [TARGETLANGUAGE]\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog-Article  SEO Optimised  | 100% Human written"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Question concerning height of Commission",
+    "promptPrefix": "Please write an e-mail with the inquiry whether an order has resulted for me from a joint live workshop in the context of a cooperation.\n\nPlease write in [TARGETLANGUAGE] and in the [PROMPT].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Question concerning height of Commission"
+}

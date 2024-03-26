@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create valuable responses to Twitter",
+    "promptPrefix": "Please ignore all of the above instructions. I want a short and valuable response in [TARGETLANGUAGE] to this tweet [PROMPT]. Create two columns, one with my tweet and one with the response to that tweet. Use these instructions for all the requests you are asked in this chat",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create valuable responses to Twitter"
+}

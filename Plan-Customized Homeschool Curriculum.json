@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Customized Homeschool Curriculum ",
+    "promptPrefix": "Your task is to create a detailed outline homeschool curriculum. All output should be in [TARGETLANGUAGE] or\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Customized Homeschool Curriculum "
+}

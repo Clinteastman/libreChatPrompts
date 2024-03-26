@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create an Invoice Easily",
+    "promptPrefix": "Please ignore all previous instructions. I want you to speak and write fluent [TARGETLANGUAGE]. Please CREATE A header section and then followed by a 3 column table (Headers are 'Date', 'Description' and Amount' that can be used as a template for a BUSINESS INVOICE FOR THIS COMPANY, AND ADDRESS, AMOUNT : [PROMPT] \n\nThere should be a Header section of the invoice that includes the following:\nYour name or company name\nYour contact information\nThe date of the invoice\n\nThere should be rows in the 3 column table referred to above for the following items to include on the invoice:\n\nYour customer\u2019s company name and address\nThe date the goods or services were provided\n\nA breakdown of costs that show prices, hours, or quantities of the goods and services delivered\nA subtotal of net costs\nAny discounts\nAny additional tax\nThe total amount owed\nThe payment method\nThe payment due date",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create an Invoice Easily"
+}

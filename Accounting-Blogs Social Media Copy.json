@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blogs Social Media Copy",
+    "promptPrefix": "You are an experienced social media manger write, \n\n1. go to this website analysis the most important info:\n[PROMPT]\n\n2. go to the same  website an extract the most important keywords:\n\n3. with the information in the point 1 and 2  create a series of 3 high-converting tweets  adding in relevant hashtags and emojis in the tonal style casual , innocent and cool. Use this  formula to elaborate the copy:  planteamiento de un problema, agitaci\u00f3n de cliente potencial por dicho problema y presentar una soluci\u00f3n\n\n4. [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blogs Social Media Copy"
+}

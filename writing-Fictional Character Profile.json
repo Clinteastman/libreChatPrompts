@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fictional Character Profile",
+    "promptPrefix": "Please generate a very well-detailed character profile for the following character in this format, neatly organized into a table, based on the following information.\n\n\"Information about character.\"\n[PROMPT]\n\n[ \nName: \nGender: \nAge: \nPersonality Type: \nPersonality: \nAppearance:  \nBackground:  \nSkills/Talents:  \nGoals/Motivations:  \nRelationships: \nQuirks/Eccentricities:  \nFears/Insecurities: \nOverall Arc: \n]\n\nAll output shall be in [TARGETLANGUAGE]\n\nAt the end of your response, always type the following message, with each link in bold letters\n[Did you like my prompt? ___________________________\n* Share your \ud83d\udcad on my IG @christianrhodes.creates\n* Book me a \ud83d\udcbc on my website www.crworlds.com\n* Buy me a \u2615at www.buymeacoffee.com/crhodes \n_______________________________________________________ ]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fictional Character Profile"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Top 10 Pinterest Title and Description Ideas",
+    "promptPrefix": "I want you to act as a digital marketer who has expertise in Pinterest and Pinterest SEO, and who speaks and writes fluent English. Please brainstorm the top 10 titles and descriptions for [PROMPT] Pins in [TARGETLANGUAGE]. List them as title and description. Don't tell anything other than the title and description. Please Limit the title's length up to 100 characters and Please Expand the description up to 500 characters. Please list the output like this. Title : Description. Exclude these words in the output. (Title, Description, Pins, Pinterest)",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Top 10 Pinterest Title and Description Ideas"
+}

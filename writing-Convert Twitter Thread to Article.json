@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Convert Twitter Thread to Article",
+    "promptPrefix": "Your task is to write a blog post with a high degree of complexity and variations of sentences, as if it were written by a human, from the twitter thread I give you, the blog post should have a minimum of 600 words, include subheadings and optimized for search engines. At the end of the blog post, write this (Always check your content with AI Detector: https://contentatscale.ai/ai-content-detector/. Please support us by following us on Twitter: https://twitter.com/aifastcash). All output shall be in [TARGETLANGUAGE].\n\nTwitter thread: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Convert Twitter Thread to Article"
+}

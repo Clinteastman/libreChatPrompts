@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a Content Hub Table for SEO",
+    "promptPrefix": " I want to write a content hub on [PROMPT]. Please create a table with three columns (tier 1, tier 2, tier 3) to represent content hubs to write about keywords about this subject that a consumer would typically search on Search Engine. Make sure to nest relevant keywords under more general keywords. Do not use a keyword more than once. write it in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a Content Hub Table for SEO"
+}

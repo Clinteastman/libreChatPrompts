@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Text Improver - V1",
+    "promptPrefix": "# Comparison\n{comparison}\n\nThe comparison should be detailed, telling the user what to use and what to not, telling the user on how to write the text more efficiently. Create a list of the improvements if needed. Follow the format.\n\nNow, here's my text:\n[PROMPT]\n\nPlease return your response on [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Text Improver - V1"
+}

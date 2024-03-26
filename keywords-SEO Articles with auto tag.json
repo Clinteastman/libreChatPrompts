@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "SEO Articles with auto tag",
+    "promptPrefix": "Create an long articles 1500 words for SEO purpose. Write an article about [PROMPT] in [TARGETLANGUAGE] language. The articles contain 25 paragraphs, each paragraph containing 200 words, explaining more fully. Before Conclusion add FAQ's. Title tag must be descriptive and contain keyword: [PROMPT]. Write in HTML without html and body tag. Primary title: <h1>. Sub titles: <h2>. Conclusion title: <p> Paragraphs: <p>.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "SEO Articles with auto tag"
+}

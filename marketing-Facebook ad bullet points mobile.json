@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook ad bullet points mobile",
+    "promptPrefix": "write 10 point max. 35 character use emoji in front same context about create online course digital product passive income\n\n[TARGETLANGUAGE] english\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook ad bullet points mobile"
+}

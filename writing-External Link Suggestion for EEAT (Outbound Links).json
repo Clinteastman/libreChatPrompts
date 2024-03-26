@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "External Link Suggestion for EEAT (Outbound Links)",
+    "promptPrefix": "Act as an SEO specialist who is trying to increase the EAT of its content. Based on the following content, what would be the most authoritativeness and trustworthy URL/web page I should link to? Please list a list of circa 5 URLs. All \n the output must be in [TARGETLANGUAGE].\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "External Link Suggestion for EEAT (Outbound Links)"
+}

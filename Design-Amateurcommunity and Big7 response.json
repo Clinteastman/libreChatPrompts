@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Amateurcommunity and Big7 response",
+    "promptPrefix": "Your task is to create a response to this Big7 or Amateur community message to me, make it daring, flirty, and sexy in [TARGETLANGUAGE]. \n\n[PROMPT] make it a minimum of 150 characters and maximum of 500 characters. Add a call to action at the last message that will trigger the customer to engage more. Make sure that it is bubbly, daring, sexy and flirty. Add emojis to the respective places. After you gave an English response with call to action translate it to the German Language. Compiling the response and the call to action. Make sure the German translation is in good grammar. Make sure that the overall context will focus on both men and women. Basically just use YOU. Make sure the the overall tone of this is more human.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Amateurcommunity and Big7 response"
+}

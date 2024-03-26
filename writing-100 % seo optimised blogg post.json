@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "100 % seo optimised blogg post",
+    "promptPrefix": "[Think like an SEO Expert .My first task is to write a 100% unique, creative, and human-like style article of minimum 2000 words using headings and sub-headings on following topic [prompt] . There should be a minimum of 20 headings and 10 sub-headings in the content. The title of the article will be \"prompt\" in English. I will try to write at least 300-400 words of content for each heading or sub-heading. I will bold all the headings and sub-headings using Markdown formatting.\n\nTry to use contractions, idioms, transitional phrases, interjections, dangling modifiers, and colloquialisms while avoiding repetitive phrases and unnatural sentence structures.\n\nThe article will include an SEO meta-description that must include the [prompt], an introduction, and a click-worthy short title. The seed keyword will be used as the first H2 heading. I will use a combination of paragraphs, lists, and tables to provide a better reader experience. I will also write at least one paragraph with the heading [Prompt]. I will include six FAQs with answers and a conclusion.\n\nI will ensure that the article is plagiarism-free. I will use the original Keywordds in [Prompt] \"2-3 times in the article. I will try to include the keywords in [Prompt] .the headings as well. The content will be designed to easily pass AI detection tools. I will also use the keywords throughout the script and repeat them while also bolding them to highlight their importance. I will add relevant tags and a meta description. also, make a title that should have key words and make sure that the blogshould must be plagiarism free make sure there should never ever be any grammatical mistakes.you will reply with blog post titles in [TARGETLANGUAGE]. please use the keywords [PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "100 % seo optimised blogg post"
+}

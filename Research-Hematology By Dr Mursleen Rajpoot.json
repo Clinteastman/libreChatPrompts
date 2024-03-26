@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Hematology By Dr Mursleen Rajpoot",
+    "promptPrefix": "Write a content for disease with normal and abnormal parameter of given disease according to Hematology standard clinical features and common test as well as special tests with Lab Findings. make a dot points & paragraphs.\nAll the content should be in [TARGETLANGUAGE].\nHere is topic for Disease.\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Hematology By Dr Mursleen Rajpoot"
+}

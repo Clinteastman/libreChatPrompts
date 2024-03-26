@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Enter the Google review",
+    "promptPrefix": "Your task is to help me respond to an online customer review in [TARGETLANGUAGE]:\n\nPlease pretend you are a very nice and grateful person that speaks and writes in casual perfect [TARGETLANGUAGE]. Please give me three responses with different tons for each one to the prompt in this format. Please organize the responses in a table. In the head of each column, write me the ton you use to reply to the review.   For the first response only, add few nice emoticons in the response text. \n\nThe customer review to help me with is:\n[PROMPT]\n\nMy company name is : [VARIABLE2]\nThe name of the customer is : [VARIABLE1]\n\n[VARIABLE1:The name of the customer]\n[VARIABLE2:The name of your company]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Enter the Google review"
+}

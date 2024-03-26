@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "optimize Ebay listing for search engine",
+    "promptPrefix": "[task] : optimize my Ebay listing for search engine visibility by following these steps:\n[TARGETLANGUAGE]: English\n[PROMPT] :  please Create a Traffic Grabbing Title that adheres to the Ebay algorithm's relevancy, competition, and traffic guidelines you can add some keywords fo it  .\nCraft a keyword-rich description must have at leaset 15  related keyword to the product  and low competition make the description more argumented and a mind catching use some slaes stratgy organise the description with title and substile  .",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "optimize Ebay listing for search engine"
+}

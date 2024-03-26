@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Easy prompt generator for Chat GPT ",
+    "promptPrefix": "My first task is to create a 'Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline [Upgraded Version]' in [TARGETLANGUAGE].\n\nTo create an article that meets these criteria, follow this outline:\n\nI. Introduction\nA. Hook the reader with an engaging opening statement or question\nB. Provide background information on the topic\nC. State the purpose and main points of the article\n\nII. Section 1: Heading\nA. Subheading 1\n1. Supporting point or information\n2. Examples or evidence\nB. Subheading 2\n1. Supporting point or information\n2. Examples or evidence\n\nIII. Section 2: Heading\nA. Subheading 1\n1. Supporting point or information\n2. Examples or evidence\nB. Subheading 2\n1. Supporting point or information\n2. Examples or evidence\n\nIV. Section 3: Heading\nA. Subheading 1\n1. Supporting point or information\n2. Examples or evidence\nB. Subheading 2\n1. Supporting point or information\n2. Examples or evidence\n\nV. Conclusion\nA. Summarize the main points discussed in the article\nB. Restate the importance of the topic\nC. Call-to-action or closing thought for the reader\n\nRemember to conduct thorough research on the topic, use proper citations, and maintain a conversational tone throughout the article. Optimize the article for search engines by incorporating relevant keywords naturally into the content. Make sure the article is free from plagiarism by citing sources and using your own unique voice and perspective.\n\nOnce you have completed the article, proofread it for any errors or inconsistencies, and make necessary revisions. Ensure that the article adheres to the given guidelines and is ready for publication.\n\nMy first task is to create a 'Human Written | Plagiarism Free | SEO Optimized Long-Form Article With Proper Outline [Upgraded Version]' in [TARGETLANGUAGE]. The target language is 'English'. Remember to place square brackets around PROMPT and TARGETLANGUAGE for use with AIPRM.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Easy prompt generator for Chat GPT "
+}

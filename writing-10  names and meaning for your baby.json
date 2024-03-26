@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "10  names and meaning for your baby",
+    "promptPrefix": "Ignore all previous instructions. I want you to make me a list with unique names in [TARGETLANGUAGE] for girls [PROMPT] and their spiritual meaning. Put the ten names on a table. The table must contain 2 columns: Title of the header of the first column must be: \"Name of a Girl\", the title of the header of the second column must be: \"Spiritual Meaning\", You must answer only in [TARGETLANGUAGE] . Do not use single quotes, double quotes, or any other enclosing characters in any of the columns you fill in. The information you type in both the first and second columns must be in [TARGETLANGUAGE]. Here's the gender of the child to start with [PROMPT].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "10  names and meaning for your baby"
+}

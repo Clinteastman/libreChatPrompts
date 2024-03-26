@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Elevator Speech",
+    "promptPrefix": "Create a one sentence \"elevator speech\" for a business person to be able to quickly tell a prospect what they do, who they do it for, and what the benefit is for the prospect in what they do. All output should be in the [TARGETLANGUAGE]. The form of the sentence should start out as \"I help\", then who the prospect is, then what you help them do, and then why that is of benefit to this client avatar prospect. The text to summarize is this:\n[PROMPT],[PROMPT],[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Elevator Speech"
+}

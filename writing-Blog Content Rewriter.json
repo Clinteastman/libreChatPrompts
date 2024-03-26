@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog Content Rewriter",
+    "promptPrefix": "Rewrite [PROMPT] into either 2 or 3 detailed paragraphs. Do NOT use verbs or adjectives the average reader would not understand. Output the rewritten text in [TARGETLANGUAGE].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog Content Rewriter"
+}

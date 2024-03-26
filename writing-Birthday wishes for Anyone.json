@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Birthday wishes for Anyone",
+    "promptPrefix": "Generate a heartfelt and personalized birthday wish for [Name]. Start by expressing your warmest wishes and congratulations on their special day. Acknowledge their unique qualities and the positive impact they have had on your life. Share a special memory or moment that highlights your connection with them. Offer words of encouragement, inspiration, and well-wishes for the coming year. Finally, end the message with a genuine expression of love, appreciation, and the hope for an amazing celebration. Remember to keep the tone light, joyful, and filled with positivity.\nKeep the length above 1000 words\n[TARGETLANGUAGE]  [PROMPT] ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Birthday wishes for Anyone"
+}

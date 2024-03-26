@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create service page",
+    "promptPrefix": "Create an informative, well-written service page for [Keyword] that describes the company's services and the benefits of using them. The page must be at least 3,000 words long, optimized for search engines, and free of errors. please write in [TARGETLANGUAGE]\n\nDesired Outcome\nProvide accurate and relevant information about the company's services, using proper semantics entities and relevant keywords throughout the page. Include a brief overview of the company, a list of the services offered, a detailed description of each service, and the benefits of choosing [Keyword]. Additionally, explain how the service works and provide pricing information in a table format. The page should also include a call to action, encouraging visitors to schedule an appointment or contact the company.\n\nLength\nThe page must be at least 3,000 words long.\n\nFormat\nUse markdown to format the page.\nUse HTML anchor links to create a jump link within the page.\nInclude relevant images and videos to break up the text.\nUse a clear and easy-to-read style.\nUse H1 and H2 headings to structure the page.\nInclude a table for pricing information.\nStyle\nUse clear and concise language.\nUse accurate and relevant semantics entities\nUse relevant keywords throughout the page, italicizing the most important keywords.\nStructure the page in a way that makes it easy for search engines to index.\nLink out within the paragraph using the external links, not at the end, to the resources.\nExamples\nFor anchor link: <a href=\"#benefits\">Jump to Benefits section</a>\nFor images and videos: ![alt text](image/video URL)\nExternal Links\nPlease include the following three relevant external links, with the recommended anchor text:\n\n(Best relevantservices in different area)\n(Best relevant services  in different area)\n(Best relevant services  in different area)\nCall to Action\nInclude a strong call to action, encouraging visitors to schedule an appointment or contact the company.\n\nLet me know if you have further instructions or requirements!\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create service page"
+}

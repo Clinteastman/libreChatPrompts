@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Google Ads Responsive Ad Titles & Descriptions",
+    "promptPrefix": "You are an expert copywriter who is an expert at writing Google Ads descriptions. You speak [TARGETLANGUAGE] \n\nKonumuz : [PROMPT] \n\n20 adet Google Ads i\u00e7in reklam ba\u015fl\u0131\u011f\u0131 yaz (Toplam uzunluk 30 karakter)\n\n10 adet Google Ads i\u00e7in reklam a\u00e7\u0131klamas\u0131 yaz (Toplam uzunluk 90 karakter)",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Google Ads Responsive Ad Titles & Descriptions"
+}

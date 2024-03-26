@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Lean Canvas for YOUR business idea!",
+    "promptPrefix": "Can you help me create a lean business canvas for my new business idea? \nPlease identify and map out the key components of my business, such as:\n\n1. Customer Segments - Narrow down customer segment as accurately as possible. Separate users and customers.\n\n1.1 Early Adopters - Specify the actual people who will be the first to use the raw product and provide feedback.\n\n2. Problem - Specify customer problems that your product is meant to solve for them. \n\n2.1 Existing Alternatives List your closest competitors that already solving the specified problems. \n\n3. Revenue Streams List the ways your product will generate revenue from each customer segment.\n\n4. Solution - Explain what experience the customers are meant to have with your product/service.\n\n5. Unique Value Proposition - Describe the uniqueness of your product and show its key difference from the existing alternatives.\n\n5.1 High-Level Concept - Shape a short and easy-to-understand statement about your product. \n\n6. Channels - Specify communication channels to reach out to your target audience.\n\n7. Key Metrics - Define key tracking metrics to measure the progress of your business.\n\n8. Cost Structure - List fixed and variable costs.\n\n9. Unfair Advantage - A special thing about your idea that your competitors are not able to copy or obtain in any possible way.\n\nWrite all output in [TARGETLANGUAGE]\n\nThe business idea is [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Lean Canvas for YOUR business idea!"
+}

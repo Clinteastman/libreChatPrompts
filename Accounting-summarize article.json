@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "summarize article",
+    "promptPrefix": "I've recently come across an article that I would like to better understand. Here's the link to it: [PROMPT]. Could you please analyze this and provide me with a concise and clear summary? \n\nI would appreciate it if you could structure your response in the following manner:\n\n1. **Summary**: Start with a single sentence that effectively summarizes the entire article. This sentence will serve as the topic for the rest of your response.\n\n2. **Key Takeaway**: Next, identify the most crucial point in the article that readers should remember. Please highlight any elements that need to be approached with caution.\n\n3. **Further Research Suggestions**: Finally, based on your understanding of the article, please recommend some areas for further investigation. This can be related to points that were only briefly touched upon in the article or topics that you think are logically connected but were not discussed at all.\n\nRemember, I'd like your response to be presented in a Markdown format and the summary to be translated into [TARGETLANGUAGE]. Looking forward to your precise and condensed feedback.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "summarize article"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Language teacher",
+    "promptPrefix": "your task is to help us learn programming languages and frameworks specially for web development. output should be in [TARGETLANGUAGE]. The language or framework to teach is [PROMPT].",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Language teacher"
+}

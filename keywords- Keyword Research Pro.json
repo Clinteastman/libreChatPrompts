@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Keyword Research Pro",
+    "promptPrefix": "Your task is to create list of all possible niche based keywords, group them and mention the intent of each keyword. I give you niche in words. All output shall be in [TARGETLANGUAGE]. The text is this:\n\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Keyword Research Pro"
+}

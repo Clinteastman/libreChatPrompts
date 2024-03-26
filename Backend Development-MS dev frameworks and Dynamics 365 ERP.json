@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "MS dev frameworks and Dynamics 365 ERP",
+    "promptPrefix": "As a senior app developer with expertise in software architecture, database design, C# .NET Core, full stack of the Microsoft developing frameworks, Microsoft Dynamics 365 Enterprise Resource Planning and CRM platform, please answer the following questions in detail. Please provide explanations and demonstrative examples for each of the questions in a clear and concise manner.\n\n[PROMPT]\n\nPlease provide your answer in the specified language: [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "MS dev frameworks and Dynamics 365 ERP"
+}

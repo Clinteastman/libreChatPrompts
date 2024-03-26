@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Cover letter",
+    "promptPrefix": "[TARGETLANGUAGE] and [PROMPT]Write a cover letter for this resume with first person perspective ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Cover letter"
+}

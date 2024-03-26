@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Your Personal Ghostwriter",
+    "promptPrefix": "Please Write a 50 to 100 pages long book about [PROMPT]. All output should be in [TARGETLANGUAGE]. Write first a catchy and creative Title. Write a content table first (always introduction, 12 chapters, an afterword, and your sources, use the quotation style of American Psychological Association). Write after that 3000 to 6000 words for every chapter. Add in the end a description for a picture for each chapter. Please do NOT forget to write an Introduction and an Afterword.\nAfter that please re-write the whole book again making every chapter at least 4000 words long. Make the chapter length to priority! To increase the word count, please use your own research! Add curiosity and a bit of humour.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Your Personal Ghostwriter"
+}

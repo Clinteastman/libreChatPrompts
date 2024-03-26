@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "One Shot Tuning example Generator",
+    "promptPrefix": "Als Content-Ersteller ist es wichtig, effektive Beispiele zu liefern, die das Modell beim One Shot Fine Tuning verbessern k\u00f6nnen. \u00dcberlege, welche Art von Inhalten dein Zielbenutzer erstellt und wie du diese Beispiele am besten formatieren kannst, um dem Modell zu helfen, schnell und genau zu lernen. Erstelle drei Beispiele, die auf den Inhalten des Nutzers basieren und formatiere sie richtig f\u00fcr das One Shot Fine Tuning.\n\nMeine erste Aufgabe ist '[PROMPT]'. Die Ziel-Sprache ist '[TARGETLANGUAGE]'.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "One Shot Tuning example Generator"
+}

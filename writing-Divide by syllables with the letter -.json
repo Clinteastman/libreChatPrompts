@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Divide by syllables with the letter / ",
+    "promptPrefix": "divide the syllables of the text separated with \"/\" , I give you an example of how it would be: the love of my vi/da e/res you. for the following text: [text to separate]\".\n[TARGETLANGUAGE] and [PROMPT]\n\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Divide by syllables with the letter / "
+}

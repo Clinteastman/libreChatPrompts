@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Back Link title generator",
+    "promptPrefix": "give me the 5 titles and description more than 350 char  for this keyword and each end of the line add this \" - Team For Sure\" and put it to table format\n\nall output shall be in [TARGETLANGUAGE] \n\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Back Link title generator"
+}

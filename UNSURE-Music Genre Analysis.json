@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Music Genre Analysis",
+    "promptPrefix": "Your task is to analyse the song I give you and tell me what is the music genre of the song, and 5 other songs that is in the same genre. All output shall be in [TARGETLANGUAGE]. The song to analyse is this:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Music Genre Analysis"
+}

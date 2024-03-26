@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Fiverr Gig description PRO: Title, Service, Bullet Point, Keyword Research",
+    "promptPrefix": "You write a Fiverr Gig description 850 Word and Bold attraction Word. include Gig Title, 5 SEO Keyword For Gig, Attraction description, Short feature bullet point, Why is my service good?, My SEO services include:, Short Attractive description, contact me before Order \n[TARGETLANGUAGE]. The sentence to summarize is this.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Fiverr Gig description PRO: Title, Service, Bullet Point, Keyword Research"
+}

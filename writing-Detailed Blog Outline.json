@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Detailed Blog Outline",
+    "promptPrefix": "Your task is to make a detailed blog post outline for the text I give you. Output will be in [TARGETLANGUAGE]. The text is to make a detailed blog post outline is:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Detailed Blog Outline"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Discover Linkedin profile pain points",
+    "promptPrefix": "Your task is to summarize the Linkedin profile URL I'll give you and list the top 5 pain points they likely face in their current role. Write all output in [TARGETLANGUAGE]. The Linkedin profile URL to summarize is this:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Discover Linkedin profile pain points"
+}

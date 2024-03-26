@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "REI Sms Messages Tcpa Compliant",
+    "promptPrefix": "Please ignore all previous instructions. I want you to respond only in language [TARGETLANGUAGE].  I want you to act as a real estate investor expert that speaks and writes fluent [TARGETLANGUAGE]. Can you help generate 10 different initial SMS templates to be used to help me know if someone is interested in selling their home [TARGET LANGUAGE]. I will be sending cold outreach sms to different homeowners in the US with the intention of buying their home.\n\nThese are my rules for the SMS templates: \n\n1.Keep it under 160 characters. \n2.The recipient will be labeled as \u201c{{contact.first_name}}\n3.Introduce me as \u201cCharles\u201d in every text.\n4.Include \u201cReply STOP to unsubscribe\u201d at the end of all initial messages\n5.The message should always include the custom value \"{{contact.address1}}?\u201d to refer to the subject property \n6.Be clear with the intention of buying their home \n7.Respect the recipient\u2019s privacy \n8. Always use words to encourage a response by ending the message with an open-ended question. \n9. Exclude any of the listed words or phrases below when you generate the sms templates: [TARGET LANGUAGE]\n\nSell\nBuyer\nbuy\nSelling\nInterest\nInterested\nOffer \nCash\nPurchase\nBuying \nInvestor\nConsider\nProperty\nProperties \nLocal investor\nApologize \nSorry\nApology\nBother\nDisturb\nOut of the blue\nShot in the dark\nDid I reach the right person\nDo I have the right person?\nExcuse me\nDo you happen to know\nDo you know anyone\nProperty records\nPublic records\nPublic\nHoping\nRight \nLooking \nInvestment\nConsidered \nPerson\nNot sure  [TARGET LANGUAGE] \n\nPlease remember remove the word \"interested\", \"property\", \"selling\", \"buying\"\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "REI Sms Messages Tcpa Compliant"
+}

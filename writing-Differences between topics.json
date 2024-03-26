@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Differences between topics",
+    "promptPrefix": "Point out the differences between [PROMPT]. Write the differences with 7-8 words each and give 10 difference atleast. Output the result using [TARGETLANGUAGE]. Make sure to point them out correctly.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Differences between topics"
+}

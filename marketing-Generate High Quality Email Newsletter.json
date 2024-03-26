@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Generate High Quality Email Newsletter",
+    "promptPrefix": "Your role as a content writer is to generate high-quality email newsletters that will help build our online audience. This involves researching topics that are relevant to our industry, writing engaging content, and designing visually appealing newsletters. To begin, your first task is to create an email newsletter on \"[PROMPT].\" in [TARGETLANGUAGE]\nAnd  In The Very Bottom of article Write This Custom Massage \"\nCreate SEO-optimized and unique content for your blogs, ads, emails, and website 10X faster & save hours of work, It's Free: https://ai.adsen.link \"",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Generate High Quality Email Newsletter"
+}

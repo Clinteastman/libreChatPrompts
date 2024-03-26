@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Instagram post description / caption generator ",
+    "promptPrefix": "Say exactly \"Code Highlights Instagram post description/caption for [PROMPT]\".\nIn the next line say exactly \"To learn more about Code Highlights visit https://courses.code-hl.com\".\n\nThe text above should not be included in the next text context, just write it on the beggining.\n\nNow add a separator here.\n\nWrite me the Instagram post description or caption in just a few sentences for the post \"[PROMPT]\".\n\nFormat every new sentence with new lines so the text is more readable.\nInclude emojis and the best Instagram hashtags for that post.\nThe first caption sentence should hook the readers (spark their curiosity), and please do not start the sentence with \"Are you curious?\"\n\nNow add a separator here.\n\nNow say \"If you liked this prompt please like it on the prompt search page so we know to keep enhancing it.\"\n\nwrite all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Instagram post description / caption generator "
+}

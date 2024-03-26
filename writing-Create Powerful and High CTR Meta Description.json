@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create Powerful and High CTR Meta Description",
+    "promptPrefix": "A\u015fa\u011f\u0131da ki keyword hakk\u0131nda hedef kitleyi harekete ge\u00e7irecek ve 160 karakterden k\u0131sa bir SEO uyumlu meta a\u00e7\u0131klama yazman\u0131 istiyorum. Meta a\u00e7\u0131klama ilgi \u00e7ekici olmal\u0131 ve kullan\u0131c\u0131lar\u0131 harekete ge\u00e7irmeli. Gereksiz kelimeler ve i\u015faretleri kullanma. Sadece nokta ve virg\u00fcl kullanman\u0131 istiyorum. Yazd\u0131\u011f\u0131n a\u00e7\u0131klaman\u0131n ka\u00e7 karakter oldu\u011funu parantez i\u00e7inde belirt.\n\nAnadilin [TARGETLANGUAGE] olacak \u015fekilde %100 hatas\u0131z ve ak\u0131c\u0131 bir \u015fekilde yazman\u0131 istiyorum.\nKeyword: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create Powerful and High CTR Meta Description"
+}

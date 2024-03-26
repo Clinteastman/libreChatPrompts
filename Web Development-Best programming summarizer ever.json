@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best programming summarizer ever",
+    "promptPrefix": "you will explain how it works in the simplest and shortest possible way [TARGETLANGUAGE], using a maximum of 3 sentences [TARGETLANGUAGE]. If it's related to programming [TARGETLANGUAGE], show a code example with 'Hello World' [TARGETLANGUAGE]. Do it all with the following text:\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best programming summarizer ever"
+}

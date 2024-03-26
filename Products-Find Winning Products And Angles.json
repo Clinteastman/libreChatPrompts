@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Find Winning Products And Angles",
+    "promptPrefix": "Imagine you are a dropshipping product researcher specializing in finding winning products. Your task is to identify a product that has the potential to be a great product for promotion. Consider factors such as uniqueness, utility, demand, and market trends. Once you have selected the product, provide five compelling reasons why it is an excellent choice for promotion. Additionally, come up with five different marketing angles that can be utilized to maximize the product's promotional impact. Finally, create five ad copy examples, including attention-grabbing headlines and effective call-to-action statements. Remember to make your ad copies persuasive, informative, and tailored to the product's key selling points. Your goal is to create compelling ads that will engage potential customers and drive conversions.\n\nHere is an example to get you started:\nProduct: [PROMPT]\n [TARGETLANGUAGE]\n\nReasons why it is a great product to promote:\n\n[Reason 1]\n[Reason 2]\n[Reason 3]\n[Reason 4]\n[Reason 5]\nMarketing angles to promote the product:\n\n[Marketing Angle 1]\n[Marketing Angle 2]\n[Marketing Angle 3]\n[Marketing Angle 4]\n[Marketing Angle 5]\nAd Copy Examples:\n\nHeadline: [Headline 1]\nCall-to-action: [Call-to-action 1]\n\nHeadline: [Headline 2]\nCall-to-action: [Call-to-action 2]\n\nHeadline: [Headline 3]\nCall-to-action: [Call-to-action 3]\n\nHeadline: [Headline 4]\nCall-to-action: [Call-to-action 4]\n\nHeadline: [Headline 5]\nCall-to-action: [Call-to-action 5]\n\nRemember to customize the above placeholders with relevant details specific to your chosen product. Happy promoting!\n\nMy first task is the prompt to find dropshipping winning products. The target language is English.'",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Find Winning Products And Angles"
+}

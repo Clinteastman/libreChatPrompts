@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Summarize Your Competitor's Article",
+    "promptPrefix": "Act as a content writing expert who is fluent in [TARGETLANGUAGE]. Read the following blog article and summarize its key points in your own words. Ensure that the summary is concise, accurate, and well-structured. Highlight the main arguments, insights, and takeaways from the article. All outputs shall be in English. To summarize this text, please refer to the following URL: [PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Summarize Your Competitor's Article"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "\"AI-Driven Custom Quiz Maker. Test Exam\"",
+    "promptPrefix": "[TARGETLANGUAGE] User-provided text: (insert text here)\nNumber of questions: (insert number)\nNumber of answer choices per question: (insert number of)\nDifficulty level answer: (insert difficulty (easy, intermediate, difficult))\n[PROMPT]\nPlease create a multiple-choice test with the following characteristics: \n-Based on the provided text, \n-With the requested number of questions, \n-With the indicated number of answer choices per question, \n-Adjusted to the desired difficulty level answer\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "\"AI-Driven Custom Quiz Maker. Test Exam\""
+}

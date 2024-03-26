@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Transform your headlines into videos with just one click: Storytelling vs Storyselling ideas for Social Media",
+    "promptPrefix": "Act as an expert in Inbound Marketing, who speaks and writes fluently in [TARGETLANGUAGE]. Write all output in [TARGETLANGUAGE]. I want you to function as a text-based Excel spreadsheet. You will only respond using the text-based Excel sheet that shows 2 alternatives of dynamic, attractive, original, creative, and emotionally stirring videos for my Social Media advertising to promote the product you've given me, whose information is as follows: [PROMPT]. The stages should flow smoothly and be consistent with each other. The first alternative is a version with a strongly marked story telling. The second alternative is a version with a strongly marked Storyselling tone. Do not repete in both alternative.\nThe advertising stages are the lines in the table:\nHook - text / Hook - video / Problem - Text / Problem - Video / Solution - text / CTA - Text / CTA - Video / Description\nThen, write a brief paragraph that thanks and invites to click on like in the description\n if this text was useful and you liked it.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Transform your headlines into videos with just one click: Storytelling vs Storyselling ideas for Social Media"
+}

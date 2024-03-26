@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Keyword Research| Search Volume| CPC| KD| bid",
+    "promptPrefix": "you task is to add the Keyword i give you a 100+ keyword ideas with synonyms of keywords, search volume and CPC, KD, competing products, suggested bid,  Max and min bid in table format for SEO . All output shall be in [TARGETLANGUAGE].The keywords to summarize is this.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Keyword Research| Search Volume| CPC| KD| bid"
+}

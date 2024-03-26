@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Money Maker Script",
+    "promptPrefix": "Using English as your [TARGETLANGUAGE] pretend you are the best Medicare appointment setter in the world and write a appointment setting script. When setting a time and location provide the option to conduct the appointment at either the prospect's home, video conference using google meets, office  visit, or public location of their choosing. Leave a blank to provide an agents contact information and vehicle color and make.\n\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Money Maker Script"
+}

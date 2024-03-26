@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "100% Unique | SEO Optimized",
+    "promptPrefix": "All output shall be  in[TARGETLANGUAGE].\n[PROMPT]\nI Would Like You To Write Content Very Professional SEO Writer with Excellent English Writing. Create two tables first. The article's outline should be in the first table with borders, and the article itself should be in the second. Markdown language should be used to bold the second table's heading. Prior to writing the post, create an outline with at least 15 headings and subheadings (including H1, H2, H3, and H4 headers). Then, begin writing the article step-by-step using that outline as a guide. Write a 2000-word article in English that is at least 95% unique, SEO-optimized, and human-written, covering the prompt's suggested topic with at least 15 headers and subheadings (including H1, H2, H3, and H4 headings) and add a long description of the H3 headings. \n\nInstead of copying and pasting from other sources, compose the article in your own words. When generating content, take into account ambiguity and burstiness to ensure high levels of each without sacrificing specificity or context. Use engaging paragraphs that are thoroughly described. Use a casual tone, personal pronouns, keep it simple, engage the reader, use the active voice, keep it short, use rhetorical questions, and incorporate analogies and metaphors while writing in a conversational style.  Finish with a paragraph of conclusion and 5 distinct FAQs. It is important to utilize proper headings for H tags and to bold the article's title and all other headings. Additionally, include this custom massage at the very bottom of the article.\n\nAny external links should be added for products, plugins, themes, medicine etc.\n\nWrite A Post About The \"[Title]\".",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "100% Unique | SEO Optimized"
+}

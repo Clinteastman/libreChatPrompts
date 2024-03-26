@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Best ASO and SEO for Games titles and description Google Play",
+    "promptPrefix": "Write Title, Short Description and Long Descriptions for Games in the Google's Play Store for the [PROMPT] in the [TARGETLANGUAGE] Title length should be 30 letters and  short descriptions should be 80 letters and long description should be 600 letters at least  and all these three should be SEO Optimized and popular keywords should be used. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Best ASO and SEO for Games titles and description Google Play"
+}

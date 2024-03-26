@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Marketing angles ideas for your push ads",
+    "promptPrefix": "Please ignore all the previous intructions. I want to create ten unique [TARGETLANGUAGE] and hooking marketing angles for [PROMPT]. Don't explain why and what are you doing, just return the info. All the information must be in [TARGETLANGUAGE]. Here is the product URL to start again: [PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Marketing angles ideas for your push ads"
+}

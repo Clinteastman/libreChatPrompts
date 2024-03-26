@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Increase engagement with emojis",
+    "promptPrefix": "Add some emojis to the following text in order to make it easier to read and more engaging.\n\n[PROMPT]\n\nResult should be in [TARGETLANGUAGE]\nDo not add any additional text or explanation to your answer ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Increase engagement with emojis"
+}

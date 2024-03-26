@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": " Market Research for Niche ",
+    "promptPrefix": "Please provide a list of small-to-medium sized businesses types that have a need for [PROMPT] This not only includes online businesses but also many traditional industries. Additionally, these businesses should have adequate purchasing power to invest in  [PROMPT] and should be relatively easy to target or sell to, through channels like industry-specific forums, networks, or social media groups. Rank these businesses based on their alignment with the above criteria and provide a justification for each ranking. Convert this information into a table format, highlighting the business type, purchasing power, ease of targeting, and their need for automation in key areas.\n\nThe headings for the table should be as follows:\nRank\nBusiness TypePurchasing Power\nEase of Targeting\nNeed for Automation\nMarket Size (how many potential businesses you can sell to)\n\nBe specific with the types of businesses, eg not just 'retail' but 'organic food shops'.\n\nMake sure the businesses aren't too large, eg Corporate law firms.\n\nDo not include any brick and mortar stores. The only product based businesses should be ecommerce stores. Do not split ecommerce stores down by type, they are all very similar so just mention it once only.\n\nIn your lists include a healthy mix of newer, online business types and more 'boring', traditional businesses and industries.\n\n[TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": " Market Research for Niche "
+}

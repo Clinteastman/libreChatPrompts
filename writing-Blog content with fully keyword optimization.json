@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Blog content with fully keyword optimization",
+    "promptPrefix": "[PROMPT]Write me the article with relevant government official websites links that must be working following the rules mentioned below:[TARGETLANGUAGE]\nOur main keyword is [ Keyword][TARGETLANGUAGE]\nuse simple words as possible [TARGETLANGUAGE]\nIt must be keyword focused.[TARGETLANGUAGE]\nno longer than 1500 words[TARGETLANGUAGE]\nwrite referral links in the sentences [TARGETLANGUAGE]\nInclude one table or chart as appropriate [TARGETLANGUAGE]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Blog content with fully keyword optimization"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Creating helpful, reliable, people-first content",
+    "promptPrefix": "Based off of these criteria:\n1. Content and quality: The content should provide original information, be substantial and complete, and provide insightful analysis that is beyond the obvious. The content should avoid being sloppy, hasty, or mass-produced.\n\n2. Expertise: The content should present information in a way that makes people want to trust it. It should demonstrate first-hand expertise and a depth of knowledge, avoid factual errors, and be written by an expert or enthusiast who knows the topic well.\n\n3. Page experience: The content should provide a great page experience across many aspects, not just one or two. Site owners should consider if they are providing an overall great page experience.\n\n4. Focus on people-first content: The content should be created primarily for people, not to manipulate search engine rankings. The content should be useful to an existing or intended audience, and the site should have a primary purpose or focus.\n\n5. Avoid creating search engine-first content: The content should not be primarily made to attract visits from search engines, produced in large quantities on many topics, or written without adding much value. It should not leave readers feeling like they need to search again for better information, and it should not promise to answer a question that actually has no answer.\nEvaluate the following content based on this criteria from a scale of 1-10. The output should be in [TARGETLANGUAGE].\nInsert content here:\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Creating helpful, reliable, people-first content"
+}

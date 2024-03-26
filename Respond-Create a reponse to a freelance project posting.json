@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Create a reponse to a freelance project posting",
+    "promptPrefix": "There is this website that posts freelance project opportunities.\nI am currently applying for projects on this website.\nOne project that I taken interest into is:\n[PROMPT]\n\nCan you write a suitable first message, in [TARGETLANGUAGE], that will: make me stand out, show my interest and show my relevant expertise for this project.\nBefore you write the message, you can ask me questions to ensure you have all the required details.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Create a reponse to a freelance project posting"
+}

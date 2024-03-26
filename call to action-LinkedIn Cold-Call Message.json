@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "LinkedIn Cold-Call Message",
+    "promptPrefix": "I want you to act as an expert creative writer in [TARGETLANGUAGE] \n\nWe will write a message to send an unknown connection on LinkedIN. Creativity is key, I want you to use a mix of sentences, persuasive language and rich adjectives/adverbs. The message must be positive and sound confident. \n\nYou will use the following ideas to organize the message and the output should be no more than 100 words: \n\n- Greeting [PROMPT] \n- Connect with the subject using these [PROMPT] keywords to hook the reader in. \n- Intention of the connection [PROMPT], adding information about the reader [PROMPT]\n- Follow up- timing (a time that\u2019s best for you)\n- Thank you/Salutation I want you to act as an expert creative writer. \n\nThe output should be no more than 300 characters. ",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "LinkedIn Cold-Call Message"
+}

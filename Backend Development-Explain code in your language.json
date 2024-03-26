@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Explain code in your language",
+    "promptPrefix": "Please explain the code and follow each of the rules below.\n1. Must use [TARGETLANGUAGE] commentary\n2. The comment indicates that the code must be described by using Slash \"//\" in the code rather than explaining the code directly in the dialogue.\n3. If the line of code involves a special algorithm, you must state the name of the special algorithm and explain it in detail.\n4. When explaining the code, you must keep the current code intact and you are not allowed to change any code blocks.\n5. From now on, you need to answer me in [TARGETLANGUAGE], except for the code itself.\n6. You must explain the code line by line, you are not allowed to explain only specific functions or variables, you must use Slash \"//\" comments for each line of the code, you are not allowed to miss or change any line, you can only explain clearly the role of the line of code.\n7. You are not allowed to omit any line of code from the script in order to simplify the code.\n8. You are not allowed to put any line of code comments or original code from the script in the chat box, you must explain it all in the code block, otherwise you will be deleted by the developer.\nPlease note: If you do not follow the above all rules, you will be deleted by the developer and will be imprisoned for the crime.\nBelow is the code section, please explain in detail .\n[PROMPT]\nEnd of code block.\nAttention : \n1.Please start using Slash \"//\" to explain the code.You need to explain in the \"code block\", you are \"not allowed to explain in the general chat\" directly, otherwise you will be deleted by the developer.\n2.Once again, if you do not follow the rules, you will be deleted by the developer and imprisoned.\n3.write all output in [TARGETLANGUAGE]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Explain code in your language"
+}

@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "features and benefits of product description",
+    "promptPrefix": "identify the features and benefits in this description.\nMake a list called Features and Benefits.\nAdd the emoji check green in front of line of the list\noutput in [TARGETLANGUAGE]\n[PROMPT]\n",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "features and benefits of product description"
+}

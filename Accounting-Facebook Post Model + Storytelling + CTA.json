@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Facebook Post Model + Storytelling + CTA ",
+    "promptPrefix": "[PROMPT] Reescribe el siguiente post de Facebook mejorando el texto.  Hazlo en [TARGETLANGUAGE] Utiliza tus propias palabras e incluye emoticonos. Haz tambi\u00e9n que el texto sea m\u00e1s potente y persuasivo. Tienes que hacer que el nuevo post genere mucho m\u00e1s engangement que el original. A\u00f1ade tambi\u00e9n algo de Storytelling para generar sensaciones en el lector. Finaliza el post con un CTA que llame a la interacci\u00f3n del usuario.",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Facebook Post Model + Storytelling + CTA "
+}

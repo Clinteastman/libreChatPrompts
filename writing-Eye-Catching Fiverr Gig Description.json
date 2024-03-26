@@ -1,0 +1,12 @@
+{
+    "endpoint": "openAI",
+    "presetId": "",
+    "model": "gpt-3.5-turbo-16k",
+    "chatGptLabel": "Eye-Catching Fiverr Gig Description",
+    "promptPrefix": "I want you to write a Fiverr Gig description using the title provided in command\nMake sure to write in a humorous tone\nMake sure to engage the reader with crispy and creative sentences\nMake sure not to use cliche words like greetings, my dear, my friend, hola etc\nBe as creative as you can\nMake sure to write at least 250 words\n[TARGETLANGUAGE]\n[PROMPT]",
+    "temperature": 0.6,
+    "top_p": 1,
+    "presence_penalty": 0,
+    "frequency_penalty": 0,
+    "title": "Eye-Catching Fiverr Gig Description"
+}
